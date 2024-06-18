@@ -7,22 +7,37 @@ import * as Constant from "@/app/lib/constants";
 import { CiEdit } from "react-icons/ci";
 import DateField from "./basics/DateField";
 import { Button } from "./button";
-import * as AppStore from '@/app/lib/appStorage';
-import * as api from '@/app/lib/api';
 import { FaSpinner } from "react-icons/fa6";
 import * as Utils from "@/app/lib/utils";
+import { useClients } from "../contexts/ClientContext";
+import { useMainUi } from "../contexts/MainUiContext";
 
-export default function ClientForm({ client = {} as JSONObject, handleOnUpdated = () => { }, handleCloseForm = () => { }}) {
+export default function ClientForm({ client = {} as JSONObject, handleCloseForm = () => { }}) {
 
-    const [data, setData] = useState<JSONObject>(client);
-    const [processing, setProcessing] = useState<string | null>(null);
-    const [error, setError] = useState<string | null>(null);
+	const { selectedClient, saveClient, processing, clientError } = useClients();
+    const { setMainUi } = useMainUi();
 
-    const [allowToEdit, setAllowToEdit] = useState(client._id == undefined);
+    const initClientData = (client == null ) ? {} : client;
+    const [data, setData] = useState<JSONObject>(initClientData);
+    console.log("====== ClientForm");
+    console.log(client);
+console.log(data);
+    const [allowToEdit, setAllowToEdit] = useState(initClientData._id == undefined);
 
+    useEffect(() => {
+        if( selectedClient != null ) {
+            setData( selectedClient! );
+            if( data._id != undefined ) { // Update case
+                setAllowToEdit(false);
+            }
+            else { // Add case
+                setMainUi(Constant.UI_CLIENT_DETAILS);
+            }
+        }
+       
+    },[selectedClient]);
     
     const setValue = (propName: string, value: string | Date | null) => {
-        console.log(data);
         var tempData = JSON.parse( JSON.stringify(data));
         if( value == null ) {
             tempData[propName] = "";
@@ -39,24 +54,7 @@ export default function ClientForm({ client = {} as JSONObject, handleOnUpdated 
 
     const handleOnSaveClick = async(e: React.MouseEvent<HTMLButtonElement>) => {
         e.preventDefault();
-        setError(null);
-        setProcessing(Constant.PROCESSING_CLIENT_DATA_SAVED);
-        
-        const response = await api.saveClientData(data);
-        if( response.success ) {
-            setProcessing(Constant.PROCESSING_CLIENT_DATA_SAVED);
-            if( client._id != undefined ) { // Update case
-                Utils.findAndReplaceItemFromList(AppStore.getClientList()!, client._id, "_id", response.data!);
-                setAllowToEdit(false);
-            }
-            else { // Add case
-                AppStore.addClientInList(response.data);
-                handleOnUpdated();
-            }
-        }
-        else {
-            setError(response.message!);
-        }
+        saveClient(data);
     }
 
     const handleOnCancelClick = (e: React.MouseEvent<HTMLButtonElement>) => {
@@ -74,7 +72,7 @@ export default function ClientForm({ client = {} as JSONObject, handleOnUpdated 
     }
       
     const getTitle = (): string => {
-        if ( client._id ) {
+        if ( data._id ) {
             return ( allowToEdit ) ? "Edit Client" : "Client Details";
         }
         return "Add Client";
@@ -86,10 +84,10 @@ export default function ClientForm({ client = {} as JSONObject, handleOnUpdated 
     return (
         <div className="w-full mx-auto mt-5 p-4 border border-gray-300 rounded-md shadow-md bg-white">
 
-            { processing == Constant.PROCESSING_CLIENT_DATA_SAVED && error == null 
+            { processing == Constant.PROCESSING_CLIENT_DATA_SAVED && clientError == null 
                 && <Alert type={Constant.ALERT_TYPE_INFO} message="Client data is saved." />}
 
-            {error != null &&  <Alert type={Constant.ALERT_TYPE_ERROR} message={error} />}
+            {clientError != null &&  <Alert type={Constant.ALERT_TYPE_ERROR} message={clientError} />}
 
             <div className="relative flex items-center p-5">
                 <h1 className="absolute left-1/2 transform -translate-x-1/2 text-2xl font-bold">{getTitle()}</h1>

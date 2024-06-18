@@ -1,23 +1,25 @@
-import { useState } from "react";
-import Modal from "./modal";
 import { JSONObject } from "../lib/definitions";
 import * as Utils from "@/app/lib/utils";
-import ClientDetailsForm from "./ClientDetails";
-import * as AppStore from '@/app/lib/appStorage';
-import useAppContext from "../contexts";
+import { useMainUi } from "../contexts/MainUiContext";
+
 import * as Constant from '@/app/lib/constants';
+import { useClients } from "../contexts/ClientContext";
+import { useEffect, useState } from "react";
 
 
 export default function ClientCard( {client}: {client: JSONObject}) {
 
-	const [ clientData, setClientData ] = useState<JSONObject>(client);
+	const { setMainUi } = useMainUi();
+	const { selectedClient, setSelectedClient } = useClients();
+	const [clientData, setClientData] = useState<JSONObject>(client);
 
-	const lastActivityDate = ( client.activities?.length > 0 ) ? Utils.formatDate(new Date(client.activities[client.activities.length - 1].date)) : ["[no activity]"];
-
-	const { setMainUi } = useAppContext();
-
+	// console.log("===================== ClientCard");
+	// console.log(client);
+	// console.log(clientData);
+	const lastActivityDate = ( clientData.activities?.length > 0 ) ? Utils.formatDate(new Date(clientData.activities[clientData.activities.length - 1].date)) : ["[no activity]"];
+	
 	const clientDetaislModelOpen = () => {
-		AppStore.setSelectedClient(client._id);
+		setSelectedClient(client._id);
 		setMainUi(Constant.UI_CLIENT_DETAILS);
 	}
 
@@ -27,7 +29,7 @@ export default function ClientCard( {client}: {client: JSONObject}) {
 				<img className="" src="https://cdn-icons-png.flaticon.com/512/1144/1144760.png" alt="" title="" />
 			</div>
 			<div className="p-1">
-				<div className="min-h-[20px] font-semibold">{client.fullName}</div>
+				<div className="min-h-[20px] font-semibold">{clientData.fullName}</div>
 				<div className="min-h-[20px]">Last activity: {lastActivityDate}</div>
 				<div className="min-h-[20px]"></div>
 			</div>

@@ -1,22 +1,20 @@
 "use client";
 
-import { useState } from "react";
+import { useEffect, useState } from "react";
 import { JSONObject } from "../lib/definitions";
-import useAppContext from "../contexts";
+
 import * as Constant from "../lib/constants";
 import Alert from "./basics/Alert";
-import * as Utils from "@/app/lib/utils";
-import * as AppStore from '@/app/lib/appStorage';
-import * as api from "../lib/api";
+import { useClients } from "../contexts/ClientContext";
 
 
-export default function ActivityForm({ client, activity = {} as JSONObject, handleOnUpdated = () => { }, handleOnClose = () => { } }: { client: JSONObject, activity?: JSONObject, handleOnUpdated: () => void, handleOnClose: () => void }) {
+export default function ActivityForm({ client, activity = {} as JSONObject, handleOnClose = () => { } }: { client: JSONObject, activity?: JSONObject, handleOnClose: () => void }) {
+
+    const { processing, clientError, saveActivity } = useClients();
 
     const [activityData, setActivityData] = useState(activity);
-    const [processing, setProcessing] = useState<string | null>(null);
-    const [error, setError] = useState<string | null>(null);
 
-
+ 
     const setValue = (propName: string, value: string) => {
         var tempData = JSON.parse(JSON.stringify(activityData));
         tempData[propName] = value;
@@ -26,20 +24,7 @@ export default function ActivityForm({ client, activity = {} as JSONObject, hand
     const handleOnSaveClick = async(e: React.MouseEvent<HTMLButtonElement>) => {
         e.preventDefault();
 
-        setError(null);
-        setProcessing(Constant.PROCESSING_ACTIVITY_SAVING);
-
-        const response = await api.saveActivityData(client, activityData);
-        if( response.success ) {
-            Utils.findAndReplaceItemFromList(AppStore.getClientList()!, client._id, "_id", response.data!);
-        }
-        else {
-            setError(response.message!);
-        }
-
-        setProcessing(Constant.PROCESSING_ACTIVITY_SAVED);
-
-        handleOnUpdated();
+        saveActivity(client, activityData);
         handleOnClose();
     }
 
@@ -55,9 +40,9 @@ export default function ActivityForm({ client, activity = {} as JSONObject, hand
 
     return (
         <div className="w-full mx-auto mt-5 p-4 border border-gray-300 rounded-md shadow-md bg-white">
-            {processing == Constant.PROCESSING_CLIENT_DATA_SAVED && error == null
+            {processing == Constant.PROCESSING_CLIENT_DATA_SAVED && clientError == null
                 && <Alert type={Constant.ALERT_TYPE_INFO} message="Activity activityData is saved." />}
-            {error != null && <Alert type={Constant.ALERT_TYPE_ERROR} message={error} />}
+            {clientError != null && <Alert type={Constant.ALERT_TYPE_ERROR} message={clientError} />}
 
             <h2 className="text-2xl font-semibold mb-6 text-center">{getTitle()}</h2>
             <div className="mb-8">

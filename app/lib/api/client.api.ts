@@ -24,6 +24,9 @@ export const saveActivityData = async (clientData: JSONObject, activityData: JSO
     if (!activityData.id) {
         activityData.id = uuidv4();
         activityData.date = new Date();
+        if( clientData.activities == undefined ) {
+            clientData.activities = [];
+        }
         clientData.activities.push(activityData);
     }
     else {

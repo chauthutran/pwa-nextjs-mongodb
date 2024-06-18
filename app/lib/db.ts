@@ -81,7 +81,7 @@ export const addDocument = async(colectionName: string, payloadJson: JSONObject)
 		const { db } = await connectToDatabase();
 
 		var doc = await db.collection(colectionName).insertOne(payloadJson);
-		payloadJson._id = doc.insertedId;
+		payloadJson._id = doc.insertedId.toHexString();
 
 		return {
 			success: true,

@@ -1,18 +1,23 @@
-import { useEffect, useRef, useState } from "react";
-import * as Utils from "@/app/lib/utils";
+import { useEffect, useState } from "react";
 import { JSONObject } from "../lib/definitions";
 import ClientForm from "./ClientForm";
 import ActivityList from "./ActiviyList";
 import ActivityForm from "./ActivityForm";
-import useAppContext from "../contexts";
-import * as Constant from "@/app/lib/constants";
+import { useClients } from "../contexts/ClientContext";
 
 
-export default function ClientDetailsForm ({ client, onUpdated }: {client: JSONObject, onUpdated: () => void}) {
+export default function ClientDetailsForm ({ client }: {client: JSONObject}) {
+    
+	const { selectedClient } = useClients();
 
     const [activeTab, setActiveTab] = useState('clientDetailsTab');
     const [showActivityForm, setShowActivityForm] = useState(false); 
-    
+	const [clientData, setClientData] = useState<JSONObject>(client);
+
+    useEffect(() => {
+		setClientData(selectedClient!);
+	},[selectedClient]);
+
     const handleTabClick = (tab: string) => {
         setActiveTab(tab);
     };
@@ -47,10 +52,9 @@ export default function ClientDetailsForm ({ client, onUpdated }: {client: JSONO
 
             {/* // Content div */}
             <div className="p-4">
-                {!showActivityForm && activeTab === 'clientDetailsTab' && <ClientForm client={client} handleOnUpdated={() => onUpdated()} handleCloseForm={() => {}} />}
-                {!showActivityForm && activeTab === 'activitiesTab' && <ActivityList client={client}  handleOnUpdated={() => onUpdated()} />}
-                {showActivityForm && <ActivityForm client={client}  handleOnUpdated={() => onUpdated()} 
-                    handleOnClose={() => setShowActivityForm(false)}
+                {!showActivityForm && activeTab === 'clientDetailsTab' && <ClientForm client={clientData} handleCloseForm={() => {}} />}
+                {!showActivityForm && activeTab === 'activitiesTab' && <ActivityList client={clientData} />}
+                {showActivityForm && <ActivityForm client={clientData} handleOnClose={() => setShowActivityForm(false)}
                     /> }
             </div>
 

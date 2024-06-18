@@ -3,25 +3,19 @@
 import LoginForm from "./login-form";
 import Listing from "./listing";
 import SectionTop from "./sectionTop";
-import useAppContext from "../contexts";
+import { useMainUi } from "../contexts/MainUiContext";
 import * as Constant from "@/app/lib/constants";
 import ClientForm from "./ClientForm";
 import Footer from "./Footer";
 import ClientDetailsForm from "./ClientDetails";
-import * as AppStore from '@/app/lib/appStorage';
-import { useState } from "react";
+import { useClients } from "../contexts/ClientContext";
 
 export default function AppMain() {
 
-	const { mainUi, setMainUi } = useAppContext();
+	const { mainUi, setMainUi } = useMainUi();
+	const { selectedClient } = useClients();
 
-	const [refreh, setRefresh] = useState(false);
-	const handleOnUpdate = () => {
-		// setClientData( AppStore.getClientById(client._id)! );
-		setRefresh(!refreh);
-	}
-
-	console.log( 'AppMain Rendering: ' );
+	console.log( 'AppMain Rendering: ' + mainUi );
 
 	return (
 		<div className="divMain">
@@ -31,10 +25,9 @@ export default function AppMain() {
 					<SectionTop></SectionTop>
 					{mainUi == Constant.UI_CLIENT_LIST && <>
 						<Listing></Listing>
-						
 					</>}
 
-					{mainUi == Constant.UI_CLIENT_DETAILS && <ClientDetailsForm client={AppStore.getSelectedClient()!} onUpdated={() => handleOnUpdate()}/>}
+					{mainUi == Constant.UI_CLIENT_DETAILS && <ClientDetailsForm client={selectedClient!} />}
 
 					{mainUi == Constant.UI_ADD_CLIENT_FORM && <ClientForm handleCloseForm={() => setMainUi(Constant.UI_CLIENT_LIST)} /> }
 				</>}
