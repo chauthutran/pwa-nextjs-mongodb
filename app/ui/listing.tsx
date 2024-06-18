@@ -12,7 +12,7 @@ import * as Utils from '@/app/lib/utils';
 import useAppContext from "../contexts";
 import ClientForm from "./ClientForm";
 
-export default function Listing() {
+export default function Listing() { 
 
 	const [loading, setLoading] = useState(false);
 	const [error, setError] = useState<string | null>(null);
