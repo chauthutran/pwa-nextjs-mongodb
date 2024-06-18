@@ -1,0 +1,7118 @@
+[
+	{
+		"date": {
+			"updatedOnMdbUTC": "2024-05-30T22:36:19.864",
+			"updatedLoc": "2024-05-31T07:36:19.000",
+			"updatedUTC": "2024-05-30T22:36:19.864",
+			"createdLoc": "2024-05-31T01:20:08.000",
+			"createdUTC": "2024-05-30T16:20:08.471",
+			"updatedOnMdbLoc": "2024-05-31T07:36:19.000"
+		},
+		"relationships": [
+			{
+				"date": "2024-05-30T21:16:39.415Z",
+				"clientId": "6166ed74cd6e4a08ab3c1cd0",
+				"type": "SP-Contact",
+				"dateOfServiceQuery": "YES",
+				"addedType": "source"
+			},
+			{
+				"date": "2024-05-30T21:51:19.789Z",
+				"clientId": "6658f4d74e360399a41c23ab",
+				"type": "SP-Leader",
+				"dateOfServiceQuery": "YES",
+				"addedType": "source"
+			},
+			{
+				"date": "2024-05-30T22:22:14.722Z",
+				"clientId": "6658fc164e360399a41c2423",
+				"serviceDatePast": "2024-05-20",
+				"type": "SP-Leader",
+				"dateOfServiceQuery": "NO",
+				"addedType": "source"
+			},
+			{
+				"date": "2024-05-30T22:36:15.965Z",
+				"clientId": "6658ff5f4e360399a41c2457",
+				"type": "SP-Leader",
+				"dateOfServiceQuery": "YES",
+				"addedType": "source"
+			}
+		],
+		"clientDetails": {
+			"lastName": "Morataya",
+			"country": "T_GT",
+			"sexWorker": "YES",
+			"occupation": "estudiayTrabaja",
+			"gender": "M",
+			"idDocument": "",
+			"pseudonym": "",
+			"personalDataConsent": "YES",
+			"subPopulationType": "HSH_H(G)",
+			"CUIC": "MOM311092QUE",
+			"contactConsentService": "YESP",
+			"educationLevel": "bachilleratoIntermedio",
+			"birthDepartment_GT": "QUE",
+			"voucherCodes": [
+				"184270023510"
+			],
+			"ownershipOfPhone": "HER",
+			"hivStatus": "negativo",
+			"localizedContact": "",
+			"voucherCode": "184270023510",
+			"citizen": "YES",
+			"phoneNumber_whatsApp": "+50222519350",
+			"nickName": "",
+			"sex": "M",
+			"birthDepartment": "QUE",
+			"activeUsers": [
+				"GT_TEST_ASP"
+			],
+			"birthDate": "1992-10-31",
+			"idDocumentQuery": "NO",
+			"firstName": "",
+			"populationType": "HSH",
+			"ethnicGroup_GT": "mestizo",
+			"archetype": "popurri",
+			"phoneNumber": "+50222519350",
+			"creditedUsers": [
+				"GT_TEST_ASP"
+			],
+			"acquisitionSource": "index",
+			"ethnicGroup": "mestizo",
+			"dateOfServiceQuery": "YES",
+			"age": "31",
+			"preferredContactMode": "whatsApp"
+		},
+		"schemaVersion": "1-RC.2",
+		"activities": [
+			{
+				"date": {
+					"syncedLoc": "2024-05-31T01:19:44.000",
+					"updatedLoc": "2024-05-31T01:19:44.000",
+					"updatedUTC": "2024-05-30T16:19:44.000",
+					"capturedUTC": "2024-05-30T16:17:49.000",
+					"createdLoc": "2024-05-31T01:19:44.000",
+					"syncedUTC": "2024-05-30T16:19:44.000",
+					"capturedLoc": "2024-05-31T01:17:49.000",
+					"createdUTC": "2024-05-30T16:19:44.000"
+				},
+				"activeUserRoles": [
+					"lac_outNet",
+					"lac_rock",
+					"lac_asp"
+				],
+				"activeUser": "GT_TEST_ASP",
+				"creditedUsers": [
+					"GT_TEST_ASP"
+				],
+				"location": {},
+				"formData": {
+					"blockId": "block_search_ClientNew.blockAddNewClientForm",
+					"activityId": "GT_TEST_ASP_20240530_161944357",
+					"data": [
+						{
+							"displayValue": "2024-05-30T10:17:49.412",
+							"name": "activityDate_now",
+							"value": "2024-05-30T10:17:49.412"
+						},
+						{
+							"displayValue": "2024-05-30T10:17:49.412",
+							"name": "activityDate",
+							"value": "2024-05-30T10:17:49.412"
+						},
+						{
+							"displayValue": "YES",
+							"name": "personalDataConsent",
+							"value": "YES"
+						},
+						{
+							"displayValue": "YES",
+							"name": "dateOfServiceQuery",
+							"value": "YES"
+						},
+						{
+							"displayValue": "",
+							"name": "serviceDatePast",
+							"value": ""
+						},
+						{
+							"displayValue": "MOM311092QUE",
+							"name": "CUIC",
+							"value": "MOM311092QUE"
+						},
+						{
+							"displayValue": "NO",
+							"name": "idDocumentQuery",
+							"value": "NO"
+						},
+						{
+							"displayValue": "",
+							"name": "idDocument",
+							"value": ""
+						},
+						{
+							"displayValue": "",
+							"name": "firstName",
+							"value": ""
+						},
+						{
+							"displayValue": "Morataya",
+							"name": "lastName",
+							"value": "Morataya"
+						},
+						{
+							"displayValue": "",
+							"name": "pseudonym",
+							"value": ""
+						},
+						{
+							"displayValue": "",
+							"name": "nickName",
+							"value": ""
+						},
+						{
+							"displayValue": "1992-10-31",
+							"name": "birthDate",
+							"value": "1992-10-31"
+						},
+						{
+							"displayValue": "31",
+							"name": "age",
+							"value": "31"
+						},
+						{
+							"displayValue": "M",
+							"name": "gender",
+							"value": "M"
+						},
+						{
+							"displayValue": "M",
+							"name": "sex",
+							"value": "M"
+						},
+						{
+							"displayValue": "HSH",
+							"name": "populationType",
+							"value": "HSH"
+						},
+						{
+							"displayValue": "HSH_H(G)",
+							"name": "subPopulationType",
+							"value": "HSH_H(G)"
+						},
+						{
+							"displayValue": "popurri",
+							"name": "archetype",
+							"value": "popurri"
+						},
+						{
+							"displayValue": "bachilleratoIntermedio",
+							"name": "educationLevel",
+							"value": "bachilleratoIntermedio"
+						},
+						{
+							"displayValue": "YES",
+							"name": "citizen",
+							"value": "YES"
+						},
+						{
+							"displayValue": "",
+							"name": "countryOfOrigin",
+							"value": ""
+						},
+						{
+							"displayValue": "QUE",
+							"name": "birthDepartment_GT",
+							"value": "QUE"
+						},
+						{
+							"displayValue": "",
+							"name": "ethnicGroup_HN",
+							"value": ""
+						},
+						{
+							"displayValue": "mestizo",
+							"name": "ethnicGroup_GT",
+							"value": "mestizo"
+						},
+						{
+							"displayValue": "",
+							"name": "ethnicGroup_SV",
+							"value": ""
+						},
+						{
+							"displayValue": "",
+							"name": "ethnicGroup_NI",
+							"value": ""
+						},
+						{
+							"displayValue": "",
+							"name": "ethnicGroup_PA",
+							"value": ""
+						},
+						{
+							"displayValue": "Otro",
+							"name": "ethnicGroup_otro",
+							"value": "Otro"
+						},
+						{
+							"displayValue": "mestizo",
+							"name": "ethnicGroup",
+							"value": "mestizo"
+						},
+						{
+							"displayValue": "QUE",
+							"name": "birthDepartment",
+							"value": "QUE"
+						},
+						{
+							"displayValue": "YES",
+							"name": "sexWorker",
+							"value": "YES"
+						},
+						{
+							"displayValue": "presencial",
+							"name": "acquisitionSource",
+							"value": "presencial"
+						},
+						{
+							"displayValue": "HER",
+							"name": "ownershipOfPhone",
+							"value": "HER"
+						},
+						{
+							"displayValue": "+50222519350",
+							"name": "phoneNumber",
+							"value": "+50222519350"
+						},
+						{
+							"displayValue": "+50222519350",
+							"name": "phoneNumber_whatsApp",
+							"value": "+50222519350"
+						},
+						{
+							"displayValue": "YESP",
+							"name": "contactConsentService",
+							"value": "YESP"
+						},
+						{
+							"displayValue": "whatsApp",
+							"name": "preferredContactMode",
+							"value": "whatsApp"
+						}
+					]
+				},
+				"id": "GT_TEST_ASP_20240530_161944357",
+				"type": "IPC_CLIENT_REG",
+				"transactions": [
+					{
+						"clientDetails": {
+							"lastName": "Morataya",
+							"country": "T_GT",
+							"sexWorker": "YES",
+							"gender": "M",
+							"pseudonym": "",
+							"personalDataConsent": "YES",
+							"subPopulationType": "HSH_H(G)",
+							"CUIC": "MOM311092QUE",
+							"contactConsentService": "YESP",
+							"educationLevel": "bachilleratoIntermedio",
+							"birthDepartment_GT": "QUE",
+							"voucherCodes": [],
+							"ownershipOfPhone": "HER",
+							"citizen": "YES",
+							"phoneNumber_whatsApp": "+50222519350",
+							"nickName": "",
+							"sex": "M",
+							"birthDepartment": "QUE",
+							"activeUsers": [
+								"GT_TEST_ASP"
+							],
+							"birthDate": "1992-10-31",
+							"idDocumentQuery": "NO",
+							"firstName": "",
+							"populationType": "HSH",
+							"ethnicGroup_GT": "mestizo",
+							"archetype": "popurri",
+							"phoneNumber": "+50222519350",
+							"creditedUsers": [],
+							"acquisitionSource": "presencial",
+							"ethnicGroup": "mestizo",
+							"dateOfServiceQuery": "YES",
+							"age": "31",
+							"preferredContactMode": "whatsApp"
+						},
+						"type": "c_reg"
+					},
+					{
+						"dataValues": {
+							"lastName": "Morataya",
+							"sexWorker": "YES",
+							"gender": "M",
+							"pseudonym": "",
+							"subPopulationType": "HSH_H(G)",
+							"CUIC": "MOM311092QUE",
+							"contactConsentService": "YESP",
+							"educationLevel": "bachilleratoIntermedio",
+							"birthDepartment_GT": "QUE",
+							"ownershipOfPhone": "HER",
+							"citizen": "YES",
+							"phoneNumber_whatsApp": "+50222519350",
+							"sex": "M",
+							"orgUnit": "lsA6RQnisaf",
+							"dhis2Action": "trackEntity",
+							"birthDate": "1992-10-31",
+							"idDocumentQuery": "NO",
+							"firstName": "",
+							"populationType": "HSH",
+							"archetype": "popurri",
+							"phoneNumber": "+50222519350",
+							"acquisitionSource": "presencial",
+							"projectName": "LAC_HIV",
+							"age": "31",
+							"preferredContactMode": "whatsApp",
+							"isUpdate": false,
+							"orgUnitName": "GT_TEST_ASP"
+						},
+						"type": "s_dhis2Program_trackEntity"
+					}
+				],
+				"ws": {
+					"app": "dws",
+					"configVersion": "CMN_2.0",
+					"softwareVersion": "unknown"
+				},
+				"dc": {
+					"app": "WF-App",
+					"control": "wfa v~1.3.0, c:Online, p:clientRegister, wfa-config v13, ws v~1.5",
+					"network": "Online"
+				},
+				"processing": {
+					"created": "2024-05-31T22:38:23.000",
+					"history": [
+						{
+							"status": "downloaded",
+							"responseCode": 200,
+							"datetime": "2024-05-31T22:38:23.000",
+							"msg": "Downloaded and synced."
+						}
+					],
+					"status": "downloaded",
+					"syncUpCount": 0,
+					"historyData": {}
+				}
+			},
+			{
+				"date": {
+					"syncedLoc": "2024-05-31T01:24:46.000",
+					"updatedLoc": "2024-05-31T01:24:43.000",
+					"updatedUTC": "2024-05-30T16:24:43.000",
+					"capturedUTC": "2024-05-30T16:20:22.000",
+					"createdLoc": "2024-05-31T01:24:43.000",
+					"syncedUTC": "2024-05-30T16:24:46.000",
+					"capturedLoc": "2024-05-31T01:20:22.000",
+					"createdUTC": "2024-05-30T16:24:43.000"
+				},
+				"activeUserRoles": [
+					"lac_outNet",
+					"lac_rock",
+					"lac_asp"
+				],
+				"activeUser": "GT_TEST_ASP",
+				"creditedUsers": [
+					"GT_TEST_ASP"
+				],
+				"location": {},
+				"formData": {
+					"blockId": "block_clientIntervention_voucherOptional_clientUpdate_Online_Ipc",
+					"activityId": "GT_TEST_ASP_20240530_162443810",
+					"data": [
+						{
+							"displayValue": "T_LAC-HFEE-0013-20240530",
+							"name": "activityid",
+							"value": "T_LAC-HFEE-0013-20240530"
+						},
+						{
+							"displayValue": "Electronic",
+							"name": "voucherType",
+							"value": "Electronic"
+						},
+						{
+							"displayValue": "2024-05-30T10:20:22.264",
+							"name": "activityDate_now",
+							"value": "2024-05-30T10:20:22.264"
+						},
+						{
+							"displayValue": "2024-05-30T10:20:22.264",
+							"name": "activityDate",
+							"value": "2024-05-30T10:20:22.264"
+						},
+						{
+							"displayValue": "ISS",
+							"name": "transactionType_SSEISS",
+							"value": "ISS"
+						},
+						{
+							"displayValue": "index",
+							"name": "acquisitionSource",
+							"value": "index"
+						},
+						{
+							"displayValue": "YES",
+							"name": "localizedContact",
+							"value": "YES"
+						},
+						{
+							"displayValue": "HER",
+							"name": "ownershipOfPhone",
+							"value": "HER"
+						},
+						{
+							"displayValue": "+50222519350",
+							"name": "phoneNumber",
+							"value": "+50222519350"
+						},
+						{
+							"displayValue": "+50222519350",
+							"name": "phoneNumber_whatsApp",
+							"value": "+50222519350"
+						},
+						{
+							"displayValue": "YESP",
+							"name": "contactConsentService",
+							"value": "YESP"
+						},
+						{
+							"displayValue": "whatsApp",
+							"name": "preferredContactMode",
+							"value": "whatsApp"
+						},
+						{
+							"displayValue": "YES",
+							"name": "dateOfServiceQuery",
+							"value": "YES"
+						},
+						{
+							"displayValue": "",
+							"name": "serviceDatePast",
+							"value": ""
+						},
+						{
+							"displayValue": "09",
+							"name": "serviceLocationDept",
+							"value": "09"
+						},
+						{
+							"displayValue": "0901",
+							"name": "serviceLocationMunic",
+							"value": "0901"
+						},
+						{
+							"displayValue": "index",
+							"name": "interventionLine",
+							"value": "index"
+						},
+						{
+							"displayValue": "",
+							"name": "interventionTypeOnline",
+							"value": ""
+						},
+						{
+							"displayValue": "",
+							"name": "interventionTypePresencial",
+							"value": ""
+						},
+						{
+							"displayValue": "ofertaDePruebaIndex",
+							"name": "interventionTypeIndexTesting",
+							"value": "ofertaDePruebaIndex"
+						},
+						{
+							"displayValue": "ofertaDePruebaSemilla",
+							"name": "interventionTypeSemilla",
+							"value": "ofertaDePruebaSemilla"
+						},
+						{
+							"displayValue": "indexClient",
+							"name": "contactOriginIndex",
+							"value": "indexClient"
+						},
+						{
+							"displayValue": "aceptaReferencia",
+							"name": "interventionResultIndexSemilla",
+							"value": "aceptaReferencia"
+						},
+						{
+							"displayValue": "",
+							"name": "hivStatus_Ipc",
+							"value": ""
+						},
+						{
+							"displayValue": "",
+							"name": "linkedToTreatment",
+							"value": ""
+						},
+						{
+							"displayValue": "",
+							"name": "nonEffectiveContactReason",
+							"value": ""
+						},
+						{
+							"displayValue": "",
+							"name": "declineReferralReason",
+							"value": ""
+						},
+						{
+							"displayValue": "",
+							"name": "contactOrigin",
+							"value": ""
+						},
+						{
+							"displayValue": "",
+							"name": "contactOriginEnLinea",
+							"value": ""
+						},
+						{
+							"displayValue": "",
+							"name": "contactOriginPresencial",
+							"value": ""
+						},
+						{
+							"displayValue": "",
+							"name": "recruiterName",
+							"value": ""
+						},
+						{
+							"displayValue": "inSitu",
+							"name": "customerLocationMedium",
+							"value": "inSitu"
+						},
+						{
+							"displayValue": "",
+							"name": "googleCoordinates",
+							"value": ""
+						},
+						{
+							"displayValue": "",
+							"name": "location",
+							"value": ""
+						},
+						{
+							"displayValue": "pruebaDeVIH",
+							"name": "healthyBehaviourPromoted",
+							"value": "pruebaDeVIH"
+						},
+						{
+							"displayValue": "pruebaEnOficina",
+							"name": "serviceDeliveryChannel",
+							"value": "pruebaEnOficina"
+						},
+						{
+							"displayValue": "YES",
+							"name": "riskAssessment",
+							"value": "YES"
+						},
+						{
+							"displayValue": "alto",
+							"name": "riskLevel",
+							"value": "alto"
+						},
+						{
+							"displayValue": "referencia",
+							"name": "interventionResult",
+							"value": "referencia"
+						},
+						{
+							"displayValue": "",
+							"name": "prepDeclineReason",
+							"value": ""
+						},
+						{
+							"displayValue": "",
+							"name": "HIVselfTestDeclineReason",
+							"value": ""
+						},
+						{
+							"displayValue": "pruebaDeVIH",
+							"name": "referenceType",
+							"value": "pruebaDeVIH"
+						},
+						{
+							"displayValue": "",
+							"name": "selfTestingMode",
+							"value": ""
+						},
+						{
+							"displayValue": "",
+							"name": "deliveryAddress",
+							"value": ""
+						},
+						{
+							"displayValue": "2024-05-30",
+							"name": "labVisitDate",
+							"value": "2024-05-30"
+						},
+						{
+							"displayValue": "Ingrid Edith Fuentes (GTPASMO_ASP_0006)",
+							"name": "labreferred",
+							"value": "GTPASMO_ASP_0006"
+						},
+						{
+							"displayValue": "184270023510",
+							"name": "voucherCode",
+							"value": "184270023510"
+						},
+						{
+							"displayValue": "NO",
+							"name": "rocketChatVCImgSend",
+							"value": "NO"
+						},
+						{
+							"displayValue": "",
+							"name": "rocketChatSendMethod",
+							"value": ""
+						}
+					]
+				},
+				"id": "GT_TEST_ASP_20240530_162443810",
+				"type": "IPC_ISS",
+				"transactions": [
+					{
+						"clientDetails": {
+							"acquisitionSource": "index",
+							"localizedContact": "YES"
+						},
+						"type": "c_upd"
+					},
+					{
+						"dataValues": {
+							"orgUnit": "lsA6RQnisaf",
+							"dhis2Action": "trackEntity",
+							"acquisitionSource": "index",
+							"projectName": "LAC_HIV",
+							"localizedContact": "YES",
+							"isUpdate": true,
+							"orgUnitName": "GT_TEST_ASP"
+						},
+						"type": "s_dhis2Program_trackEntity"
+					},
+					{
+						"dataValues": {
+							"contactOriginIndex": "indexClient",
+							"labVisitDate": "2024-05-30",
+							"customerLocationMedium": "inSitu",
+							"riskLevel": "alto",
+							"voucherType": "Electronic",
+							"healthyBehaviourPromoted": "pruebaDeVIH",
+							"transactionType_SSEISS": "ISS",
+							"referenceType": "pruebaDeVIH",
+							"interventionResultIndexSemilla": "aceptaReferencia",
+							"interventionLine": "index",
+							"labreferred": "GTPASMO_ASP_0006",
+							"serviceDeliveryChannel": "pruebaEnOficina",
+							"interventionResult": "referencia",
+							"activityid": "T_LAC-HFEE-0013-20240530",
+							"interventionTypeIndexTesting": "ofertaDePruebaIndex",
+							"rocketChatVCImgSend": "NO",
+							"serviceLocationDept": "09",
+							"location": "",
+							"riskAssessment": "YES",
+							"dateOfServiceQuery": "YES",
+							"voucherCode": "184270023510",
+							"serviceLocationMunic": "0901"
+						},
+						"clientDetails": {
+							"voucherCode": "184270023510"
+						},
+						"type": "v_iss"
+					},
+					{
+						"dataValues": {
+							"msg": "PASMO te envia tu numero de cupon: 184270023510. Sera un placer atenderte.",
+							"phoneNumber": "+50222519350",
+							"voucherCode": "184270023510"
+						},
+						"clientDetails": {
+							"voucherCode": "184270023510"
+						},
+						"type": "s_msg"
+					},
+					{
+						"dataValues": {
+							"riskLevel": "alto",
+							"healthyBehaviourPromoted": "pruebaDeVIH",
+							"referenceType": "pruebaDeVIH",
+							"interventionResult": "referencia",
+							"interventionTypeIndexTesting": "ofertaDePruebaIndex",
+							"rocketChatVCImgSend": "NO",
+							"serviceLocationDept": "09",
+							"voucherCode": "184270023510",
+							"serviceLocationMunic": "0901",
+							"contactOriginIndex": "indexClient",
+							"labVisitDate": "2024-05-30",
+							"customerLocationMedium": "inSitu",
+							"voucherType": "Electronic",
+							"orgUnit": "lsA6RQnisaf",
+							"transactionType_SSEISS": "ISS",
+							"interventionResultIndexSemilla": "aceptaReferencia",
+							"dhis2Action": "emitirCoupon",
+							"interventionLine": "index",
+							"labreferred": "GTPASMO_ASP_0006",
+							"serviceDeliveryChannel": "pruebaEnOficina",
+							"activityid": "T_LAC-HFEE-0013-20240530",
+							"location": "",
+							"riskAssessment": "YES",
+							"projectName": "LAC_HIV",
+							"dateOfServiceQuery": "YES",
+							"isUpdate": false,
+							"orgUnitName": "GT_TEST_ASP"
+						},
+						"type": "s_dhis2Program_event"
+					}
+				],
+				"ws": {
+					"app": "dws",
+					"configVersion": "CMN_2.0",
+					"softwareVersion": "unknown"
+				},
+				"dc": {
+					"app": "WF-App",
+					"control": "wfa v~1.3.0, c:Online, p:clientIntervention_voucherOptional, wfa-config v13, ws v~1.5",
+					"network": "Online"
+				},
+				"processing": {
+					"created": "2024-05-31T22:38:23.000",
+					"history": [
+						{
+							"status": "downloaded",
+							"responseCode": 200,
+							"datetime": "2024-05-31T22:38:23.000",
+							"msg": "Downloaded and synced."
+						}
+					],
+					"status": "downloaded",
+					"syncUpCount": 0,
+					"historyData": {}
+				}
+			},
+			{
+				"date": {
+					"syncedLoc": "2024-05-31T01:28:12.000",
+					"updatedLoc": "2024-05-31T01:27:03.000",
+					"updatedUTC": "2024-05-30T16:27:03.000",
+					"capturedUTC": "2024-05-30T16:24:59.000",
+					"createdLoc": "2024-05-31T01:27:03.000",
+					"syncedUTC": "2024-05-30T16:28:12.000",
+					"capturedLoc": "2024-05-31T01:24:59.000",
+					"createdUTC": "2024-05-30T16:27:03.000"
+				},
+				"activeUserRoles": [
+					"lac_outNet",
+					"lac_rock",
+					"lac_asp"
+				],
+				"activeUser": "GT_TEST_ASP",
+				"creditedUsers": [
+					"GT_TEST_ASP"
+				],
+				"location": {},
+				"formData": {
+					"blockId": "block_formExistingClient_Online_HIVTesting",
+					"activityId": "GT_TEST_ASP_20240530_162703971",
+					"data": [
+						{
+							"displayValue": "T_LAC-XZVB-5392-20240530",
+							"name": "activityid",
+							"value": "T_LAC-XZVB-5392-20240530"
+						},
+						{
+							"displayValue": "",
+							"name": "clientId",
+							"value": ""
+						},
+						{
+							"displayValue": "T_GT",
+							"name": "countryOfOriginDefault",
+							"value": "T_GT"
+						},
+						{
+							"displayValue": "2024-05-30T10:24:59.261",
+							"name": "activityDate_now",
+							"value": "2024-05-30T10:24:59.261"
+						},
+						{
+							"displayValue": "2024-05-30T10:24:59.261",
+							"name": "activityDate",
+							"value": "2024-05-30T10:24:59.261"
+						},
+						{
+							"displayValue": "negativo",
+							"name": "hivStatus",
+							"value": "negativo"
+						},
+						{
+							"displayValue": "NO",
+							"name": "idDocumentQuery",
+							"value": "NO"
+						},
+						{
+							"displayValue": "",
+							"name": "idDocument",
+							"value": ""
+						},
+						{
+							"displayValue": "HSH",
+							"name": "populationType",
+							"value": "HSH"
+						},
+						{
+							"displayValue": "HSH_H(G)",
+							"name": "subPopulationType",
+							"value": "HSH_H(G)"
+						},
+						{
+							"displayValue": "estudiayTrabaja",
+							"name": "occupation",
+							"value": "estudiayTrabaja"
+						},
+						{
+							"displayValue": "YES",
+							"name": "sexWorker",
+							"value": "YES"
+						},
+						{
+							"displayValue": "184270023510",
+							"name": "voucherCode",
+							"value": "184270023510"
+						},
+						{
+							"displayValue": "YES",
+							"name": "dateOfServiceQuery",
+							"value": "YES"
+						},
+						{
+							"displayValue": "",
+							"name": "serviceDatePast",
+							"value": ""
+						},
+						{
+							"displayValue": "09",
+							"name": "serviceLocationDept",
+							"value": "09"
+						},
+						{
+							"displayValue": "0901",
+							"name": "serviceLocationMunic",
+							"value": "0901"
+						},
+						{
+							"displayValue": "noConoceSuEstatus",
+							"name": "serologicalStatusAwareness",
+							"value": "noConoceSuEstatus"
+						},
+						{
+							"displayValue": "movil",
+							"name": "testingSite",
+							"value": "movil"
+						},
+						{
+							"displayValue": "",
+							"name": "continueWithHIVTest",
+							"value": ""
+						},
+						{
+							"displayValue": "negativo",
+							"name": "resultsTestOne",
+							"value": "negativo"
+						},
+						{
+							"displayValue": "determine",
+							"name": "nameTestOne",
+							"value": "determine"
+						},
+						{
+							"displayValue": "12122131",
+							"name": "lotOne",
+							"value": "12122131"
+						},
+						{
+							"displayValue": "2025-05-20",
+							"name": "expiryDateOne",
+							"value": "2025-05-20"
+						},
+						{
+							"displayValue": "",
+							"name": "secondTestConducted",
+							"value": ""
+						},
+						{
+							"displayValue": "",
+							"name": "resultsTestTwo",
+							"value": ""
+						},
+						{
+							"displayValue": "",
+							"name": "nameTestTwo",
+							"value": ""
+						},
+						{
+							"displayValue": "",
+							"name": "lotTwo",
+							"value": ""
+						},
+						{
+							"displayValue": "",
+							"name": "expiryDateTwo",
+							"value": ""
+						},
+						{
+							"displayValue": "negativo",
+							"name": "hivResult",
+							"value": "negativo"
+						},
+						{
+							"displayValue": "YES",
+							"name": "resultsDelivery",
+							"value": "YES"
+						},
+						{
+							"displayValue": "asp",
+							"name": "whoDeliveredResults",
+							"value": "asp"
+						},
+						{
+							"displayValue": "",
+							"name": "informationMaterialPackageNeg",
+							"value": ""
+						},
+						{
+							"displayValue": "",
+							"name": "informationMaterialPackagePos",
+							"value": ""
+						},
+						{
+							"displayValue": "YES",
+							"name": "informationMaterial",
+							"value": "YES"
+						},
+						{
+							"displayValue": "NO",
+							"name": "condomsLubricantDelivered",
+							"value": "NO"
+						},
+						{
+							"displayValue": false,
+							"name": "emotionalSupport",
+							"value": false
+						},
+						{
+							"displayValue": false,
+							"name": "linkagetoCareandTreatment",
+							"value": false
+						},
+						{
+							"displayValue": false,
+							"name": "referenceToHIVServices",
+							"value": false
+						},
+						{
+							"displayValue": false,
+							"name": "structuralServices",
+							"value": false
+						},
+						{
+							"displayValue": "",
+							"name": "structuralServicesOptions",
+							"value": ""
+						},
+						{
+							"displayValue": "",
+							"name": "educationalMaterial",
+							"value": ""
+						},
+						{
+							"displayValue": "",
+							"name": "transportationPayment",
+							"value": ""
+						},
+						{
+							"displayValue": "",
+							"name": "refreshmentProvided",
+							"value": ""
+						},
+						{
+							"displayValue": "",
+							"name": "discreteOffer",
+							"value": ""
+						},
+						{
+							"displayValue": "",
+							"name": "discreteOfferIdxTstDeclineReason",
+							"value": ""
+						},
+						{
+							"displayValue": "",
+							"name": "indexClientAcceptance",
+							"value": ""
+						},
+						{
+							"displayValue": "",
+							"name": "rejectDiscreteReason",
+							"value": ""
+						},
+						{
+							"displayValue": "",
+							"name": "discreteWebOffer",
+							"value": ""
+						},
+						{
+							"displayValue": "YES",
+							"name": "riskReductionCounseling",
+							"value": "YES"
+						},
+						{
+							"displayValue": "NO",
+							"name": "proofServiceReceived",
+							"value": "NO"
+						},
+						{
+							"displayValue": "YES",
+							"name": "offerReminder",
+							"value": "YES"
+						},
+						{
+							"displayValue": "YES",
+							"name": "reminderNextTest",
+							"value": "YES"
+						},
+						{
+							"displayValue": "3meses",
+							"name": "reminderFrequency",
+							"value": "3meses"
+						},
+						{
+							"displayValue": "YES",
+							"name": "PrEPOffered",
+							"value": "YES"
+						},
+						{
+							"displayValue": false,
+							"name": "stiDiagnosis",
+							"value": false
+						},
+						{
+							"displayValue": "YES",
+							"name": "syphilisTest",
+							"value": "YES"
+						},
+						{
+							"displayValue": "negativo",
+							"name": "syphilisTestResult",
+							"value": "negativo"
+						},
+						{
+							"displayValue": "",
+							"name": "STITreatmentCounselling",
+							"value": ""
+						},
+						{
+							"displayValue": "",
+							"name": "STITreatmentAccompanied",
+							"value": ""
+						},
+						{
+							"displayValue": "",
+							"name": "STIConfirmationTreatmentLinkage",
+							"value": ""
+						}
+					],
+					"showCase": "showCase_hivTesting_captureService_redeemOnline",
+					"hideCase": "hideCase_hivTesting_captureService_redeemOnline"
+				},
+				"id": "GT_TEST_ASP_20240530_162703971",
+				"type": "PROV_SP_HIVTEST",
+				"transactions": [
+					{
+						"clientDetails": {
+							"populationType": "HSH",
+							"subPopulationType": "HSH_H(G)",
+							"occupation": "estudiayTrabaja",
+							"sexWorker": "YES",
+							"idDocument": "",
+							"hivStatus": "negativo",
+							"voucherCode": "184270023510",
+							"idDocumentQuery": "NO"
+						},
+						"type": "c_upd"
+					},
+					{
+						"dataValues": {
+							"citizen": "",
+							"occupation": "estudiayTrabaja",
+							"sexWorker": "YES",
+							"idDocument": "",
+							"birthDepartment": "",
+							"orgUnit": "lsA6RQnisaf",
+							"dhis2Action": "trackEntity",
+							"ethnicGroup_Otro": "",
+							"populationType": "HSH",
+							"subPopulationType": "HSH_H(G)",
+							"birthMunicipality": "",
+							"countryOfOrigin": "",
+							"ethnicGroup": "",
+							"projectName": "LAC_HIV",
+							"hivStatus": "negativo",
+							"voucherCode": "184270023510",
+							"isUpdate": true,
+							"orgUnitName": "GT_TEST_ASP"
+						},
+						"type": "s_dhis2Program_trackEntity"
+					},
+					{
+						"dataValues": {
+							"resultsTestOne": "negativo",
+							"sexWorker": "YES",
+							"lotOne": "12122131",
+							"condomsLubricantDelivered": "NO",
+							"PrEPOffered": "YES",
+							"serviceLocationDept": "09",
+							"whoDeliveredResults": "asp",
+							"voucherCode": "184270023510",
+							"serviceLocationMunic": "0901",
+							"riskReductionCounseling": "YES",
+							"testingSite": "movil",
+							"serologicalStatusAwareness": "noConoceSuEstatus",
+							"syphilisTest": "YES",
+							"reminderNextTest": "YES",
+							"hivResult": "negativo",
+							"nameTestOne": "determine",
+							"expiryDateOne": "2025-05-20",
+							"activityid": "T_LAC-XZVB-5392-20240530",
+							"informationMaterial": "YES",
+							"reminderFrequency": "3meses",
+							"stiDiagnosis": false,
+							"offerReminder": "YES",
+							"resultsDelivery": "YES",
+							"syphilisTestResult": "negativo",
+							"dateOfServiceQuery": "YES",
+							"proofServiceReceived": "NO"
+						},
+						"clientDetails": {
+							"voucherCode": "184270023510"
+						},
+						"type": "v_rdx_hivTEST"
+					},
+					{
+						"dataValues": {
+							"resultsTestOne": "negativo",
+							"sexWorker": "YES",
+							"lotOne": "12122131",
+							"condomsLubricantDelivered": "NO",
+							"PrEPOffered": "YES",
+							"serviceLocationDept": "09",
+							"whoDeliveredResults": "asp",
+							"voucherCode": "184270023510",
+							"serviceLocationMunic": "0901",
+							"riskReductionCounseling": "YES",
+							"testingSite": "movil",
+							"serologicalStatusAwareness": "noConoceSuEstatus",
+							"syphilisTest": "YES",
+							"reminderNextTest": "YES",
+							"orgUnit": "lsA6RQnisaf",
+							"hivResult": "negativo",
+							"dhis2Action": "preubaDeVIH",
+							"nameTestOne": "determine",
+							"expiryDateOne": "2025-05-20",
+							"activityid": "T_LAC-XZVB-5392-20240530",
+							"informationMaterial": "YES",
+							"reminderFrequency": "3meses",
+							"stiDiagnosis": false,
+							"offerReminder": "YES",
+							"resultsDelivery": "YES",
+							"syphilisTestResult": "negativo",
+							"projectName": "LAC_HIV",
+							"dateOfServiceQuery": "YES",
+							"isUpdate": false,
+							"proofServiceReceived": "NO",
+							"orgUnitName": "GT_TEST_ASP"
+						},
+						"type": "s_dhis2Program_event"
+					}
+				],
+				"ws": {
+					"app": "dws",
+					"configVersion": "CMN_2.0",
+					"softwareVersion": "unknown"
+				},
+				"dc": {
+					"app": "WF-App",
+					"control": "wfa v~1.3.0, c:Online, p:walkin_existingClient_HIVtesting, wfa-config v13, ws v~1.5",
+					"network": "Online"
+				},
+				"processing": {
+					"created": "2024-05-31T22:38:23.000",
+					"history": [
+						{
+							"status": "downloaded",
+							"responseCode": 200,
+							"datetime": "2024-05-31T22:38:23.000",
+							"msg": "Downloaded and synced."
+						}
+					],
+					"status": "downloaded",
+					"syncUpCount": 0,
+					"historyData": {}
+				}
+			},
+			{
+				"date": {
+					"syncedLoc": "2024-05-31T02:17:35.000",
+					"updatedLoc": "2024-05-31T01:37:18.000",
+					"updatedUTC": "2024-05-30T16:37:18.000",
+					"capturedUTC": "2024-05-30T16:28:48.000",
+					"createdLoc": "2024-05-31T01:37:18.000",
+					"syncedUTC": "2024-05-30T17:17:35.000",
+					"capturedLoc": "2024-05-31T01:28:48.000",
+					"createdUTC": "2024-05-30T16:37:18.000"
+				},
+				"activeUserRoles": [
+					"lac_outNet",
+					"lac_rock",
+					"lac_asp"
+				],
+				"activeUser": "GT_TEST_ASP",
+				"creditedUsers": [
+					"GT_TEST_ASP"
+				],
+				"location": {},
+				"formData": {
+					"blockId": "block_clientIntervention_Online_Ipc",
+					"activityId": "GT_TEST_ASP_20240530_163718801",
+					"data": [
+						{
+							"displayValue": "T_LAC-VYLG-7285-20240530",
+							"name": "activityid",
+							"value": "T_LAC-VYLG-7285-20240530"
+						},
+						{
+							"displayValue": "2024-05-30T10:28:48.433",
+							"name": "activityDate_now",
+							"value": "2024-05-30T10:28:48.433"
+						},
+						{
+							"displayValue": "2024-05-30T10:28:48.433",
+							"name": "activityDate",
+							"value": "2024-05-30T10:28:48.433"
+						},
+						{
+							"displayValue": "SSE",
+							"name": "transactionType_SSEISS",
+							"value": "SSE"
+						},
+						{
+							"displayValue": "HER",
+							"name": "ownershipOfPhone",
+							"value": "HER"
+						},
+						{
+							"displayValue": "+50222519350",
+							"name": "phoneNumber",
+							"value": "+50222519350"
+						},
+						{
+							"displayValue": "+50222519350",
+							"name": "phoneNumber_whatsApp",
+							"value": "+50222519350"
+						},
+						{
+							"displayValue": "YESP",
+							"name": "contactConsentService",
+							"value": "YESP"
+						},
+						{
+							"displayValue": "whatsApp",
+							"name": "preferredContactMode",
+							"value": "whatsApp"
+						},
+						{
+							"displayValue": "",
+							"name": "localizedContact",
+							"value": ""
+						},
+						{
+							"displayValue": "YES",
+							"name": "dateOfServiceQuery",
+							"value": "YES"
+						},
+						{
+							"displayValue": "",
+							"name": "serviceDatePast",
+							"value": ""
+						},
+						{
+							"displayValue": "09",
+							"name": "serviceLocationDept",
+							"value": "09"
+						},
+						{
+							"displayValue": "0901",
+							"name": "serviceLocationMunic",
+							"value": "0901"
+						},
+						{
+							"displayValue": "presencial",
+							"name": "interventionLine",
+							"value": "presencial"
+						},
+						{
+							"displayValue": "",
+							"name": "interventionTypeOnline",
+							"value": ""
+						},
+						{
+							"displayValue": "jornada",
+							"name": "interventionTypePresencial",
+							"value": "jornada"
+						},
+						{
+							"displayValue": "ofertaDePruebaIndex",
+							"name": "interventionTypeIndexTesting",
+							"value": "ofertaDePruebaIndex"
+						},
+						{
+							"displayValue": "ofertaDePruebaSemilla",
+							"name": "interventionTypeSemilla",
+							"value": "ofertaDePruebaSemilla"
+						},
+						{
+							"displayValue": "",
+							"name": "contactOriginIndex",
+							"value": ""
+						},
+						{
+							"displayValue": "",
+							"name": "interventionResultIndexSemilla",
+							"value": ""
+						},
+						{
+							"displayValue": "",
+							"name": "hivStatus_Ipc",
+							"value": ""
+						},
+						{
+							"displayValue": "",
+							"name": "linkedToTreatment",
+							"value": ""
+						},
+						{
+							"displayValue": "",
+							"name": "nonEffectiveContactReason",
+							"value": ""
+						},
+						{
+							"displayValue": "",
+							"name": "declineReferralReason",
+							"value": ""
+						},
+						{
+							"displayValue": "",
+							"name": "contactOriginEnLinea",
+							"value": ""
+						},
+						{
+							"displayValue": "abordajeCaraACara",
+							"name": "contactOriginPresencial",
+							"value": "abordajeCaraACara"
+						},
+						{
+							"displayValue": "",
+							"name": "recruiterName",
+							"value": ""
+						},
+						{
+							"displayValue": "inSitu",
+							"name": "customerLocationMedium",
+							"value": "inSitu"
+						},
+						{
+							"displayValue": "",
+							"name": "googleCoordinates",
+							"value": ""
+						},
+						{
+							"displayValue": "",
+							"name": "location",
+							"value": ""
+						},
+						{
+							"displayValue": "autoPrueba",
+							"name": "healthyBehaviourPromoted",
+							"value": "autoPrueba"
+						},
+						{
+							"displayValue": "solicitudDelUsuario",
+							"name": "serviceDeliveryChannel",
+							"value": "solicitudDelUsuario"
+						},
+						{
+							"displayValue": "YES",
+							"name": "riskAssessment",
+							"value": "YES"
+						},
+						{
+							"displayValue": "medio",
+							"name": "riskLevel",
+							"value": "medio"
+						},
+						{
+							"displayValue": "recordatoriodecupón",
+							"name": "interventionResult",
+							"value": "recordatoriodecupón"
+						},
+						{
+							"displayValue": "",
+							"name": "prepDeclineReason",
+							"value": ""
+						},
+						{
+							"displayValue": "",
+							"name": "HIVselfTestDeclineReason",
+							"value": ""
+						},
+						{
+							"displayValue": "YES",
+							"name": "voucherReminderQuery",
+							"value": "YES"
+						},
+						{
+							"displayValue": "184270023510",
+							"name": "voucherCode",
+							"value": "184270023510"
+						}
+					]
+				},
+				"id": "GT_TEST_ASP_20240530_163718801",
+				"type": "IPC_INT",
+				"transactions": [
+					{
+						"clientDetails": {
+							"phoneNumber": "+50222519350",
+							"phoneNumber_whatsApp": "+50222519350",
+							"contactConsentService": "YESP",
+							"ownershipOfPhone": "HER",
+							"preferredContactMode": "whatsApp",
+							"localizedContact": ""
+						},
+						"type": "c_upd"
+					},
+					{
+						"dataValues": {
+							"phoneNumber": "+50222519350",
+							"phoneNumber_whatsApp": "+50222519350",
+							"contactConsentService": "YESP",
+							"orgUnit": "lsA6RQnisaf",
+							"ownershipOfPhone": "HER",
+							"dhis2Action": "trackEntity",
+							"projectName": "LAC_HIV",
+							"preferredContactMode": "whatsApp",
+							"localizedContact": "",
+							"isUpdate": true,
+							"orgUnitName": "GT_TEST_ASP"
+						},
+						"type": "s_dhis2Program_trackEntity"
+					},
+					{
+						"dataValues": {
+							"customerLocationMedium": "inSitu",
+							"riskLevel": "medio",
+							"healthyBehaviourPromoted": "autoPrueba",
+							"transactionType_SSEISS": "SSE",
+							"contactOriginPresencial": "abordajeCaraACara",
+							"voucherReminderQuery": "YES",
+							"interventionLine": "presencial",
+							"serviceDeliveryChannel": "solicitudDelUsuario",
+							"interventionResult": "recordatoriodecupón",
+							"activityid": "T_LAC-VYLG-7285-20240530",
+							"serviceLocationDept": "09",
+							"interventionTypePresencial": "jornada",
+							"location": "",
+							"riskAssessment": "YES",
+							"dateOfServiceQuery": "YES",
+							"voucherCode": "184270023510",
+							"serviceLocationMunic": "0901"
+						},
+						"clientDetails": {
+							"voucherCode": "184270023510"
+						},
+						"type": "c_inv"
+					},
+					{
+						"dataValues": {
+							"msg": "PASMO te envia tu numero de cupon: 184270023510. Sera un placer atenderte.",
+							"phoneNumber": "+50222519350",
+							"voucherCode": "184270023510"
+						},
+						"clientDetails": {
+							"voucherCode": "184270023510"
+						},
+						"type": "s_msg"
+					},
+					{
+						"dataValues": {
+							"customerLocationMedium": "inSitu",
+							"riskLevel": "medio",
+							"healthyBehaviourPromoted": "autoPrueba",
+							"orgUnit": "lsA6RQnisaf",
+							"transactionType_SSEISS": "SSE",
+							"contactOriginPresencial": "abordajeCaraACara",
+							"voucherReminderQuery": "YES",
+							"dhis2Action": "intervencion",
+							"interventionLine": "presencial",
+							"serviceDeliveryChannel": "solicitudDelUsuario",
+							"interventionResult": "recordatoriodecupón",
+							"activityid": "T_LAC-VYLG-7285-20240530",
+							"serviceLocationDept": "09",
+							"interventionTypePresencial": "jornada",
+							"location": "",
+							"riskAssessment": "YES",
+							"projectName": "LAC_HIV",
+							"dateOfServiceQuery": "YES",
+							"voucherCode": "184270023510",
+							"isUpdate": false,
+							"serviceLocationMunic": "0901",
+							"orgUnitName": "GT_TEST_ASP"
+						},
+						"type": "s_dhis2Program_event"
+					}
+				],
+				"ws": {
+					"app": "dws",
+					"configVersion": "CMN_2.0",
+					"softwareVersion": "unknown"
+				},
+				"dc": {
+					"app": "WF-App",
+					"control": "wfa v~1.3.0, c:Online, p:clientInterventionVoucherReminder, wfa-config v13, ws v~1.5",
+					"network": "Online"
+				},
+				"processing": {
+					"created": "2024-05-31T22:38:23.000",
+					"history": [
+						{
+							"status": "downloaded",
+							"responseCode": 200,
+							"datetime": "2024-05-31T22:38:23.000",
+							"msg": "Downloaded and synced."
+						}
+					],
+					"status": "downloaded",
+					"syncUpCount": 0,
+					"historyData": {}
+				}
+			},
+			{
+				"date": {
+					"syncedLoc": "2024-05-31T06:02:47.000",
+					"updatedLoc": "2024-05-31T05:59:45.000",
+					"updatedUTC": "2024-05-30T20:59:45.000",
+					"capturedUTC": "2024-05-30T20:58:24.000",
+					"createdLoc": "2024-05-31T05:59:45.000",
+					"syncedUTC": "2024-05-30T21:02:47.000",
+					"capturedLoc": "2024-05-31T05:58:24.000",
+					"createdUTC": "2024-05-30T20:59:45.000"
+				},
+				"activeUserRoles": [
+					"lac_outNet",
+					"lac_rock",
+					"lac_asp"
+				],
+				"activeUser": "GT_TEST_ASP",
+				"creditedUsers": [
+					"GT_TEST_ASP"
+				],
+				"location": {},
+				"formData": {
+					"blockId": "block_selfTestResults_Online",
+					"activityId": "GT_TEST_ASP_20240530_205945770",
+					"data": [
+						{
+							"displayValue": "T_LAC-RZAO-0345-20240530",
+							"name": "activityid",
+							"value": "T_LAC-RZAO-0345-20240530"
+						},
+						{
+							"displayValue": "2024-05-30T14:58:24.172",
+							"name": "activityDate_now",
+							"value": "2024-05-30T14:58:24.172"
+						},
+						{
+							"displayValue": "2024-05-30T14:58:24.172",
+							"name": "activityDate",
+							"value": "2024-05-30T14:58:24.172"
+						},
+						{
+							"displayValue": "184270023510",
+							"name": "voucherCode",
+							"value": "184270023510"
+						},
+						{
+							"displayValue": "YES",
+							"name": "dateOfServiceQuery",
+							"value": "YES"
+						},
+						{
+							"displayValue": "",
+							"name": "serviceDatePast",
+							"value": ""
+						},
+						{
+							"displayValue": "09",
+							"name": "serviceLocationDept",
+							"value": "09"
+						},
+						{
+							"displayValue": "0901",
+							"name": "serviceLocationMunic",
+							"value": "0901"
+						},
+						{
+							"displayValue": "staffPresencial",
+							"name": "assistanceType",
+							"value": "staffPresencial"
+						},
+						{
+							"displayValue": "YES",
+							"name": "resultKnown",
+							"value": "YES"
+						},
+						{
+							"displayValue": "negativo",
+							"name": "hivResult",
+							"value": "negativo"
+						},
+						{
+							"displayValue": "dfdddsd",
+							"name": "selfTestKitCode",
+							"value": "dfdddsd"
+						}
+					]
+				},
+				"id": "GT_TEST_ASP_20240530_205945770",
+				"type": "PROV_ST_RESULT",
+				"transactions": [
+					{
+						"clientDetails": {
+							"hivStatus": "negativo"
+						},
+						"type": "c_upd"
+					},
+					{
+						"dataValues": {
+							"orgUnit": "lsA6RQnisaf",
+							"dhis2Action": "trackEntity",
+							"projectName": "LAC_HIV",
+							"hivStatus": "negativo",
+							"isUpdate": true,
+							"orgUnitName": "GT_TEST_ASP"
+						},
+						"type": "s_dhis2Program_trackEntity"
+					},
+					{
+						"dataValues": {
+							"activityid": "T_LAC-RZAO-0345-20240530",
+							"assistanceType": "staffPresencial",
+							"resultKnown": "YES",
+							"serviceLocationDept": "09",
+							"hivResult": "negativo",
+							"selfTestKitCode": "dfdddsd",
+							"dateOfServiceQuery": "YES",
+							"voucherCode": "184270023510",
+							"serviceLocationMunic": "0901"
+						},
+						"clientDetails": {
+							"voucherCode": "184270023510"
+						},
+						"type": "v_rdx_selfTestResults"
+					},
+					{
+						"dataValues": {
+							"resultKnown": "YES",
+							"orgUnit": "lsA6RQnisaf",
+							"hivResult": "negativo",
+							"selfTestKitCode": "dfdddsd",
+							"dhis2Action": "resultadoAutoprueba",
+							"activityid": "T_LAC-RZAO-0345-20240530",
+							"assistanceType": "staffPresencial",
+							"serviceLocationDept": "09",
+							"projectName": "LAC_HIV",
+							"dateOfServiceQuery": "YES",
+							"voucherCode": "184270023510",
+							"isUpdate": false,
+							"serviceLocationMunic": "0901",
+							"orgUnitName": "GT_TEST_ASP"
+						},
+						"type": "s_dhis2Program_event"
+					}
+				],
+				"ws": {
+					"app": "dws",
+					"configVersion": "CMN_2.0",
+					"softwareVersion": "unknown"
+				},
+				"dc": {
+					"app": "WF-App",
+					"control": "wfa v~1.3.0, c:Online, p:selfTestResults, wfa-config v13, ws v~1.5",
+					"network": "Online"
+				},
+				"processing": {
+					"created": "2024-05-31T22:38:23.000",
+					"history": [
+						{
+							"status": "downloaded",
+							"responseCode": 200,
+							"datetime": "2024-05-31T22:38:23.000",
+							"msg": "Downloaded and synced."
+						}
+					],
+					"status": "downloaded",
+					"syncUpCount": 0,
+					"historyData": {}
+				}
+			},
+			{
+				"date": {
+					"syncedLoc": "2024-05-31T06:02:46.000",
+					"updatedLoc": "2024-05-31T06:02:37.000",
+					"updatedUTC": "2024-05-30T21:02:37.000",
+					"capturedUTC": "2024-05-30T21:01:41.000",
+					"createdLoc": "2024-05-31T06:02:37.000",
+					"syncedUTC": "2024-05-30T21:02:46.000",
+					"capturedLoc": "2024-05-31T06:01:41.000",
+					"createdUTC": "2024-05-30T21:02:37.000"
+				},
+				"activeUserRoles": [
+					"lac_outNet",
+					"lac_rock",
+					"lac_asp"
+				],
+				"activeUser": "GT_TEST_ASP",
+				"creditedUsers": [
+					"GT_TEST_ASP"
+				],
+				"location": {},
+				"formData": {
+					"blockId": "block_prep_Online",
+					"activityId": "GT_TEST_ASP_20240530_210237485",
+					"data": [
+						{
+							"displayValue": "T_LAC-TWLJ-9072-20240530",
+							"name": "activityid",
+							"value": "T_LAC-TWLJ-9072-20240530"
+						},
+						{
+							"displayValue": "2024-05-30T15:01:41.774",
+							"name": "activityDate_now",
+							"value": "2024-05-30T15:01:41.774"
+						},
+						{
+							"displayValue": "2024-05-30T15:01:41.774",
+							"name": "activityDate",
+							"value": "2024-05-30T15:01:41.774"
+						},
+						{
+							"displayValue": "184270023510",
+							"name": "voucherCode",
+							"value": "184270023510"
+						},
+						{
+							"displayValue": "YES",
+							"name": "dateOfServiceQuery",
+							"value": "YES"
+						},
+						{
+							"displayValue": "",
+							"name": "serviceDatePast",
+							"value": ""
+						},
+						{
+							"displayValue": "09",
+							"name": "serviceLocationDept",
+							"value": "09"
+						},
+						{
+							"displayValue": "0901",
+							"name": "serviceLocationMunic",
+							"value": "0901"
+						},
+						{
+							"displayValue": "inicioRapido",
+							"name": "serviceTypePrep",
+							"value": "inicioRapido"
+						},
+						{
+							"displayValue": "diario",
+							"name": "prepScheme",
+							"value": "diario"
+						},
+						{
+							"displayValue": "YES",
+							"name": "prepProvision",
+							"value": "YES"
+						},
+						{
+							"displayValue": "",
+							"name": "noPrepReason",
+							"value": ""
+						},
+						{
+							"displayValue": "fdfddds",
+							"name": "drug",
+							"value": "fdfddds"
+						},
+						{
+							"displayValue": "1frasco",
+							"name": "quantity",
+							"value": "1frasco"
+						},
+						{
+							"displayValue": "sfdsfdfdfdf",
+							"name": "lotNumber",
+							"value": "sfdsfdfdfdf"
+						},
+						{
+							"displayValue": "2024-10-31",
+							"name": "expiryDate",
+							"value": "2024-10-31"
+						},
+						{
+							"displayValue": "2024-07-26",
+							"name": "appointmentDate",
+							"value": "2024-07-26"
+						}
+					]
+				},
+				"id": "GT_TEST_ASP_20240530_210237485",
+				"type": "PROV_SP_PREP",
+				"transactions": [
+					{
+						"dataValues": {
+							"prepScheme": "diario",
+							"quantity": "1frasco",
+							"prepProvision": "YES",
+							"lotNumber": "sfdsfdfdfdf",
+							"drug": "fdfddds",
+							"expiryDate": "2024-10-31",
+							"activityid": "T_LAC-TWLJ-9072-20240530",
+							"serviceTypePrep": "inicioRapido",
+							"serviceLocationDept": "09",
+							"dateOfServiceQuery": "YES",
+							"appointmentDate": "2024-07-26",
+							"voucherCode": "184270023510",
+							"serviceLocationMunic": "0901"
+						},
+						"clientDetails": {
+							"voucherCode": "184270023510"
+						},
+						"type": "v_rdx_prep"
+					},
+					{
+						"dataValues": {
+							"prepScheme": "diario",
+							"quantity": "1frasco",
+							"orgUnit": "lsA6RQnisaf",
+							"prepProvision": "YES",
+							"dhis2Action": "provisionServiciosPrEP",
+							"lotNumber": "sfdsfdfdfdf",
+							"drug": "fdfddds",
+							"expiryDate": "2024-10-31",
+							"activityid": "T_LAC-TWLJ-9072-20240530",
+							"serviceTypePrep": "inicioRapido",
+							"serviceLocationDept": "09",
+							"projectName": "LAC_HIV",
+							"dateOfServiceQuery": "YES",
+							"appointmentDate": "2024-07-26",
+							"voucherCode": "184270023510",
+							"isUpdate": false,
+							"serviceLocationMunic": "0901",
+							"orgUnitName": "GT_TEST_ASP"
+						},
+						"type": "s_dhis2Program_event"
+					}
+				],
+				"ws": {
+					"app": "dws",
+					"configVersion": "CMN_2.0",
+					"softwareVersion": "unknown"
+				},
+				"dc": {
+					"app": "WF-App",
+					"control": "wfa v~1.3.0, c:Online, p:prep, wfa-config v13, ws v~1.5",
+					"network": "Online"
+				},
+				"processing": {
+					"created": "2024-05-31T22:38:23.000",
+					"history": [
+						{
+							"status": "downloaded",
+							"responseCode": 200,
+							"datetime": "2024-05-31T22:38:23.000",
+							"msg": "Downloaded and synced."
+						}
+					],
+					"status": "downloaded",
+					"syncUpCount": 0,
+					"historyData": {}
+				}
+			},
+			{
+				"date": {
+					"syncedLoc": "2024-05-31T06:16:39.000",
+					"updatedLoc": "2024-05-31T06:16:39.000",
+					"updatedUTC": "2024-05-30T21:16:39.000",
+					"capturedUTC": "2024-05-30T21:16:10.000",
+					"createdLoc": "2024-05-31T06:16:39.000",
+					"syncedUTC": "2024-05-30T21:16:39.000",
+					"capturedLoc": "2024-05-31T06:16:10.000",
+					"createdUTC": "2024-05-30T21:16:39.000"
+				},
+				"activeUserRoles": [
+					"lac_outNet",
+					"lac_rock",
+					"lac_asp"
+				],
+				"activeUser": "GT_TEST_ASP",
+				"creditedUsers": [
+					"GT_TEST_ASP"
+				],
+				"location": {},
+				"formData": {
+					"blockId": "blockClientRelAdd",
+					"activityId": "GT_TEST_ASP_20240530_211639415",
+					"data": [
+						{
+							"displayValue": "2024-05-30T15:16:10.076",
+							"name": "activityDate_now",
+							"value": "2024-05-30T15:16:10.076"
+						},
+						{
+							"displayValue": "2024-05-30T15:16:10.076",
+							"name": "activityDate",
+							"value": "2024-05-30T15:16:10.076"
+						},
+						{
+							"displayValue": "6166ed74cd6e4a08ab3c1cd0",
+							"name": "clientId",
+							"value": "6166ed74cd6e4a08ab3c1cd0"
+						},
+						{
+							"displayValue": "Test",
+							"name": "firstName",
+							"value": "Test"
+						},
+						{
+							"displayValue": "User",
+							"name": "lastName",
+							"value": "User"
+						},
+						{
+							"displayValue": "Kimmy",
+							"name": "nickName",
+							"value": "Kimmy"
+						},
+						{
+							"displayValue": "+99876",
+							"name": "phoneNumber",
+							"value": "+99876"
+						},
+						{
+							"displayValue": "",
+							"name": "contactDay",
+							"value": ""
+						},
+						{
+							"displayValue": "",
+							"name": "contactTime",
+							"value": ""
+						},
+						{
+							"displayValue": "",
+							"name": "socialMediaNetwork",
+							"value": ""
+						},
+						{
+							"displayValue": "",
+							"name": "otherNetwork",
+							"value": ""
+						},
+						{
+							"displayValue": "Test",
+							"name": "comments",
+							"value": "Test"
+						},
+						{
+							"displayValue": "SP-Contact",
+							"name": "relationship",
+							"value": "SP-Contact"
+						},
+						{
+							"displayValue": "YES",
+							"name": "dateOfServiceQuery",
+							"value": "YES"
+						},
+						{
+							"displayValue": "",
+							"name": "serviceDatePast",
+							"value": ""
+						},
+						{
+							"displayValue": "YES",
+							"name": "ipvEvaluation",
+							"value": "YES"
+						},
+						{
+							"displayValue": "NO",
+							"name": "physicalViolence",
+							"value": "NO"
+						},
+						{
+							"displayValue": "NO",
+							"name": "psychologicalViolence",
+							"value": "NO"
+						},
+						{
+							"displayValue": "NO",
+							"name": "sexualViolence",
+							"value": "NO"
+						},
+						{
+							"displayValue": "",
+							"name": "firstLineCare",
+							"value": ""
+						},
+						{
+							"displayValue": "",
+							"name": "referredService",
+							"value": ""
+						},
+						{
+							"displayValue": "NO",
+							"name": "impliedRisk",
+							"value": "NO"
+						},
+						{
+							"displayValue": "porProveedor",
+							"name": "notificationPlan",
+							"value": "porProveedor"
+						}
+					]
+				},
+				"id": "GT_TEST_ASP_20240530_211639415",
+				"transactions": [
+					{
+						"type": "r_add",
+						"relationship": {
+							"date": "2024-05-30T21:16:39.415Z",
+							"clientId": "6166ed74cd6e4a08ab3c1cd0",
+							"type": "SP-Contact",
+							"dateOfServiceQuery": "YES",
+							"addedType": "source"
+						}
+					}
+				],
+				"type": "IPC_CLIENT_REL",
+				"ws": {
+					"app": "dws",
+					"configVersion": "CMN_2.0",
+					"softwareVersion": "unknown"
+				},
+				"dc": {
+					"app": "WF-App",
+					"network": "Online"
+				},
+				"processing": {
+					"created": "2024-05-31T22:38:23.000",
+					"history": [
+						{
+							"status": "downloaded",
+							"responseCode": 200,
+							"datetime": "2024-05-31T22:38:23.000",
+							"msg": "Downloaded and synced."
+						}
+					],
+					"status": "downloaded",
+					"syncUpCount": 0,
+					"historyData": {}
+				}
+			},
+			{
+				"date": {
+					"syncedLoc": "2024-05-31T06:51:19.000",
+					"updatedLoc": "2024-05-31T06:51:19.000",
+					"updatedUTC": "2024-05-30T21:51:19.000",
+					"capturedUTC": "2024-05-30T21:37:30.000",
+					"createdLoc": "2024-05-31T06:51:19.000",
+					"syncedUTC": "2024-05-30T21:51:19.000",
+					"capturedLoc": "2024-05-31T06:37:30.000",
+					"createdUTC": "2024-05-30T21:51:19.000"
+				},
+				"activeUserRoles": [
+					"lac_outNet",
+					"lac_rock",
+					"lac_asp"
+				],
+				"activeUser": "GT_TEST_ASP",
+				"creditedUsers": [
+					"GT_TEST_ASP"
+				],
+				"location": {},
+				"formData": {
+					"blockId": "blockClientRelSearch.blockAddNewClientRelForm",
+					"activityId": "GT_TEST_ASP_20240530_215119789",
+					"data": [
+						{
+							"displayValue": "2024-05-30T15:37:30.827",
+							"name": "activityDate_now",
+							"value": "2024-05-30T15:37:30.827"
+						},
+						{
+							"displayValue": "2024-05-30T15:37:30.827",
+							"name": "activityDate",
+							"value": "2024-05-30T15:37:30.827"
+						},
+						{
+							"displayValue": "Juan",
+							"name": "firstName",
+							"value": "Juan"
+						},
+						{
+							"displayValue": "Alvarez",
+							"name": "lastName",
+							"value": "Alvarez"
+						},
+						{
+							"displayValue": "colochito",
+							"name": "nickName",
+							"value": "colochito"
+						},
+						{
+							"displayValue": "+50222302135",
+							"name": "phoneNumber",
+							"value": "+50222302135"
+						},
+						{
+							"displayValue": "M",
+							"name": "sex",
+							"value": "M"
+						},
+						{
+							"displayValue": "25",
+							"name": "age",
+							"value": "25"
+						},
+						{
+							"displayValue": "",
+							"name": "contactDay",
+							"value": ""
+						},
+						{
+							"displayValue": "",
+							"name": "contactTime",
+							"value": ""
+						},
+						{
+							"displayValue": "",
+							"name": "socialMediaNetwork",
+							"value": ""
+						},
+						{
+							"displayValue": "",
+							"name": "otherNetwork",
+							"value": ""
+						},
+						{
+							"displayValue": "pendiente de contactar",
+							"name": "comments",
+							"value": "pendiente de contactar"
+						},
+						{
+							"displayValue": "SP-Contact",
+							"name": "relationship",
+							"value": "SP-Contact"
+						},
+						{
+							"displayValue": "YES",
+							"name": "dateOfServiceQuery",
+							"value": "YES"
+						},
+						{
+							"displayValue": "",
+							"name": "serviceDatePast",
+							"value": ""
+						},
+						{
+							"displayValue": "NO",
+							"name": "ipvEvaluation",
+							"value": "NO"
+						},
+						{
+							"displayValue": "",
+							"name": "physicalViolence",
+							"value": ""
+						},
+						{
+							"displayValue": "",
+							"name": "psychologicalViolence",
+							"value": ""
+						},
+						{
+							"displayValue": "",
+							"name": "sexualViolence",
+							"value": ""
+						},
+						{
+							"displayValue": "",
+							"name": "firstLineCare",
+							"value": ""
+						},
+						{
+							"displayValue": "",
+							"name": "referredService",
+							"value": ""
+						},
+						{
+							"displayValue": "",
+							"name": "impliedRisk",
+							"value": ""
+						},
+						{
+							"displayValue": "",
+							"name": "notificationPlan",
+							"value": ""
+						}
+					]
+				},
+				"id": "GT_TEST_ASP_20240530_215119789",
+				"transactions": [
+					{
+						"type": "r_add",
+						"relationship": {
+							"date": "2024-05-30T21:51:19.789Z",
+							"clientId": "6658f4d74e360399a41c23ab",
+							"type": "SP-Leader",
+							"dateOfServiceQuery": "YES",
+							"addedType": "source"
+						}
+					}
+				],
+				"type": "IPC_CLIENT_REL",
+				"ws": {
+					"app": "dws",
+					"configVersion": "CMN_2.0",
+					"softwareVersion": "unknown"
+				},
+				"dc": {
+					"app": "WF-App",
+					"network": "Online"
+				},
+				"processing": {
+					"created": "2024-05-31T22:38:23.000",
+					"history": [
+						{
+							"status": "downloaded",
+							"responseCode": 200,
+							"datetime": "2024-05-31T22:38:23.000",
+							"msg": "Downloaded and synced."
+						}
+					],
+					"status": "downloaded",
+					"syncUpCount": 0,
+					"historyData": {}
+				}
+			},
+			{
+				"date": {
+					"syncedLoc": "2024-05-31T07:08:40.000",
+					"updatedLoc": "2024-05-31T07:08:40.000",
+					"updatedUTC": "2024-05-30T22:08:40.000",
+					"capturedUTC": "2024-05-30T22:07:45.000",
+					"createdLoc": "2024-05-31T07:08:40.000",
+					"syncedUTC": "2024-05-30T22:08:40.000",
+					"capturedLoc": "2024-05-31T07:07:45.000",
+					"createdUTC": "2024-05-30T22:08:40.000"
+				},
+				"activeUserRoles": [
+					"lac_outNet",
+					"lac_rock",
+					"lac_asp"
+				],
+				"activeUser": "GT_TEST_ASP",
+				"creditedUsers": [
+					"GT_TEST_ASP"
+				],
+				"location": {},
+				"formData": {
+					"blockId": "blockClientRelSearch.blockAddNewClientRelForm",
+					"activityId": "GT_TEST_ASP_20240530_220840280",
+					"data": [
+						{
+							"displayValue": "2024-05-30T16:07:45.667",
+							"name": "activityDate_now",
+							"value": "2024-05-30T16:07:45.667"
+						},
+						{
+							"displayValue": "2024-05-30T16:07:45.667",
+							"name": "activityDate",
+							"value": "2024-05-30T16:07:45.667"
+						},
+						{
+							"displayValue": "Sergio",
+							"name": "firstName",
+							"value": "Sergio"
+						},
+						{
+							"displayValue": "Andrade",
+							"name": "lastName",
+							"value": "Andrade"
+						},
+						{
+							"displayValue": "",
+							"name": "nickName",
+							"value": ""
+						},
+						{
+							"displayValue": "+50222202125",
+							"name": "phoneNumber",
+							"value": "+50222202125"
+						},
+						{
+							"displayValue": "M",
+							"name": "sex",
+							"value": "M"
+						},
+						{
+							"displayValue": "30",
+							"name": "age",
+							"value": "30"
+						},
+						{
+							"displayValue": "",
+							"name": "contactDay",
+							"value": ""
+						},
+						{
+							"displayValue": "",
+							"name": "contactTime",
+							"value": ""
+						},
+						{
+							"displayValue": "",
+							"name": "socialMediaNetwork",
+							"value": ""
+						},
+						{
+							"displayValue": "",
+							"name": "otherNetwork",
+							"value": ""
+						},
+						{
+							"displayValue": "pendiente",
+							"name": "comments",
+							"value": "pendiente"
+						},
+						{
+							"displayValue": "SP-Contact",
+							"name": "relationship",
+							"value": "SP-Contact"
+						},
+						{
+							"displayValue": "YES",
+							"name": "dateOfServiceQuery",
+							"value": "YES"
+						},
+						{
+							"displayValue": "",
+							"name": "serviceDatePast",
+							"value": ""
+						},
+						{
+							"displayValue": "NO",
+							"name": "ipvEvaluation",
+							"value": "NO"
+						},
+						{
+							"displayValue": "",
+							"name": "physicalViolence",
+							"value": ""
+						},
+						{
+							"displayValue": "",
+							"name": "psychologicalViolence",
+							"value": ""
+						},
+						{
+							"displayValue": "",
+							"name": "sexualViolence",
+							"value": ""
+						},
+						{
+							"displayValue": "",
+							"name": "firstLineCare",
+							"value": ""
+						},
+						{
+							"displayValue": "",
+							"name": "referredService",
+							"value": ""
+						},
+						{
+							"displayValue": "",
+							"name": "impliedRisk",
+							"value": ""
+						},
+						{
+							"displayValue": "",
+							"name": "notificationPlan",
+							"value": ""
+						}
+					]
+				},
+				"id": "GT_TEST_ASP_20240530_220840280",
+				"transactions": [
+					{
+						"type": "r_add",
+						"relationship": {
+							"date": "2024-05-30T22:08:40.280Z",
+							"clientId": "6658f8e84e360399a41c23ed",
+							"type": "SP-Leader",
+							"dateOfServiceQuery": "YES",
+							"addedType": "source"
+						}
+					}
+				],
+				"type": "IPC_CLIENT_REL",
+				"ws": {
+					"app": "dws",
+					"configVersion": "CMN_2.0",
+					"softwareVersion": "unknown"
+				},
+				"dc": {
+					"app": "WF-App",
+					"network": "Online"
+				},
+				"processing": {
+					"created": "2024-05-31T22:38:23.000",
+					"history": [
+						{
+							"status": "downloaded",
+							"responseCode": 200,
+							"datetime": "2024-05-31T22:38:23.000",
+							"msg": "Downloaded and synced."
+						}
+					],
+					"status": "downloaded",
+					"syncUpCount": 0,
+					"historyData": {}
+				}
+			},
+			{
+				"date": {
+					"syncedLoc": "2024-05-31T07:20:46.000",
+					"updatedLoc": "2024-05-31T07:20:46.000",
+					"updatedUTC": "2024-05-30T22:20:46.000",
+					"capturedUTC": "2024-05-30T22:20:46.316",
+					"createdLoc": "2024-05-31T07:20:46.000",
+					"syncedUTC": "2024-05-30T22:20:46.000",
+					"capturedLoc": "2024-05-31T07:20:46.000",
+					"createdUTC": "2024-05-30T22:20:46.000"
+				},
+				"activeUserRoles": [
+					"lac_outNet",
+					"lac_rock",
+					"lac_asp"
+				],
+				"activeUser": "GT_TEST_ASP",
+				"creditedUsers": [
+					"GT_TEST_ASP"
+				],
+				"location": {},
+				"id": "GT_TEST_ASP_20240530_222046316",
+				"transactions": [
+					{
+						"type": "r_del",
+						"relationship": {
+							"clientId": "6658f8e84e360399a41c23ed",
+							"type": "SP-Leader"
+						}
+					}
+				],
+				"type": "",
+				"ws": {
+					"app": "dws",
+					"configVersion": "CMN_2.0",
+					"softwareVersion": "unknown"
+				},
+				"dc": {
+					"app": "WF-App",
+					"network": "Online"
+				},
+				"processing": {
+					"created": "2024-05-31T22:38:23.000",
+					"history": [
+						{
+							"status": "downloaded",
+							"responseCode": 200,
+							"datetime": "2024-05-31T22:38:23.000",
+							"msg": "Downloaded and synced."
+						}
+					],
+					"status": "downloaded",
+					"syncUpCount": 0,
+					"historyData": {}
+				}
+			},
+			{
+				"date": {
+					"syncedLoc": "2024-05-31T07:22:14.000",
+					"updatedLoc": "2024-05-31T07:22:14.000",
+					"updatedUTC": "2024-05-30T22:22:14.000",
+					"capturedUTC": "2024-05-20T06:00:00.000",
+					"createdLoc": "2024-05-31T07:22:14.000",
+					"syncedUTC": "2024-05-30T22:22:14.000",
+					"capturedLoc": "2024-05-20T15:00:00.000",
+					"createdUTC": "2024-05-30T22:22:14.000"
+				},
+				"activeUserRoles": [
+					"lac_outNet",
+					"lac_rock",
+					"lac_asp"
+				],
+				"activeUser": "GT_TEST_ASP",
+				"creditedUsers": [
+					"GT_TEST_ASP"
+				],
+				"location": {},
+				"formData": {
+					"blockId": "blockClientRelSearch.blockAddNewClientRelForm",
+					"activityId": "GT_TEST_ASP_20240530_222214722",
+					"data": [
+						{
+							"displayValue": "2024-05-30T16:21:16.373",
+							"name": "activityDate_now",
+							"value": "2024-05-30T16:21:16.373"
+						},
+						{
+							"displayValue": "2024-05-20",
+							"name": "activityDate",
+							"value": "2024-05-20"
+						},
+						{
+							"displayValue": "",
+							"name": "firstName",
+							"value": ""
+						},
+						{
+							"displayValue": "tzul",
+							"name": "lastName",
+							"value": "tzul"
+						},
+						{
+							"displayValue": "",
+							"name": "nickName",
+							"value": ""
+						},
+						{
+							"displayValue": "+50222302125",
+							"name": "phoneNumber",
+							"value": "+50222302125"
+						},
+						{
+							"displayValue": "M",
+							"name": "sex",
+							"value": "M"
+						},
+						{
+							"displayValue": "30",
+							"name": "age",
+							"value": "30"
+						},
+						{
+							"displayValue": "",
+							"name": "contactDay",
+							"value": ""
+						},
+						{
+							"displayValue": "",
+							"name": "contactTime",
+							"value": ""
+						},
+						{
+							"displayValue": "",
+							"name": "socialMediaNetwork",
+							"value": ""
+						},
+						{
+							"displayValue": "",
+							"name": "otherNetwork",
+							"value": ""
+						},
+						{
+							"displayValue": "pendiente de con",
+							"name": "comments",
+							"value": "pendiente de con"
+						},
+						{
+							"displayValue": "SP-Contact",
+							"name": "relationship",
+							"value": "SP-Contact"
+						},
+						{
+							"displayValue": "YES",
+							"name": "dateOfServiceQuery",
+							"value": "NO"
+						},
+						{
+							"displayValue": "2024-05-20",
+							"name": "serviceDatePast",
+							"value": "2024-05-20"
+						},
+						{
+							"displayValue": "NO",
+							"name": "ipvEvaluation",
+							"value": "NO"
+						},
+						{
+							"displayValue": "",
+							"name": "physicalViolence",
+							"value": ""
+						},
+						{
+							"displayValue": "",
+							"name": "psychologicalViolence",
+							"value": ""
+						},
+						{
+							"displayValue": "",
+							"name": "sexualViolence",
+							"value": ""
+						},
+						{
+							"displayValue": "",
+							"name": "firstLineCare",
+							"value": ""
+						},
+						{
+							"displayValue": "",
+							"name": "referredService",
+							"value": ""
+						},
+						{
+							"displayValue": "",
+							"name": "impliedRisk",
+							"value": ""
+						},
+						{
+							"displayValue": "",
+							"name": "notificationPlan",
+							"value": ""
+						}
+					]
+				},
+				"id": "GT_TEST_ASP_20240530_222214722",
+				"transactions": [
+					{
+						"type": "r_add",
+						"relationship": {
+							"date": "2024-05-30T22:22:14.722Z",
+							"clientId": "6658fc164e360399a41c2423",
+							"serviceDatePast": "2024-05-20",
+							"type": "SP-Leader",
+							"dateOfServiceQuery": "NO",
+							"addedType": "source"
+						}
+					}
+				],
+				"type": "IPC_CLIENT_REL",
+				"ws": {
+					"app": "dws",
+					"configVersion": "CMN_2.0",
+					"softwareVersion": "unknown"
+				},
+				"dc": {
+					"app": "WF-App",
+					"network": "Online"
+				},
+				"processing": {
+					"created": "2024-05-31T22:38:23.000",
+					"history": [
+						{
+							"status": "downloaded",
+							"responseCode": 200,
+							"datetime": "2024-05-31T22:38:23.000",
+							"msg": "Downloaded and synced."
+						}
+					],
+					"status": "downloaded",
+					"syncUpCount": 0,
+					"historyData": {}
+				}
+			},
+			{
+				"date": {
+					"syncedLoc": "2024-05-31T07:36:16.000",
+					"updatedLoc": "2024-05-31T07:36:15.000",
+					"updatedUTC": "2024-05-30T22:36:15.000",
+					"capturedUTC": "2024-05-30T22:35:13.000",
+					"createdLoc": "2024-05-31T07:36:15.000",
+					"syncedUTC": "2024-05-30T22:36:16.000",
+					"capturedLoc": "2024-05-31T07:35:13.000",
+					"createdUTC": "2024-05-30T22:36:15.000"
+				},
+				"activeUserRoles": [
+					"lac_outNet",
+					"lac_rock",
+					"lac_asp"
+				],
+				"activeUser": "GT_TEST_ASP",
+				"creditedUsers": [
+					"GT_TEST_ASP"
+				],
+				"location": {},
+				"formData": {
+					"blockId": "blockClientRelSearch.blockAddNewClientRelForm",
+					"activityId": "GT_TEST_ASP_20240530_223615965",
+					"data": [
+						{
+							"displayValue": "2024-05-30T16:35:13.335",
+							"name": "activityDate_now",
+							"value": "2024-05-30T16:35:13.335"
+						},
+						{
+							"displayValue": "2024-05-30T16:35:13.335",
+							"name": "activityDate",
+							"value": "2024-05-30T16:35:13.335"
+						},
+						{
+							"displayValue": "sebastian",
+							"name": "firstName",
+							"value": "sebastian"
+						},
+						{
+							"displayValue": "Mota",
+							"name": "lastName",
+							"value": "Mota"
+						},
+						{
+							"displayValue": "",
+							"name": "nickName",
+							"value": ""
+						},
+						{
+							"displayValue": "+50250236266",
+							"name": "phoneNumber",
+							"value": "+50250236266"
+						},
+						{
+							"displayValue": "M",
+							"name": "sex",
+							"value": "M"
+						},
+						{
+							"displayValue": "32",
+							"name": "age",
+							"value": "32"
+						},
+						{
+							"displayValue": "2024-06-03",
+							"name": "contactDay",
+							"value": "2024-06-03"
+						},
+						{
+							"displayValue": "",
+							"name": "contactTime",
+							"value": ""
+						},
+						{
+							"displayValue": "whatsApp",
+							"name": "socialMediaNetwork",
+							"value": "whatsApp"
+						},
+						{
+							"displayValue": "",
+							"name": "otherNetwork",
+							"value": ""
+						},
+						{
+							"displayValue": "acepto la prueba en dos dias",
+							"name": "comments",
+							"value": "acepto la prueba en dos dias"
+						},
+						{
+							"displayValue": "SP-Contact",
+							"name": "relationship",
+							"value": "SP-Contact"
+						},
+						{
+							"displayValue": "YES",
+							"name": "dateOfServiceQuery",
+							"value": "YES"
+						},
+						{
+							"displayValue": "",
+							"name": "serviceDatePast",
+							"value": ""
+						},
+						{
+							"displayValue": "NO",
+							"name": "ipvEvaluation",
+							"value": "NO"
+						},
+						{
+							"displayValue": "",
+							"name": "physicalViolence",
+							"value": ""
+						},
+						{
+							"displayValue": "",
+							"name": "psychologicalViolence",
+							"value": ""
+						},
+						{
+							"displayValue": "",
+							"name": "sexualViolence",
+							"value": ""
+						},
+						{
+							"displayValue": "",
+							"name": "firstLineCare",
+							"value": ""
+						},
+						{
+							"displayValue": "",
+							"name": "referredService",
+							"value": ""
+						},
+						{
+							"displayValue": "",
+							"name": "impliedRisk",
+							"value": ""
+						},
+						{
+							"displayValue": "",
+							"name": "notificationPlan",
+							"value": ""
+						}
+					]
+				},
+				"id": "GT_TEST_ASP_20240530_223615965",
+				"transactions": [
+					{
+						"type": "r_add",
+						"relationship": {
+							"date": "2024-05-30T22:36:15.965Z",
+							"clientId": "6658ff5f4e360399a41c2457",
+							"type": "SP-Leader",
+							"dateOfServiceQuery": "YES",
+							"addedType": "source"
+						}
+					}
+				],
+				"type": "IPC_CLIENT_REL",
+				"ws": {
+					"app": "dws",
+					"configVersion": "CMN_2.0",
+					"softwareVersion": "unknown"
+				},
+				"dc": {
+					"app": "WF-App",
+					"network": "Online"
+				},
+				"processing": {
+					"created": "2024-05-31T22:38:23.000",
+					"history": [
+						{
+							"status": "downloaded",
+							"responseCode": 200,
+							"datetime": "2024-05-31T22:38:23.000",
+							"msg": "Downloaded and synced."
+						}
+					],
+					"status": "downloaded",
+					"syncUpCount": 0,
+					"historyData": {}
+				}
+			}
+		],
+		"_id": "6658a7384e360399a41c1ee6"
+	},
+	{
+		"date": {
+			"updatedOnMdbUTC": "2024-05-30T22:36:15.754",
+			"updatedLoc": "2024-05-31T07:36:15.000",
+			"updatedUTC": "2024-05-30T22:36:15.754",
+			"createdLoc": "2024-05-31T07:36:15.000",
+			"createdUTC": "2024-05-30T22:36:15.754",
+			"updatedOnMdbLoc": "2024-05-31T07:36:15.000"
+		},
+		"relationships": [
+			{
+				"date": "2024-05-30T22:36:11.695Z",
+				"clientId": "6658a7384e360399a41c1ee6",
+				"type": "SP-Contact",
+				"dateOfServiceQuery": "YES",
+				"addedType": "contact"
+			}
+		],
+		"clientDetails": {
+			"lastName": "Mota",
+			"country": "T_GT",
+			"contactTime": "",
+			"comments": "acepto la prueba en dos dias",
+			"nickName": "",
+			"sex": "M",
+			"contactDay": "2024-06-03",
+			"socialMediaNetwork": "whatsApp",
+			"activeUsers": [
+				"GT_TEST_ASP"
+			],
+			"firstName": "sebastian",
+			"phoneNumber": "+50250236266",
+			"voucherCodes": [],
+			"creditedUsers": [],
+			"age": "32"
+		},
+		"schemaVersion": "1-RC.2",
+		"activities": [
+			{
+				"date": {
+					"syncedLoc": "2024-05-31T07:36:11.000",
+					"updatedLoc": "2024-05-31T07:36:11.000",
+					"updatedUTC": "2024-05-30T22:36:11.000",
+					"capturedUTC": "2024-05-30T22:35:13.000",
+					"createdLoc": "2024-05-31T07:36:11.000",
+					"syncedUTC": "2024-05-30T22:36:11.000",
+					"capturedLoc": "2024-05-31T07:35:13.000",
+					"createdUTC": "2024-05-30T22:36:11.000"
+				},
+				"activeUserRoles": [
+					"lac_outNet",
+					"lac_rock",
+					"lac_asp"
+				],
+				"activeUser": "GT_TEST_ASP",
+				"creditedUsers": [
+					"GT_TEST_ASP"
+				],
+				"location": {},
+				"formData": {
+					"blockId": "blockClientRelSearch.blockAddNewClientRelForm",
+					"activityId": "GT_TEST_ASP_20240530_223611695",
+					"data": [
+						{
+							"displayValue": "2024-05-30T16:35:13.335",
+							"name": "activityDate_now",
+							"value": "2024-05-30T16:35:13.335"
+						},
+						{
+							"displayValue": "2024-05-30T16:35:13.335",
+							"name": "activityDate",
+							"value": "2024-05-30T16:35:13.335"
+						},
+						{
+							"displayValue": "sebastian",
+							"name": "firstName",
+							"value": "sebastian"
+						},
+						{
+							"displayValue": "Mota",
+							"name": "lastName",
+							"value": "Mota"
+						},
+						{
+							"displayValue": "",
+							"name": "nickName",
+							"value": ""
+						},
+						{
+							"displayValue": "+50250236266",
+							"name": "phoneNumber",
+							"value": "+50250236266"
+						},
+						{
+							"displayValue": "M",
+							"name": "sex",
+							"value": "M"
+						},
+						{
+							"displayValue": "32",
+							"name": "age",
+							"value": "32"
+						},
+						{
+							"displayValue": "2024-06-03",
+							"name": "contactDay",
+							"value": "2024-06-03"
+						},
+						{
+							"displayValue": "",
+							"name": "contactTime",
+							"value": ""
+						},
+						{
+							"displayValue": "whatsApp",
+							"name": "socialMediaNetwork",
+							"value": "whatsApp"
+						},
+						{
+							"displayValue": "",
+							"name": "otherNetwork",
+							"value": ""
+						},
+						{
+							"displayValue": "acepto la prueba en dos dias",
+							"name": "comments",
+							"value": "acepto la prueba en dos dias"
+						},
+						{
+							"displayValue": "SP-Contact",
+							"name": "relationship",
+							"value": "SP-Contact"
+						},
+						{
+							"displayValue": "YES",
+							"name": "dateOfServiceQuery",
+							"value": "YES"
+						},
+						{
+							"displayValue": "",
+							"name": "serviceDatePast",
+							"value": ""
+						},
+						{
+							"displayValue": "NO",
+							"name": "ipvEvaluation",
+							"value": "NO"
+						},
+						{
+							"displayValue": "",
+							"name": "physicalViolence",
+							"value": ""
+						},
+						{
+							"displayValue": "",
+							"name": "psychologicalViolence",
+							"value": ""
+						},
+						{
+							"displayValue": "",
+							"name": "sexualViolence",
+							"value": ""
+						},
+						{
+							"displayValue": "",
+							"name": "firstLineCare",
+							"value": ""
+						},
+						{
+							"displayValue": "",
+							"name": "referredService",
+							"value": ""
+						},
+						{
+							"displayValue": "",
+							"name": "impliedRisk",
+							"value": ""
+						},
+						{
+							"displayValue": "",
+							"name": "notificationPlan",
+							"value": ""
+						}
+					]
+				},
+				"id": "GT_TEST_ASP_20240530_223611695",
+				"transactions": [
+					{
+						"clientDetails": {
+							"lastName": "Mota",
+							"country": "T_GT",
+							"contactTime": "",
+							"comments": "acepto la prueba en dos dias",
+							"nickName": "",
+							"sex": "M",
+							"contactDay": "2024-06-03",
+							"socialMediaNetwork": "whatsApp",
+							"activeUsers": [
+								"GT_TEST_ASP"
+							],
+							"firstName": "sebastian",
+							"phoneNumber": "+50250236266",
+							"voucherCodes": [],
+							"creditedUsers": [],
+							"age": "32"
+						},
+						"type": "c_reg"
+					},
+					{
+						"type": "r_add",
+						"relationship": {
+							"date": "2024-05-30T22:36:11.695Z",
+							"clientId": "6658a7384e360399a41c1ee6",
+							"type": "SP-Contact",
+							"dateOfServiceQuery": "YES",
+							"addedType": "contact"
+						}
+					}
+				],
+				"type": "IPC_CLIENT_REL",
+				"ws": {
+					"app": "dws",
+					"configVersion": "CMN_2.0",
+					"softwareVersion": "unknown"
+				},
+				"dc": {
+					"app": "WF-App",
+					"network": "Online"
+				},
+				"processing": {
+					"created": "2024-05-31T22:38:23.000",
+					"history": [
+						{
+							"status": "downloaded",
+							"responseCode": 200,
+							"datetime": "2024-05-31T22:38:23.000",
+							"msg": "Downloaded and synced."
+						}
+					],
+					"status": "downloaded",
+					"syncUpCount": 0,
+					"historyData": {}
+				}
+			}
+		],
+		"_id": "6658ff5f4e360399a41c2457"
+	},
+	{
+		"date": {
+			"updatedOnMdbUTC": "2024-05-30T22:22:14.515",
+			"updatedLoc": "2024-05-31T07:22:14.000",
+			"updatedUTC": "2024-05-30T22:22:14.515",
+			"createdLoc": "2024-05-31T07:22:14.000",
+			"createdUTC": "2024-05-30T22:22:14.515",
+			"updatedOnMdbLoc": "2024-05-31T07:22:14.000"
+		},
+		"relationships": [
+			{
+				"date": "2024-05-30T22:22:10.538Z",
+				"clientId": "6658a7384e360399a41c1ee6",
+				"serviceDatePast": "2024-05-20",
+				"type": "SP-Contact",
+				"dateOfServiceQuery": "NO",
+				"addedType": "contact"
+			}
+		],
+		"clientDetails": {
+			"lastName": "tzul",
+			"country": "T_GT",
+			"contactTime": "",
+			"comments": "pendiente de con",
+			"nickName": "",
+			"sex": "M",
+			"contactDay": "",
+			"socialMediaNetwork": "",
+			"activeUsers": [
+				"GT_TEST_ASP"
+			],
+			"firstName": "",
+			"phoneNumber": "+50222302125",
+			"voucherCodes": [],
+			"creditedUsers": [],
+			"age": "30"
+		},
+		"schemaVersion": "1-RC.2",
+		"activities": [
+			{
+				"date": {
+					"syncedLoc": "2024-05-31T07:22:10.000",
+					"updatedLoc": "2024-05-31T07:22:10.000",
+					"updatedUTC": "2024-05-30T22:22:10.000",
+					"capturedUTC": "2024-05-20T06:00:00.000",
+					"createdLoc": "2024-05-31T07:22:10.000",
+					"syncedUTC": "2024-05-30T22:22:10.000",
+					"capturedLoc": "2024-05-20T15:00:00.000",
+					"createdUTC": "2024-05-30T22:22:10.000"
+				},
+				"activeUserRoles": [
+					"lac_outNet",
+					"lac_rock",
+					"lac_asp"
+				],
+				"activeUser": "GT_TEST_ASP",
+				"creditedUsers": [
+					"GT_TEST_ASP"
+				],
+				"location": {},
+				"formData": {
+					"blockId": "blockClientRelSearch.blockAddNewClientRelForm",
+					"activityId": "GT_TEST_ASP_20240530_222210538",
+					"data": [
+						{
+							"displayValue": "2024-05-30T16:21:16.373",
+							"name": "activityDate_now",
+							"value": "2024-05-30T16:21:16.373"
+						},
+						{
+							"displayValue": "2024-05-20",
+							"name": "activityDate",
+							"value": "2024-05-20"
+						},
+						{
+							"displayValue": "",
+							"name": "firstName",
+							"value": ""
+						},
+						{
+							"displayValue": "tzul",
+							"name": "lastName",
+							"value": "tzul"
+						},
+						{
+							"displayValue": "",
+							"name": "nickName",
+							"value": ""
+						},
+						{
+							"displayValue": "+50222302125",
+							"name": "phoneNumber",
+							"value": "+50222302125"
+						},
+						{
+							"displayValue": "M",
+							"name": "sex",
+							"value": "M"
+						},
+						{
+							"displayValue": "30",
+							"name": "age",
+							"value": "30"
+						},
+						{
+							"displayValue": "",
+							"name": "contactDay",
+							"value": ""
+						},
+						{
+							"displayValue": "",
+							"name": "contactTime",
+							"value": ""
+						},
+						{
+							"displayValue": "",
+							"name": "socialMediaNetwork",
+							"value": ""
+						},
+						{
+							"displayValue": "",
+							"name": "otherNetwork",
+							"value": ""
+						},
+						{
+							"displayValue": "pendiente de con",
+							"name": "comments",
+							"value": "pendiente de con"
+						},
+						{
+							"displayValue": "SP-Contact",
+							"name": "relationship",
+							"value": "SP-Contact"
+						},
+						{
+							"displayValue": "YES",
+							"name": "dateOfServiceQuery",
+							"value": "NO"
+						},
+						{
+							"displayValue": "2024-05-20",
+							"name": "serviceDatePast",
+							"value": "2024-05-20"
+						},
+						{
+							"displayValue": "NO",
+							"name": "ipvEvaluation",
+							"value": "NO"
+						},
+						{
+							"displayValue": "",
+							"name": "physicalViolence",
+							"value": ""
+						},
+						{
+							"displayValue": "",
+							"name": "psychologicalViolence",
+							"value": ""
+						},
+						{
+							"displayValue": "",
+							"name": "sexualViolence",
+							"value": ""
+						},
+						{
+							"displayValue": "",
+							"name": "firstLineCare",
+							"value": ""
+						},
+						{
+							"displayValue": "",
+							"name": "referredService",
+							"value": ""
+						},
+						{
+							"displayValue": "",
+							"name": "impliedRisk",
+							"value": ""
+						},
+						{
+							"displayValue": "",
+							"name": "notificationPlan",
+							"value": ""
+						}
+					]
+				},
+				"id": "GT_TEST_ASP_20240530_222210538",
+				"transactions": [
+					{
+						"clientDetails": {
+							"lastName": "tzul",
+							"country": "T_GT",
+							"contactTime": "",
+							"comments": "pendiente de con",
+							"nickName": "",
+							"sex": "M",
+							"contactDay": "",
+							"socialMediaNetwork": "",
+							"activeUsers": [
+								"GT_TEST_ASP"
+							],
+							"firstName": "",
+							"phoneNumber": "+50222302125",
+							"voucherCodes": [],
+							"creditedUsers": [],
+							"age": "30"
+						},
+						"type": "c_reg"
+					},
+					{
+						"type": "r_add",
+						"relationship": {
+							"date": "2024-05-30T22:22:10.538Z",
+							"clientId": "6658a7384e360399a41c1ee6",
+							"serviceDatePast": "2024-05-20",
+							"type": "SP-Contact",
+							"dateOfServiceQuery": "NO",
+							"addedType": "contact"
+						}
+					}
+				],
+				"type": "IPC_CLIENT_REL",
+				"ws": {
+					"app": "dws",
+					"configVersion": "CMN_2.0",
+					"softwareVersion": "unknown"
+				},
+				"dc": {
+					"app": "WF-App",
+					"network": "Online"
+				},
+				"processing": {
+					"created": "2024-05-31T22:38:23.000",
+					"history": [
+						{
+							"status": "downloaded",
+							"responseCode": 200,
+							"datetime": "2024-05-31T22:38:23.000",
+							"msg": "Downloaded and synced."
+						}
+					],
+					"status": "downloaded",
+					"syncUpCount": 0,
+					"historyData": {}
+				}
+			}
+		],
+		"_id": "6658fc164e360399a41c2423"
+	},
+	{
+		"date": {
+			"updatedOnMdbUTC": "2024-05-30T22:20:55.241",
+			"updatedLoc": "2024-05-31T07:20:55.000",
+			"updatedUTC": "2024-05-30T22:20:55.241",
+			"createdLoc": "2024-05-31T07:08:40.000",
+			"createdUTC": "2024-05-30T22:08:40.078",
+			"updatedOnMdbLoc": "2024-05-31T07:20:55.000"
+		},
+		"relationships": [],
+		"clientDetails": {
+			"lastName": "Andrade",
+			"country": "T_GT",
+			"contactTime": "",
+			"comments": "pendiente",
+			"nickName": "",
+			"sex": "M",
+			"contactDay": "",
+			"socialMediaNetwork": "",
+			"activeUsers": [
+				"GT_TEST_ASP"
+			],
+			"firstName": "Sergio",
+			"phoneNumber": "+50222202125",
+			"voucherCodes": [],
+			"creditedUsers": [
+				"GT_TEST_ASP"
+			],
+			"age": "30"
+		},
+		"schemaVersion": "1-RC.2",
+		"activities": [
+			{
+				"date": {
+					"syncedLoc": "2024-05-31T07:08:36.000",
+					"updatedLoc": "2024-05-31T07:08:36.000",
+					"updatedUTC": "2024-05-30T22:08:36.000",
+					"capturedUTC": "2024-05-30T22:07:45.000",
+					"createdLoc": "2024-05-31T07:08:36.000",
+					"syncedUTC": "2024-05-30T22:08:36.000",
+					"capturedLoc": "2024-05-31T07:07:45.000",
+					"createdUTC": "2024-05-30T22:08:36.000"
+				},
+				"activeUserRoles": [
+					"lac_outNet",
+					"lac_rock",
+					"lac_asp"
+				],
+				"activeUser": "GT_TEST_ASP",
+				"creditedUsers": [
+					"GT_TEST_ASP"
+				],
+				"location": {},
+				"formData": {
+					"blockId": "blockClientRelSearch.blockAddNewClientRelForm",
+					"activityId": "GT_TEST_ASP_20240530_220836145",
+					"data": [
+						{
+							"displayValue": "2024-05-30T16:07:45.667",
+							"name": "activityDate_now",
+							"value": "2024-05-30T16:07:45.667"
+						},
+						{
+							"displayValue": "2024-05-30T16:07:45.667",
+							"name": "activityDate",
+							"value": "2024-05-30T16:07:45.667"
+						},
+						{
+							"displayValue": "Sergio",
+							"name": "firstName",
+							"value": "Sergio"
+						},
+						{
+							"displayValue": "Andrade",
+							"name": "lastName",
+							"value": "Andrade"
+						},
+						{
+							"displayValue": "",
+							"name": "nickName",
+							"value": ""
+						},
+						{
+							"displayValue": "+50222202125",
+							"name": "phoneNumber",
+							"value": "+50222202125"
+						},
+						{
+							"displayValue": "M",
+							"name": "sex",
+							"value": "M"
+						},
+						{
+							"displayValue": "30",
+							"name": "age",
+							"value": "30"
+						},
+						{
+							"displayValue": "",
+							"name": "contactDay",
+							"value": ""
+						},
+						{
+							"displayValue": "",
+							"name": "contactTime",
+							"value": ""
+						},
+						{
+							"displayValue": "",
+							"name": "socialMediaNetwork",
+							"value": ""
+						},
+						{
+							"displayValue": "",
+							"name": "otherNetwork",
+							"value": ""
+						},
+						{
+							"displayValue": "pendiente",
+							"name": "comments",
+							"value": "pendiente"
+						},
+						{
+							"displayValue": "SP-Contact",
+							"name": "relationship",
+							"value": "SP-Contact"
+						},
+						{
+							"displayValue": "YES",
+							"name": "dateOfServiceQuery",
+							"value": "YES"
+						},
+						{
+							"displayValue": "",
+							"name": "serviceDatePast",
+							"value": ""
+						},
+						{
+							"displayValue": "NO",
+							"name": "ipvEvaluation",
+							"value": "NO"
+						},
+						{
+							"displayValue": "",
+							"name": "physicalViolence",
+							"value": ""
+						},
+						{
+							"displayValue": "",
+							"name": "psychologicalViolence",
+							"value": ""
+						},
+						{
+							"displayValue": "",
+							"name": "sexualViolence",
+							"value": ""
+						},
+						{
+							"displayValue": "",
+							"name": "firstLineCare",
+							"value": ""
+						},
+						{
+							"displayValue": "",
+							"name": "referredService",
+							"value": ""
+						},
+						{
+							"displayValue": "",
+							"name": "impliedRisk",
+							"value": ""
+						},
+						{
+							"displayValue": "",
+							"name": "notificationPlan",
+							"value": ""
+						}
+					]
+				},
+				"id": "GT_TEST_ASP_20240530_220836145",
+				"transactions": [
+					{
+						"clientDetails": {
+							"lastName": "Andrade",
+							"country": "T_GT",
+							"contactTime": "",
+							"comments": "pendiente",
+							"nickName": "",
+							"sex": "M",
+							"contactDay": "",
+							"socialMediaNetwork": "",
+							"activeUsers": [
+								"GT_TEST_ASP"
+							],
+							"firstName": "Sergio",
+							"phoneNumber": "+50222202125",
+							"voucherCodes": [],
+							"creditedUsers": [],
+							"age": "30"
+						},
+						"type": "c_reg"
+					},
+					{
+						"type": "r_add",
+						"relationship": {
+							"date": "2024-05-30T22:08:36.145Z",
+							"clientId": "6658a7384e360399a41c1ee6",
+							"type": "SP-Contact",
+							"dateOfServiceQuery": "YES",
+							"addedType": "contact"
+						}
+					}
+				],
+				"type": "IPC_CLIENT_REL",
+				"ws": {
+					"app": "dws",
+					"configVersion": "CMN_2.0",
+					"softwareVersion": "unknown"
+				},
+				"dc": {
+					"app": "WF-App",
+					"network": "Online"
+				},
+				"processing": {
+					"created": "2024-05-31T22:38:23.000",
+					"history": [
+						{
+							"status": "downloaded",
+							"responseCode": 200,
+							"datetime": "2024-05-31T22:38:23.000",
+							"msg": "Downloaded and synced."
+						}
+					],
+					"status": "downloaded",
+					"syncUpCount": 0,
+					"historyData": {}
+				}
+			},
+			{
+				"date": {
+					"syncedLoc": "2024-05-31T07:20:51.000",
+					"updatedLoc": "2024-05-31T07:20:51.000",
+					"updatedUTC": "2024-05-30T22:20:51.000",
+					"capturedUTC": "2024-05-30T22:20:51.019",
+					"createdLoc": "2024-05-31T07:20:51.000",
+					"syncedUTC": "2024-05-30T22:20:51.000",
+					"capturedLoc": "2024-05-31T07:20:51.000",
+					"createdUTC": "2024-05-30T22:20:51.000"
+				},
+				"activeUserRoles": [
+					"lac_outNet",
+					"lac_rock",
+					"lac_asp"
+				],
+				"activeUser": "GT_TEST_ASP",
+				"creditedUsers": [
+					"GT_TEST_ASP"
+				],
+				"location": {},
+				"id": "GT_TEST_ASP_20240530_22205119",
+				"transactions": [
+					{
+						"type": "r_del",
+						"relationship": {
+							"clientId": "6658a7384e360399a41c1ee6"
+						}
+					}
+				],
+				"type": "",
+				"ws": {
+					"app": "dws",
+					"configVersion": "CMN_2.0",
+					"softwareVersion": "unknown"
+				},
+				"dc": {
+					"app": "WF-App",
+					"network": "Online"
+				},
+				"processing": {
+					"created": "2024-05-31T22:38:23.000",
+					"history": [
+						{
+							"status": "downloaded",
+							"responseCode": 200,
+							"datetime": "2024-05-31T22:38:23.000",
+							"msg": "Downloaded and synced."
+						}
+					],
+					"status": "downloaded",
+					"syncUpCount": 0,
+					"historyData": {}
+				}
+			}
+		],
+		"_id": "6658f8e84e360399a41c23ed"
+	},
+	{
+		"date": {
+			"updatedOnMdbUTC": "2024-05-30T22:00:06.580",
+			"updatedLoc": "2024-05-31T07:00:06.000",
+			"updatedUTC": "2024-05-30T22:00:06.580",
+			"createdLoc": "2021-10-13T23:30:12.000",
+			"createdUTC": "2021-10-13T14:30:12",
+			"updatedOnMdbLoc": "2024-05-31T07:00:06.000"
+		},
+		"relationships": [
+			{
+				"date": "2024-01-29T18:33:44.323Z",
+				"clientId": "65a8088ebc86182ce768bba8",
+				"serviceDatePast": "2024-01-10",
+				"type": "FRIEND",
+				"dateOfServiceQuery": "NO",
+				"addedType": "contact"
+			},
+			{
+				"date": "2024-04-09T16:08:07.894Z",
+				"clientId": "65b9dedebc86182ce769330e",
+				"type": "SP-Leader",
+				"dateOfServiceQuery": "YES",
+				"addedType": "contact"
+			},
+			{
+				"date": "2024-05-30T21:16:43.750Z",
+				"clientId": "6658a7384e360399a41c1ee6",
+				"type": "SP-Leader",
+				"dateOfServiceQuery": "YES",
+				"addedType": "contact"
+			}
+		],
+		"clientDetails": {
+			"lastName": "User",
+			"country": "T_GT",
+			"sexWorker": "UNK",
+			"occupation": "estudiayTrabaja",
+			"gender": "M",
+			"idDocument": "",
+			"contactDay": "",
+			"socialMediaNetwork": "",
+			"pseudonym": "Kimmy",
+			"subPopulationType": "HSH_H(G)",
+			"CUIC": "USM01042014",
+			"contactConsentService": "YESP",
+			"clientType": "full",
+			"educationLevel": "noEstudió",
+			"voucherCodes": [
+				"911301408729",
+				"716445772641"
+			],
+			"ownershipOfPhone": "HER",
+			"hivStatus": "negativo",
+			"localizedContact": "",
+			"voucherCode": "716445772641",
+			"citizen": "YES",
+			"contactTime": "",
+			"phoneNumber_whatsApp": "+99876",
+			"comments": "Test",
+			"otherNetwork": "",
+			"nickName": "Kimmy",
+			"sex": "M",
+			"birthDepartment": "14",
+			"activeUsers": [
+				"GT_TEST_ASP",
+				"GT_TEST_PROVP"
+			],
+			"birthDate": "2020-04-01",
+			"idDocumentQuery": "NO",
+			"firstName": "Test",
+			"populationType": "HSH",
+			"phoneNumber": "+99876",
+			"localizedContactTo Remove": "",
+			"creditedUsers": [
+				"GT_TEST_ASP",
+				"GT_TEST_PROVP"
+			],
+			"acquisitionSource": "presencial",
+			"ethnicGroup": "mestizo",
+			"age": "1",
+			"preferredContactMode": "whatsApp"
+		},
+		"schemaVersion": "1-RC.2",
+		"activities": [
+			{
+				"date": {
+					"capturedUTC": "2021-10-13T14:30:11.000",
+					"captureDate": "2021-10-13T14:30:11.000",
+					"createdLoc": "2021-10-13T23:30:12.000",
+					"createdOnDeviceUTC": "2021-10-13T14:30:11.000",
+					"capturedLoc": "2021-10-13T23:30:11.000",
+					"createdUTC": "2021-10-13T14:30:12",
+					"createdOnDeviceLoc": "2021-10-13T23:30:11.000"
+				},
+				"activeUser": "GT_TEST_ASP",
+				"creditedUsers": [
+					"GT_TEST_ASP"
+				],
+				"location": {},
+				"id": "GT_TEST_ASP_20211013_143011783",
+				"type": "IPC_CLIENT_REG",
+				"transactions": [
+					{
+						"clientDetails": {
+							"lastName": "User",
+							"country": "T_GT",
+							"sexWorker": "UNK",
+							"gender": "M",
+							"pseudonym": "Kimmy",
+							"subPopulationType": "HSH_H(G)",
+							"CUIC": "USM01042014",
+							"contactConsentService": "YESP",
+							"educationLevel": "noEstudió",
+							"voucherCodes": [],
+							"ownershipOfPhone": "HER",
+							"citizen": "YES",
+							"phoneNumber_whatsApp": "+99876",
+							"nickName": "Kimmy",
+							"sex": "M",
+							"birthDepartment": "14",
+							"activeUsers": [
+								"GT_TEST_ASP"
+							],
+							"birthDate": "2020-04-01",
+							"firstName": "Test",
+							"populationType": "HSH",
+							"phoneNumber": "+99876",
+							"localizedContactTo Remove": "",
+							"creditedUsers": [],
+							"acquisitionSource": "presencial",
+							"ethnicGroup": "mestizo",
+							"age": "1",
+							"preferredContactMode": "whatsApp"
+						},
+						"type": "c_reg"
+					}
+				],
+				"ws": {
+					"app": "dws",
+					"configVersion": "CMN_2.0",
+					"softwareVersion": "unknown"
+				},
+				"dc": {
+					"app": "WF-App",
+					"control": "wfa v~1.3.0, c:Online, p:clientRegister_voucherIssue, wfa-config v13, ws v~1.5",
+					"network": "Online"
+				},
+				"processing": {
+					"created": "2021-10-13T23:30:11.000",
+					"history": [
+						{
+							"status": "downloaded",
+							"responseCode": 200,
+							"datetime": "2024-05-31T22:38:23.000",
+							"msg": "Downloaded and synced."
+						}
+					],
+					"status": "downloaded",
+					"syncUpCount": 0,
+					"historyData": {}
+				}
+			},
+			{
+				"date": {
+					"capturedUTC": "2021-10-13T14:31:55.000",
+					"captureDate": "2021-10-13T14:31:14.646Z",
+					"createdOnDeviceUTC": "2021-10-13T14:31:55.000",
+					"capturedLoc": "2021-10-13T23:31:55.000",
+					"createdOnDeviceLoc": "2021-10-13T23:31:55.000"
+				},
+				"activeUser": "GT_TEST_ASP",
+				"creditedUsers": [
+					"GT_TEST_ASP"
+				],
+				"location": {},
+				"id": "GT_TEST_ASP_20211013_143155425",
+				"type": "IPC_ISS",
+				"transactions": [
+					{
+						"clientDetails": {
+							"acquisitionSource": "presencial"
+						},
+						"type": "c_upd"
+					},
+					{
+						"dataValues": {
+							"labVisitDate": "2021-10-15",
+							"customerLocationMedium": "inSitu",
+							"voucherType": "Electronic",
+							"healthyBehaviourPromoted": "autoPrueba",
+							"transactionType_SSEISS": "ISS",
+							"referenceType": "pruebaDeVIH",
+							"contactOriginPresencial": "abordajeCaraACara",
+							"interventionLine": "presencial",
+							"labreferred": "GTPASMO_PROV_0005",
+							"interventionResult": "referencia",
+							"activityid": "T_GT-WPTM-1577-20211013-01",
+							"serviceLocationDept": "04",
+							"interventionTypePresencial": "abordajeUnoaUno",
+							"location": "{ -1.3036726, 36.8982823}",
+							"riskAssessment": "NO",
+							"voucherCode": "911301408729",
+							"serviceLocationMunic": "0401"
+						},
+						"clientDetails": {
+							"voucherCode": "911301408729"
+						},
+						"type": "v_iss"
+					}
+				],
+				"ws": {
+					"app": "dws",
+					"configVersion": "CMN_2.0",
+					"softwareVersion": "unknown"
+				},
+				"dc": {
+					"app": "WF-App",
+					"control": "wfa v~1.3.0, c:Online, p:clientIntervention_voucherOptional, wfa-config v13, ws v~1.5",
+					"network": "Online"
+				},
+				"processing": {
+					"created": "2021-10-13T23:31:55.000",
+					"history": [
+						{
+							"status": "downloaded",
+							"responseCode": 200,
+							"datetime": "2024-05-31T22:38:23.000",
+							"msg": "Downloaded and synced."
+						}
+					],
+					"status": "downloaded",
+					"syncUpCount": 0,
+					"historyData": {}
+				}
+			},
+			{
+				"date": {
+					"capturedUTC": "2021-10-13T14:47:00.000",
+					"captureDate": "2021-10-13T14:32:32.713Z",
+					"createdOnDeviceUTC": "2021-10-13T14:47:00.000",
+					"capturedLoc": "2021-10-13T23:47:00.000",
+					"createdOnDeviceLoc": "2021-10-13T23:47:00.000"
+				},
+				"activeUser": "GT_TEST_ASP",
+				"creditedUsers": [
+					"GT_TEST_ASP"
+				],
+				"location": {},
+				"id": "GT_TEST_ASP_20211013_144700816",
+				"type": "PROV_SP_HIVTEST",
+				"transactions": [
+					{
+						"clientDetails": {
+							"hivStatus": "negativo"
+						},
+						"type": "c_upd"
+					},
+					{
+						"dataValues": {
+							"resultsTestOne": "negativo",
+							"sexWorker": "UNK",
+							"lotOne": "Lot01",
+							"condomsLubricantDelivered": "YES",
+							"PrEPOffered": "YES",
+							"offerService": "cliente",
+							"STITreatmentCounselling": "YES",
+							"serviceLocationDept": "04",
+							"whoDeliveredResults": "lac_asp",
+							"voucherCode": "911301408729",
+							"serviceLocationMunic": "0401",
+							"riskReductionCounseling": "YES",
+							"serologicalStatusAwareness": "conoceyNuncaVinculado",
+							"syphilisTest": "YES",
+							"reminderNextTest": "YES",
+							"hivResult": "negativo",
+							"nameTestOne": "aDBioLineHiv",
+							"STIConfirmationTreatmentLinkage": "YES",
+							"expiryDateOne": "2021-10-13",
+							"activityid": "T_GT-IVGQ-7472-20211013-01",
+							"informationMaterial": "YES",
+							"reminderFrequency": "1mes",
+							"offerReminder": "YES",
+							"STITreatmentAccompanied": "YES",
+							"resultsDelivery": "YES",
+							"syphilisTestResult": "positivo",
+							"proofServiceReceived": "YES"
+						},
+						"clientDetails": {
+							"voucherCode": "911301408729"
+						},
+						"type": "v_rdx_hivTEST"
+					}
+				],
+				"ws": {
+					"app": "dws",
+					"configVersion": "CMN_2.0",
+					"softwareVersion": "unknown"
+				},
+				"dc": {
+					"app": "WF-App",
+					"control": "wfa v~1.3.0, c:Online, p:walkin_existingClient_HIVtesting, wfa-config v13, ws v~1.5",
+					"network": "Online"
+				},
+				"processing": {
+					"created": "2021-10-13T23:47:00.000",
+					"history": [
+						{
+							"status": "downloaded",
+							"responseCode": 200,
+							"datetime": "2024-05-31T22:38:23.000",
+							"msg": "Downloaded and synced."
+						}
+					],
+					"status": "downloaded",
+					"syncUpCount": 0,
+					"historyData": {}
+				}
+			},
+			{
+				"date": {
+					"capturedUTC": "2021-10-13T14:52:42.000",
+					"captureDate": "2021-10-13T14:47:36.023Z",
+					"createdOnDeviceUTC": "2021-10-13T14:52:42.000",
+					"capturedLoc": "2021-10-13T23:52:42.000",
+					"createdOnDeviceLoc": "2021-10-13T23:52:42.000"
+				},
+				"activeUser": "GT_TEST_ASP",
+				"creditedUsers": [
+					"GT_TEST_ASP"
+				],
+				"location": {},
+				"id": "GT_TEST_ASP_20211013_145242518",
+				"type": "PROV_SP_PrEPEval",
+				"transactions": [
+					{
+						"dataValues": {
+							"serviceType": "preEvaluacion",
+							"activityid": "T_GT-LYVX-9719-20211013-01",
+							"serviceLocationDept": "04",
+							"prepProvision": "YES",
+							"voucherCode": "911301408729",
+							"serviceLocationMunic": "0401",
+							"riskAssessmentPrep": "NO"
+						},
+						"clientDetails": {
+							"voucherCode": "911301408729"
+						},
+						"type": "v_rdx_prepEvaluation"
+					}
+				],
+				"ws": {
+					"app": "dws",
+					"configVersion": "CMN_2.0",
+					"softwareVersion": "unknown"
+				},
+				"dc": {
+					"app": "WF-App",
+					"control": "wfa v~1.3.0, c:Online, p:prepEvaluation, wfa-config v13, ws v~1.5",
+					"network": "Online"
+				},
+				"processing": {
+					"created": "2021-10-13T23:52:42.000",
+					"history": [
+						{
+							"status": "downloaded",
+							"responseCode": 200,
+							"datetime": "2024-05-31T22:38:23.000",
+							"msg": "Downloaded and synced."
+						}
+					],
+					"status": "downloaded",
+					"syncUpCount": 0,
+					"historyData": {}
+				}
+			},
+			{
+				"date": {
+					"capturedUTC": "2021-10-13T15:08:26.000",
+					"captureDate": "2021-10-13T15:07:57.877Z",
+					"createdOnDeviceUTC": "2021-10-13T15:08:26.000",
+					"capturedLoc": "2021-10-14T00:08:26.000",
+					"createdOnDeviceLoc": "2021-10-14T00:08:26.000"
+				},
+				"activeUser": "GT_TEST_PROVP",
+				"creditedUsers": [
+					"GT_TEST_PROVP"
+				],
+				"location": {},
+				"id": "GT_TEST_PROVP_20211013_150826807",
+				"type": "PROV_SP_CRTNTEST",
+				"transactions": [
+					{
+						"dataValues": {
+							"activityid": "T_GT-BIOJ-3037-20211013-01",
+							"creatinineTestResult": "50",
+							"serviceLocationDept": "04",
+							"sharingWithDoctor": "YES",
+							"voucherCode": "911301408729",
+							"serviceLocationMunic": "0401"
+						},
+						"clientDetails": {
+							"voucherCode": "911301408729"
+						},
+						"type": "v_rdx_crtnTest"
+					}
+				],
+				"ws": {
+					"app": "dws",
+					"configVersion": "CMN_2.0",
+					"softwareVersion": "unknown"
+				},
+				"dc": {
+					"app": "WF-App",
+					"control": "wfa v~1.3.0, c:Online, p:creatinineTest, wfa-config v13, ws v~1.5",
+					"network": "Online"
+				},
+				"processing": {
+					"created": "2021-10-14T00:08:26.000",
+					"history": [
+						{
+							"status": "downloaded",
+							"responseCode": 200,
+							"datetime": "2024-05-31T22:38:23.000",
+							"msg": "Downloaded and synced."
+						}
+					],
+					"status": "downloaded",
+					"syncUpCount": 0,
+					"historyData": {}
+				}
+			},
+			{
+				"date": {
+					"capturedUTC": "2021-10-13T15:14:03.000",
+					"captureDate": "2021-10-13T15:13:27.854Z",
+					"createdOnDeviceUTC": "2021-10-13T15:14:03.000",
+					"capturedLoc": "2021-10-14T00:14:03.000",
+					"createdOnDeviceLoc": "2021-10-14T00:14:03.000"
+				},
+				"activeUser": "GT_TEST_PROVP",
+				"creditedUsers": [
+					"GT_TEST_PROVP"
+				],
+				"location": {},
+				"id": "GT_TEST_PROVP_20211013_151403516",
+				"type": "PROV_SP_PREP",
+				"transactions": [
+					{
+						"dataValues": {
+							"expiryDate": "2021-10-31",
+							"activityid": "T_GT-WMVS-7912-20211013-01",
+							"quantity": "1frasco",
+							"serviceTypePrep": "reabastecimiento",
+							"serviceLocationDept": "04",
+							"prepProvision": "YES",
+							"lotNumber": "Lot001",
+							"appointmentDate": "2021-10-14",
+							"voucherCode": "911301408729",
+							"serviceLocationMunic": "0401",
+							"drug": "Test"
+						},
+						"clientDetails": {
+							"voucherCode": "911301408729"
+						},
+						"type": "v_rdx_prep"
+					}
+				],
+				"ws": {
+					"app": "dws",
+					"configVersion": "CMN_2.0",
+					"softwareVersion": "unknown"
+				},
+				"dc": {
+					"app": "WF-App",
+					"control": "wfa v~1.3.0, c:Online, p:prep, wfa-config v13, ws v~1.5",
+					"network": "Online"
+				},
+				"processing": {
+					"created": "2021-10-14T00:14:03.000",
+					"history": [
+						{
+							"status": "downloaded",
+							"responseCode": 200,
+							"datetime": "2024-05-31T22:38:23.000",
+							"msg": "Downloaded and synced."
+						}
+					],
+					"status": "downloaded",
+					"syncUpCount": 0,
+					"historyData": {}
+				}
+			},
+			{
+				"date": {
+					"syncedLoc": "2024-01-30T03:33:44.000",
+					"updatedLoc": "2024-01-30T03:33:44.000",
+					"updatedUTC": "2024-01-29T18:33:44.000",
+					"capturedUTC": "2024-01-09T21:00:00.000",
+					"createdLoc": "2024-01-30T03:33:44.000",
+					"syncedUTC": "2024-01-29T18:33:44.000",
+					"capturedLoc": "2024-01-10T06:00:00.000",
+					"createdUTC": "2024-01-29T18:33:44.000"
+				},
+				"activeUserRoles": [
+					"lac_rock",
+					"lac_asp"
+				],
+				"activeUser": "GT_TEST_ASP",
+				"creditedUsers": [
+					"GT_TEST_ASP"
+				],
+				"location": {},
+				"formData": {
+					"blockId": "blockClientRelAdd",
+					"activityId": "GT_TEST_ASP_20240129_183344323",
+					"data": [
+						{
+							"displayValue": "2024-01-29T21:33:30.067",
+							"name": "activityDate_now",
+							"value": "2024-01-29T21:33:30.067"
+						},
+						{
+							"displayValue": "2024-01-10",
+							"name": "activityDate",
+							"value": "2024-01-10"
+						},
+						{
+							"displayValue": "6166ed74cd6e4a08ab3c1cd0",
+							"name": "clientId",
+							"value": "6166ed74cd6e4a08ab3c1cd0"
+						},
+						{
+							"displayValue": "Test",
+							"name": "firstName",
+							"value": "Test"
+						},
+						{
+							"displayValue": "User",
+							"name": "lastName",
+							"value": "User"
+						},
+						{
+							"displayValue": "Kimmy",
+							"name": "nickName",
+							"value": "Kimmy"
+						},
+						{
+							"displayValue": "+99876",
+							"name": "phoneNumber",
+							"value": "+99876"
+						},
+						{
+							"displayValue": "",
+							"name": "contactDay",
+							"value": ""
+						},
+						{
+							"displayValue": "",
+							"name": "contactTime",
+							"value": ""
+						},
+						{
+							"displayValue": "",
+							"name": "socialMediaNetwork",
+							"value": ""
+						},
+						{
+							"displayValue": "",
+							"name": "otherNetwork",
+							"value": ""
+						},
+						{
+							"displayValue": "Test",
+							"name": "comments",
+							"value": "Test"
+						},
+						{
+							"displayValue": "SP-Contact",
+							"name": "relationship",
+							"value": "FRIEND"
+						},
+						{
+							"displayValue": "YES",
+							"name": "dateOfServiceQuery",
+							"value": "NO"
+						},
+						{
+							"displayValue": "2024-01-10",
+							"name": "serviceDatePast",
+							"value": "2024-01-10"
+						}
+					]
+				},
+				"id": "GT_TEST_ASP_20240129_183344323",
+				"transactions": [
+					{
+						"type": "r_add",
+						"relationship": {
+							"date": "2024-01-29T18:33:44.323Z",
+							"clientId": "65a8088ebc86182ce768bba8",
+							"serviceDatePast": "2024-01-10",
+							"type": "FRIEND",
+							"dateOfServiceQuery": "NO",
+							"addedType": "contact"
+						}
+					},
+					{
+						"clientDetails": {
+							"firstName": "Test",
+							"lastName": "User",
+							"contactTime": "",
+							"phoneNumber": "+99876",
+							"otherNetwork": "",
+							"comments": "Test",
+							"nickName": "Kimmy",
+							"contactDay": "",
+							"socialMediaNetwork": ""
+						},
+						"type": "c_upd"
+					},
+					{
+						"dataValues": {
+							"lastName": "User",
+							"contactTime": "",
+							"otherNetwork": "",
+							"nickName": "Kimmy",
+							"orgUnit": "lsA6RQnisaf",
+							"contactDay": "",
+							"socialMediaNetwork": "",
+							"dhis2Action": "trackEntity",
+							"firstName": "Test",
+							"phoneNumber": "+99876",
+							"projectName": "LAC_HIV",
+							"isUpdate": true,
+							"orgUnitName": "GT_TEST_ASP"
+						},
+						"type": "s_dhis2Program_trackEntity"
+					},
+					{
+						"dataValues": {
+							"serviceDatePast": "2024-01-10",
+							"orgUnit": "lsA6RQnisaf",
+							"dhis2Action": "relacion",
+							"relationship": "FRIEND",
+							"projectName": "LAC_HIV",
+							"dateOfServiceQuery": "NO",
+							"isUpdate": false,
+							"orgUnitName": "GT_TEST_ASP"
+						},
+						"type": "s_dhis2Program_event"
+					}
+				],
+				"type": "IPC_CLIENT_REL",
+				"ws": {
+					"app": "dws",
+					"configVersion": "CMN_2.0",
+					"softwareVersion": "unknown"
+				},
+				"dc": {
+					"app": "WF-App",
+					"network": "Online"
+				},
+				"processing": {
+					"created": "2024-05-31T22:38:23.000",
+					"history": [
+						{
+							"status": "downloaded",
+							"responseCode": 200,
+							"datetime": "2024-05-31T22:38:23.000",
+							"msg": "Downloaded and synced."
+						}
+					],
+					"status": "downloaded",
+					"syncUpCount": 0,
+					"historyData": {}
+				}
+			},
+			{
+				"date": {
+					"syncedLoc": "2024-04-10T01:08:07.000",
+					"updatedLoc": "2024-04-10T01:08:07.000",
+					"updatedUTC": "2024-04-09T16:08:07.000",
+					"capturedUTC": "2024-04-09T16:07:37.000",
+					"createdLoc": "2024-04-10T01:08:07.000",
+					"syncedUTC": "2024-04-09T16:08:07.000",
+					"capturedLoc": "2024-04-10T01:07:37.000",
+					"createdUTC": "2024-04-09T16:08:07.000"
+				},
+				"activeUserRoles": [
+					"lac_outNet",
+					"lac_rock",
+					"lac_asp"
+				],
+				"activeUser": "GT_TEST_ASP",
+				"creditedUsers": [
+					"GT_TEST_ASP"
+				],
+				"location": {},
+				"formData": {
+					"blockId": "blockClientRelAdd",
+					"activityId": "GT_TEST_ASP_20240409_160807894",
+					"data": [
+						{
+							"displayValue": "2024-04-09T19:07:37.332",
+							"name": "activityDate_now",
+							"value": "2024-04-09T19:07:37.332"
+						},
+						{
+							"displayValue": "2024-04-09T19:07:37.332",
+							"name": "activityDate",
+							"value": "2024-04-09T19:07:37.332"
+						},
+						{
+							"displayValue": "6166ed74cd6e4a08ab3c1cd0",
+							"name": "clientId",
+							"value": "6166ed74cd6e4a08ab3c1cd0"
+						},
+						{
+							"displayValue": "Test",
+							"name": "firstName",
+							"value": "Test"
+						},
+						{
+							"displayValue": "User",
+							"name": "lastName",
+							"value": "User"
+						},
+						{
+							"displayValue": "Kimmy",
+							"name": "nickName",
+							"value": "Kimmy"
+						},
+						{
+							"displayValue": "+99876",
+							"name": "phoneNumber",
+							"value": "+99876"
+						},
+						{
+							"displayValue": "",
+							"name": "contactDay",
+							"value": ""
+						},
+						{
+							"displayValue": "",
+							"name": "contactTime",
+							"value": ""
+						},
+						{
+							"displayValue": "",
+							"name": "socialMediaNetwork",
+							"value": ""
+						},
+						{
+							"displayValue": "",
+							"name": "otherNetwork",
+							"value": ""
+						},
+						{
+							"displayValue": "Test",
+							"name": "comments",
+							"value": "Test"
+						},
+						{
+							"displayValue": "SP-Contact",
+							"name": "relationship",
+							"value": "SP-Contact"
+						},
+						{
+							"displayValue": "YES",
+							"name": "dateOfServiceQuery",
+							"value": "YES"
+						},
+						{
+							"displayValue": "",
+							"name": "serviceDatePast",
+							"value": ""
+						},
+						{
+							"displayValue": "YES",
+							"name": "ipvEvaluation",
+							"value": "YES"
+						},
+						{
+							"displayValue": "NO",
+							"name": "physicalViolence",
+							"value": "NO"
+						},
+						{
+							"displayValue": "NO",
+							"name": "psychologicalViolence",
+							"value": "NO"
+						},
+						{
+							"displayValue": "YES",
+							"name": "sexualViolence",
+							"value": "YES"
+						},
+						{
+							"displayValue": "YES",
+							"name": "firstLineCare",
+							"value": "YES"
+						},
+						{
+							"displayValue": "YES",
+							"name": "referredService",
+							"value": "YES"
+						},
+						{
+							"displayValue": "YES",
+							"name": "impliedRisk",
+							"value": "YES"
+						},
+						{
+							"displayValue": "porProveedor",
+							"name": "notificationPlan",
+							"value": "porProveedor"
+						}
+					]
+				},
+				"id": "GT_TEST_ASP_20240409_160807894",
+				"transactions": [
+					{
+						"type": "r_add",
+						"relationship": {
+							"date": "2024-04-09T16:08:07.894Z",
+							"clientId": "65b9dedebc86182ce769330e",
+							"type": "SP-Leader",
+							"dateOfServiceQuery": "YES",
+							"addedType": "contact"
+						}
+					},
+					{
+						"clientDetails": {
+							"firstName": "Test",
+							"lastName": "User",
+							"contactTime": "",
+							"phoneNumber": "+99876",
+							"otherNetwork": "",
+							"comments": "Test",
+							"nickName": "Kimmy",
+							"contactDay": "",
+							"socialMediaNetwork": ""
+						},
+						"type": "c_upd"
+					},
+					{
+						"dataValues": {
+							"lastName": "User",
+							"contactTime": "",
+							"otherNetwork": "",
+							"nickName": "Kimmy",
+							"orgUnit": "lsA6RQnisaf",
+							"contactDay": "",
+							"socialMediaNetwork": "",
+							"dhis2Action": "trackEntity",
+							"firstName": "Test",
+							"phoneNumber": "+99876",
+							"projectName": "LAC_HIV",
+							"isUpdate": true,
+							"orgUnitName": "GT_TEST_ASP"
+						},
+						"type": "s_dhis2Program_trackEntity"
+					},
+					{
+						"dataValues": {
+							"orgUnit": "lsA6RQnisaf",
+							"dhis2Action": "relacion",
+							"relationship": "SP-Contact",
+							"projectName": "LAC_HIV",
+							"dateOfServiceQuery": "YES",
+							"isUpdate": false,
+							"orgUnitName": "GT_TEST_ASP"
+						},
+						"type": "s_dhis2Program_event"
+					}
+				],
+				"type": "IPC_CLIENT_REL",
+				"ws": {
+					"app": "dws",
+					"configVersion": "CMN_2.0",
+					"softwareVersion": "unknown"
+				},
+				"dc": {
+					"app": "WF-App",
+					"network": "Online"
+				},
+				"processing": {
+					"created": "2024-05-31T22:38:23.000",
+					"history": [
+						{
+							"status": "downloaded",
+							"responseCode": 200,
+							"datetime": "2024-05-31T22:38:23.000",
+							"msg": "Downloaded and synced."
+						}
+					],
+					"status": "downloaded",
+					"syncUpCount": 0,
+					"historyData": {}
+				}
+			},
+			{
+				"date": {
+					"syncedLoc": "2024-04-30T02:52:18.000",
+					"updatedLoc": "2024-04-30T02:52:16.000",
+					"updatedUTC": "2024-04-29T17:52:16.000",
+					"capturedUTC": "2024-04-29T17:47:19.000",
+					"createdLoc": "2024-04-30T02:52:16.000",
+					"syncedUTC": "2024-04-29T17:52:18.000",
+					"capturedLoc": "2024-04-30T02:47:19.000",
+					"createdUTC": "2024-04-29T17:52:16.000"
+				},
+				"activeUserRoles": [
+					"lac_outNet",
+					"lac_rock",
+					"lac_asp"
+				],
+				"activeUser": "GT_TEST_ASP",
+				"creditedUsers": [
+					"GT_TEST_ASP"
+				],
+				"location": {},
+				"formData": {
+					"blockId": "block_clientIntervention_voucherOptional_OnlineNew_Ipc",
+					"activityId": "GT_TEST_ASP_20240429_175216548",
+					"data": [
+						{
+							"displayValue": "T_LAC-SPLW-7411-20240429",
+							"name": "activityid",
+							"value": "T_LAC-SPLW-7411-20240429"
+						},
+						{
+							"displayValue": "Electronic",
+							"name": "voucherType",
+							"value": "Electronic"
+						},
+						{
+							"displayValue": "2024-04-29T11:47:19.997",
+							"name": "activityDate_now",
+							"value": "2024-04-29T11:47:19.997"
+						},
+						{
+							"displayValue": "2024-04-29T11:47:19.997",
+							"name": "activityDate",
+							"value": "2024-04-29T11:47:19.997"
+						},
+						{
+							"displayValue": "true",
+							"name": "newVoucher",
+							"value": "true"
+						},
+						{
+							"displayValue": "ISS",
+							"name": "transactionType_SSEISS",
+							"value": "ISS"
+						},
+						{
+							"displayValue": "presencial",
+							"name": "acquisitionSource",
+							"value": "presencial"
+						},
+						{
+							"displayValue": "",
+							"name": "localizedContact",
+							"value": ""
+						},
+						{
+							"displayValue": "HER",
+							"name": "ownershipOfPhone",
+							"value": "HER"
+						},
+						{
+							"displayValue": "+99876",
+							"name": "phoneNumber",
+							"value": "+99876"
+						},
+						{
+							"displayValue": "+99876",
+							"name": "phoneNumber_whatsApp",
+							"value": "+99876"
+						},
+						{
+							"displayValue": "YESP",
+							"name": "contactConsentService",
+							"value": "YESP"
+						},
+						{
+							"displayValue": "whatsApp",
+							"name": "preferredContactMode",
+							"value": "whatsApp"
+						},
+						{
+							"displayValue": "YES",
+							"name": "dateOfServiceQuery",
+							"value": "YES"
+						},
+						{
+							"displayValue": "",
+							"name": "serviceDatePast",
+							"value": ""
+						},
+						{
+							"displayValue": "01",
+							"name": "serviceLocationDept",
+							"value": "01"
+						},
+						{
+							"displayValue": "010102",
+							"name": "serviceLocationMunic",
+							"value": "010102"
+						},
+						{
+							"displayValue": "presencial",
+							"name": "interventionLine",
+							"value": "presencial"
+						},
+						{
+							"displayValue": "",
+							"name": "interventionTypeOnline",
+							"value": ""
+						},
+						{
+							"displayValue": "abordajeUnoaUno",
+							"name": "interventionTypePresencial",
+							"value": "abordajeUnoaUno"
+						},
+						{
+							"displayValue": "ofertaDePruebaIndex",
+							"name": "interventionTypeIndexTesting",
+							"value": "ofertaDePruebaIndex"
+						},
+						{
+							"displayValue": "ofertaDePruebaSemilla",
+							"name": "interventionTypeSemilla",
+							"value": "ofertaDePruebaSemilla"
+						},
+						{
+							"displayValue": "",
+							"name": "contactOriginIndex",
+							"value": ""
+						},
+						{
+							"displayValue": "",
+							"name": "interventionResultIndexSemilla",
+							"value": ""
+						},
+						{
+							"displayValue": "",
+							"name": "hivStatus_Ipc",
+							"value": ""
+						},
+						{
+							"displayValue": "",
+							"name": "linkedToTreatment",
+							"value": ""
+						},
+						{
+							"displayValue": "",
+							"name": "nonEffectiveContactReason",
+							"value": ""
+						},
+						{
+							"displayValue": "",
+							"name": "declineReferralReason",
+							"value": ""
+						},
+						{
+							"displayValue": "",
+							"name": "contactOrigin",
+							"value": ""
+						},
+						{
+							"displayValue": "",
+							"name": "contactOriginEnLinea",
+							"value": ""
+						},
+						{
+							"displayValue": "reclutadores",
+							"name": "contactOriginPresencial",
+							"value": "reclutadores"
+						},
+						{
+							"displayValue": "gggg",
+							"name": "recruiterName",
+							"value": "gggg"
+						},
+						{
+							"displayValue": "inSitu",
+							"name": "customerLocationMedium",
+							"value": "inSitu"
+						},
+						{
+							"displayValue": "",
+							"name": "googleCoordinates",
+							"value": ""
+						},
+						{
+							"displayValue": "{ 13.6697923, -89.2181818}",
+							"name": "location",
+							"value": "{ 13.6697923, -89.2181818}"
+						},
+						{
+							"displayValue": "pruebaDeVIH",
+							"name": "healthyBehaviourPromoted",
+							"value": "pruebaDeVIH"
+						},
+						{
+							"displayValue": "pruebaEnOficina",
+							"name": "serviceDeliveryChannel",
+							"value": "pruebaEnOficina"
+						},
+						{
+							"displayValue": "YES",
+							"name": "riskAssessment",
+							"value": "YES"
+						},
+						{
+							"displayValue": "bajo",
+							"name": "riskLevel",
+							"value": "bajo"
+						},
+						{
+							"displayValue": "referencia",
+							"name": "interventionResult",
+							"value": "referencia"
+						},
+						{
+							"displayValue": "",
+							"name": "prepDeclineReason",
+							"value": ""
+						},
+						{
+							"displayValue": "",
+							"name": "HIVselfTestDeclineReason",
+							"value": ""
+						},
+						{
+							"displayValue": "pruebaDeVIH",
+							"name": "referenceType",
+							"value": "pruebaDeVIH"
+						},
+						{
+							"displayValue": "",
+							"name": "selfTestingMode",
+							"value": ""
+						},
+						{
+							"displayValue": "",
+							"name": "deliveryAddress",
+							"value": ""
+						},
+						{
+							"displayValue": "2024-05-10",
+							"name": "labVisitDate",
+							"value": "2024-05-10"
+						},
+						{
+							"displayValue": "Carlos Aroche (GTPASMO_ASP_0009)",
+							"name": "labreferred",
+							"value": "GTPASMO_ASP_0009"
+						},
+						{
+							"displayValue": "716445772641",
+							"name": "voucherCodeNew",
+							"value": "716445772641"
+						},
+						{
+							"displayValue": "716445772641",
+							"name": "voucherCode",
+							"value": "716445772641"
+						},
+						{
+							"displayValue": "NO",
+							"name": "rocketChatVCImgSend",
+							"value": "NO"
+						},
+						{
+							"displayValue": "",
+							"name": "rocketChatSendMethod",
+							"value": ""
+						}
+					]
+				},
+				"id": "GT_TEST_ASP_20240429_175216548",
+				"type": "IPC_ISS",
+				"transactions": [
+					{
+						"dataValues": {
+							"labVisitDate": "2024-05-10",
+							"customerLocationMedium": "inSitu",
+							"riskLevel": "bajo",
+							"voucherType": "Electronic",
+							"healthyBehaviourPromoted": "pruebaDeVIH",
+							"transactionType_SSEISS": "ISS",
+							"referenceType": "pruebaDeVIH",
+							"contactOriginPresencial": "reclutadores",
+							"interventionLine": "presencial",
+							"labreferred": "GTPASMO_ASP_0009",
+							"serviceDeliveryChannel": "pruebaEnOficina",
+							"interventionResult": "referencia",
+							"activityid": "T_LAC-SPLW-7411-20240429",
+							"rocketChatVCImgSend": "NO",
+							"serviceLocationDept": "01",
+							"recruiterName": "gggg",
+							"interventionTypePresencial": "abordajeUnoaUno",
+							"location": "{ 13.6697923, -89.2181818}",
+							"riskAssessment": "YES",
+							"dateOfServiceQuery": "YES",
+							"voucherCode": "716445772641",
+							"serviceLocationMunic": "010102"
+						},
+						"clientDetails": {
+							"voucherCode": "716445772641"
+						},
+						"type": "v_iss"
+					},
+					{
+						"dataValues": {
+							"msg": "PASMO te envia tu numero de cupon: 716445772641. Sera un placer atenderte.",
+							"phoneNumber": "+99876",
+							"voucherCode": "716445772641"
+						},
+						"clientDetails": {
+							"voucherCode": "716445772641"
+						},
+						"type": "s_msg"
+					},
+					{
+						"dataValues": {
+							"riskLevel": "bajo",
+							"healthyBehaviourPromoted": "pruebaDeVIH",
+							"referenceType": "pruebaDeVIH",
+							"contactOriginPresencial": "reclutadores",
+							"interventionResult": "referencia",
+							"rocketChatVCImgSend": "NO",
+							"serviceLocationDept": "01",
+							"recruiterName": "gggg",
+							"voucherCode": "716445772641",
+							"serviceLocationMunic": "010102",
+							"labVisitDate": "2024-05-10",
+							"customerLocationMedium": "inSitu",
+							"voucherType": "Electronic",
+							"orgUnit": "lsA6RQnisaf",
+							"transactionType_SSEISS": "ISS",
+							"dhis2Action": "emitirCoupon",
+							"interventionLine": "presencial",
+							"labreferred": "GTPASMO_ASP_0009",
+							"serviceDeliveryChannel": "pruebaEnOficina",
+							"activityid": "T_LAC-SPLW-7411-20240429",
+							"interventionTypePresencial": "abordajeUnoaUno",
+							"location": "{ 13.6697923, -89.2181818}",
+							"riskAssessment": "YES",
+							"projectName": "LAC_HIV",
+							"dateOfServiceQuery": "YES",
+							"isUpdate": false,
+							"orgUnitName": "GT_TEST_ASP"
+						},
+						"type": "s_dhis2Program_event"
+					}
+				],
+				"ws": {
+					"app": "dws",
+					"configVersion": "CMN_2.0",
+					"softwareVersion": "unknown"
+				},
+				"dc": {
+					"app": "WF-App",
+					"control": "wfa v~1.3.0, c:Online, p:clientIntervention_voucherOptional, wfa-config v13, ws v~1.5",
+					"network": "Online"
+				},
+				"processing": {
+					"created": "2024-05-31T22:38:23.000",
+					"history": [
+						{
+							"status": "downloaded",
+							"responseCode": 200,
+							"datetime": "2024-05-31T22:38:23.000",
+							"msg": "Downloaded and synced."
+						}
+					],
+					"status": "downloaded",
+					"syncUpCount": 0,
+					"historyData": {}
+				}
+			},
+			{
+				"date": {
+					"syncedLoc": "2024-05-14T02:54:42.000",
+					"updatedLoc": "2024-05-14T02:54:38.000",
+					"updatedUTC": "2024-05-13T17:54:38.000",
+					"capturedUTC": "2024-05-13T17:54:03.000",
+					"createdLoc": "2024-05-14T02:54:38.000",
+					"syncedUTC": "2024-05-13T17:54:42.000",
+					"capturedLoc": "2024-05-14T02:54:03.000",
+					"createdUTC": "2024-05-13T17:54:38.000"
+				},
+				"activeUserRoles": [
+					"lac_outNet",
+					"lac_rock",
+					"lac_asp"
+				],
+				"activeUser": "GT_TEST_ASP",
+				"creditedUsers": [
+					"GT_TEST_ASP"
+				],
+				"location": {},
+				"formData": {
+					"blockId": "block_clientIntervention_Online_Ipc",
+					"activityId": "GT_TEST_ASP_20240513_175438561",
+					"data": [
+						{
+							"displayValue": "T_LAC-NRLE-5492-20240513",
+							"name": "activityid",
+							"value": "T_LAC-NRLE-5492-20240513"
+						},
+						{
+							"displayValue": "2024-05-13T11:54:03.583",
+							"name": "activityDate_now",
+							"value": "2024-05-13T11:54:03.583"
+						},
+						{
+							"displayValue": "2024-05-13T11:54:03.583",
+							"name": "activityDate",
+							"value": "2024-05-13T11:54:03.583"
+						},
+						{
+							"displayValue": "SSE",
+							"name": "transactionType_SSEISS",
+							"value": "SSE"
+						},
+						{
+							"displayValue": "HER",
+							"name": "ownershipOfPhone",
+							"value": "HER"
+						},
+						{
+							"displayValue": "+99876",
+							"name": "phoneNumber",
+							"value": "+99876"
+						},
+						{
+							"displayValue": "+99876",
+							"name": "phoneNumber_whatsApp",
+							"value": "+99876"
+						},
+						{
+							"displayValue": "YESP",
+							"name": "contactConsentService",
+							"value": "YESP"
+						},
+						{
+							"displayValue": "whatsApp",
+							"name": "preferredContactMode",
+							"value": "whatsApp"
+						},
+						{
+							"displayValue": "",
+							"name": "localizedContact",
+							"value": ""
+						},
+						{
+							"displayValue": "YES",
+							"name": "dateOfServiceQuery",
+							"value": "YES"
+						},
+						{
+							"displayValue": "",
+							"name": "serviceDatePast",
+							"value": ""
+						},
+						{
+							"displayValue": "01",
+							"name": "serviceLocationDept",
+							"value": "01"
+						},
+						{
+							"displayValue": "010102",
+							"name": "serviceLocationMunic",
+							"value": "010102"
+						},
+						{
+							"displayValue": "presencial",
+							"name": "interventionLine",
+							"value": "presencial"
+						},
+						{
+							"displayValue": "",
+							"name": "interventionTypeOnline",
+							"value": ""
+						},
+						{
+							"displayValue": "jornada",
+							"name": "interventionTypePresencial",
+							"value": "jornada"
+						},
+						{
+							"displayValue": "ofertaDePruebaIndex",
+							"name": "interventionTypeIndexTesting",
+							"value": "ofertaDePruebaIndex"
+						},
+						{
+							"displayValue": "ofertaDePruebaSemilla",
+							"name": "interventionTypeSemilla",
+							"value": "ofertaDePruebaSemilla"
+						},
+						{
+							"displayValue": "",
+							"name": "contactOriginIndex",
+							"value": ""
+						},
+						{
+							"displayValue": "",
+							"name": "interventionResultIndexSemilla",
+							"value": ""
+						},
+						{
+							"displayValue": "",
+							"name": "hivStatus_Ipc",
+							"value": ""
+						},
+						{
+							"displayValue": "",
+							"name": "linkedToTreatment",
+							"value": ""
+						},
+						{
+							"displayValue": "",
+							"name": "nonEffectiveContactReason",
+							"value": ""
+						},
+						{
+							"displayValue": "",
+							"name": "declineReferralReason",
+							"value": ""
+						},
+						{
+							"displayValue": "",
+							"name": "contactOriginEnLinea",
+							"value": ""
+						},
+						{
+							"displayValue": "tarjetaDeInvitacion",
+							"name": "contactOriginPresencial",
+							"value": "tarjetaDeInvitacion"
+						},
+						{
+							"displayValue": "",
+							"name": "recruiterName",
+							"value": ""
+						},
+						{
+							"displayValue": "porGoogle",
+							"name": "customerLocationMedium",
+							"value": "porGoogle"
+						},
+						{
+							"displayValue": "123124",
+							"name": "googleCoordinates",
+							"value": "123124"
+						},
+						{
+							"displayValue": "",
+							"name": "location",
+							"value": ""
+						},
+						{
+							"displayValue": "pruebaDeVIH",
+							"name": "healthyBehaviourPromoted",
+							"value": "pruebaDeVIH"
+						},
+						{
+							"displayValue": "pruebaEnOficina",
+							"name": "serviceDeliveryChannel",
+							"value": "pruebaEnOficina"
+						},
+						{
+							"displayValue": "NO",
+							"name": "riskAssessment",
+							"value": "NO"
+						},
+						{
+							"displayValue": "",
+							"name": "riskLevel",
+							"value": ""
+						},
+						{
+							"displayValue": "intentarDespues",
+							"name": "interventionResult",
+							"value": "intentarDespues"
+						},
+						{
+							"displayValue": "",
+							"name": "prepDeclineReason",
+							"value": ""
+						},
+						{
+							"displayValue": "",
+							"name": "HIVselfTestDeclineReason",
+							"value": ""
+						},
+						{
+							"displayValue": "NO",
+							"name": "voucherReminderQuery",
+							"value": "NO"
+						},
+						{
+							"displayValue": "716445772641",
+							"name": "voucherCode",
+							"value": "716445772641"
+						}
+					]
+				},
+				"id": "GT_TEST_ASP_20240513_175438561",
+				"type": "IPC_INT",
+				"transactions": [
+					{
+						"clientDetails": {
+							"phoneNumber": "+99876",
+							"phoneNumber_whatsApp": "+99876",
+							"contactConsentService": "YESP",
+							"ownershipOfPhone": "HER",
+							"preferredContactMode": "whatsApp",
+							"localizedContact": ""
+						},
+						"type": "c_upd"
+					},
+					{
+						"dataValues": {
+							"phoneNumber": "+99876",
+							"phoneNumber_whatsApp": "+99876",
+							"contactConsentService": "YESP",
+							"orgUnit": "lsA6RQnisaf",
+							"ownershipOfPhone": "HER",
+							"dhis2Action": "trackEntity",
+							"projectName": "LAC_HIV",
+							"preferredContactMode": "whatsApp",
+							"localizedContact": "",
+							"isUpdate": true,
+							"orgUnitName": "GT_TEST_ASP"
+						},
+						"type": "s_dhis2Program_trackEntity"
+					},
+					{
+						"dataValues": {
+							"customerLocationMedium": "porGoogle",
+							"healthyBehaviourPromoted": "pruebaDeVIH",
+							"transactionType_SSEISS": "SSE",
+							"contactOriginPresencial": "tarjetaDeInvitacion",
+							"voucherReminderQuery": "NO",
+							"interventionLine": "presencial",
+							"serviceDeliveryChannel": "pruebaEnOficina",
+							"interventionResult": "intentarDespues",
+							"activityid": "T_LAC-NRLE-5492-20240513",
+							"googleCoordinates": "123124",
+							"serviceLocationDept": "01",
+							"interventionTypePresencial": "jornada",
+							"riskAssessment": "NO",
+							"dateOfServiceQuery": "YES",
+							"serviceLocationMunic": "010102"
+						},
+						"clientDetails": {
+							"voucherCode": ""
+						},
+						"type": "c_inv"
+					},
+					{
+						"dataValues": {
+							"customerLocationMedium": "porGoogle",
+							"healthyBehaviourPromoted": "pruebaDeVIH",
+							"orgUnit": "lsA6RQnisaf",
+							"transactionType_SSEISS": "SSE",
+							"contactOriginPresencial": "tarjetaDeInvitacion",
+							"voucherReminderQuery": "NO",
+							"dhis2Action": "intervencion",
+							"interventionLine": "presencial",
+							"serviceDeliveryChannel": "pruebaEnOficina",
+							"interventionResult": "intentarDespues",
+							"activityid": "T_LAC-NRLE-5492-20240513",
+							"googleCoordinates": "123124",
+							"serviceLocationDept": "01",
+							"interventionTypePresencial": "jornada",
+							"riskAssessment": "NO",
+							"projectName": "LAC_HIV",
+							"dateOfServiceQuery": "YES",
+							"isUpdate": false,
+							"serviceLocationMunic": "010102",
+							"orgUnitName": "GT_TEST_ASP"
+						},
+						"type": "s_dhis2Program_event"
+					}
+				],
+				"ws": {
+					"app": "dws",
+					"configVersion": "CMN_2.0",
+					"softwareVersion": "unknown"
+				},
+				"dc": {
+					"app": "WF-App",
+					"control": "wfa v~1.3.0, c:Online, p:clientInterventionVoucherReminder, wfa-config v13, ws v~1.5",
+					"network": "Online"
+				},
+				"processing": {
+					"created": "2024-05-31T22:38:23.000",
+					"history": [
+						{
+							"status": "downloaded",
+							"responseCode": 200,
+							"datetime": "2024-05-31T22:38:23.000",
+							"msg": "Downloaded and synced."
+						}
+					],
+					"status": "downloaded",
+					"syncUpCount": 0,
+					"historyData": {}
+				}
+			},
+			{
+				"date": {
+					"syncedLoc": "2024-05-31T02:17:24.000",
+					"updatedLoc": "2024-05-24T06:52:52.000",
+					"updatedUTC": "2024-05-23T21:52:52.000",
+					"capturedUTC": "2024-05-20T06:00:00.000",
+					"createdLoc": "2024-05-24T06:52:52.000",
+					"syncedUTC": "2024-05-30T17:17:24.000",
+					"capturedLoc": "2024-05-20T15:00:00.000",
+					"createdUTC": "2024-05-23T21:52:52.000"
+				},
+				"activeUserRoles": [
+					"lac_outNet",
+					"lac_rock",
+					"lac_asp"
+				],
+				"activeUser": "GT_TEST_ASP",
+				"creditedUsers": [
+					"GT_TEST_ASP"
+				],
+				"location": {},
+				"formData": {
+					"blockId": "block_formExistingClient_Online_HIVTesting",
+					"activityId": "GT_TEST_ASP_20240523_215252162",
+					"data": [
+						{
+							"displayValue": "T_LAC-EXNX-0402-20240523",
+							"name": "activityid",
+							"value": "T_LAC-EXNX-0402-20240523"
+						},
+						{
+							"displayValue": "",
+							"name": "clientId",
+							"value": ""
+						},
+						{
+							"displayValue": "T_GT",
+							"name": "countryOfOriginDefault",
+							"value": "T_GT"
+						},
+						{
+							"displayValue": "2024-05-23T15:50:51.697",
+							"name": "activityDate_now",
+							"value": "2024-05-23T15:50:51.697"
+						},
+						{
+							"displayValue": "2024-05-20",
+							"name": "activityDate",
+							"value": "2024-05-20"
+						},
+						{
+							"displayValue": "negativo",
+							"name": "hivStatus",
+							"value": "negativo"
+						},
+						{
+							"displayValue": "NO",
+							"name": "idDocumentQuery",
+							"value": "NO"
+						},
+						{
+							"displayValue": "",
+							"name": "idDocument",
+							"value": ""
+						},
+						{
+							"displayValue": "HSH",
+							"name": "populationType",
+							"value": "HSH"
+						},
+						{
+							"displayValue": "HSH_H(G)",
+							"name": "subPopulationType",
+							"value": "HSH_H(G)"
+						},
+						{
+							"displayValue": "estudiayTrabaja",
+							"name": "occupation",
+							"value": "estudiayTrabaja"
+						},
+						{
+							"displayValue": "UNK",
+							"name": "sexWorker",
+							"value": "UNK"
+						},
+						{
+							"displayValue": "716445772641",
+							"name": "voucherCode",
+							"value": "716445772641"
+						},
+						{
+							"displayValue": "YES",
+							"name": "dateOfServiceQuery",
+							"value": "NO"
+						},
+						{
+							"displayValue": "2024-05-20",
+							"name": "serviceDatePast",
+							"value": "2024-05-20"
+						},
+						{
+							"displayValue": "01",
+							"name": "serviceLocationDept",
+							"value": "01"
+						},
+						{
+							"displayValue": "010102",
+							"name": "serviceLocationMunic",
+							"value": "010102"
+						},
+						{
+							"displayValue": "noConoceSuEstatus",
+							"name": "serologicalStatusAwareness",
+							"value": "noConoceSuEstatus"
+						},
+						{
+							"displayValue": "movil",
+							"name": "testingSite",
+							"value": "movil"
+						},
+						{
+							"displayValue": "",
+							"name": "continueWithHIVTest",
+							"value": ""
+						},
+						{
+							"displayValue": "positivo",
+							"name": "resultsTestOne",
+							"value": "positivo"
+						},
+						{
+							"displayValue": "determine",
+							"name": "nameTestOne",
+							"value": "determine"
+						},
+						{
+							"displayValue": "ffdddf",
+							"name": "lotOne",
+							"value": "ffdddf"
+						},
+						{
+							"displayValue": "2025-05-01",
+							"name": "expiryDateOne",
+							"value": "2025-05-01"
+						},
+						{
+							"displayValue": "YES",
+							"name": "secondTestConducted",
+							"value": "YES"
+						},
+						{
+							"displayValue": "indeterminado",
+							"name": "resultsTestTwo",
+							"value": "indeterminado"
+						},
+						{
+							"displayValue": "abon",
+							"name": "nameTestTwo",
+							"value": "abon"
+						},
+						{
+							"displayValue": "sdfdfsfdf",
+							"name": "lotTwo",
+							"value": "sdfdfsfdf"
+						},
+						{
+							"displayValue": "2025-01-05",
+							"name": "expiryDateTwo",
+							"value": "2025-01-05"
+						},
+						{
+							"displayValue": "inconcluso",
+							"name": "hivResult",
+							"value": "inconcluso"
+						},
+						{
+							"displayValue": "YES",
+							"name": "resultsDelivery",
+							"value": "YES"
+						},
+						{
+							"displayValue": "asp",
+							"name": "whoDeliveredResults",
+							"value": "asp"
+						},
+						{
+							"displayValue": "",
+							"name": "informationMaterialPackageNeg",
+							"value": ""
+						},
+						{
+							"displayValue": "",
+							"name": "informationMaterialPackagePos",
+							"value": ""
+						},
+						{
+							"displayValue": "",
+							"name": "informationMaterial",
+							"value": ""
+						},
+						{
+							"displayValue": "",
+							"name": "condomsLubricantDelivered",
+							"value": ""
+						},
+						{
+							"displayValue": false,
+							"name": "emotionalSupport",
+							"value": false
+						},
+						{
+							"displayValue": false,
+							"name": "linkagetoCareandTreatment",
+							"value": false
+						},
+						{
+							"displayValue": false,
+							"name": "referenceToHIVServices",
+							"value": false
+						},
+						{
+							"displayValue": false,
+							"name": "structuralServices",
+							"value": false
+						},
+						{
+							"displayValue": "",
+							"name": "structuralServicesOptions",
+							"value": ""
+						},
+						{
+							"displayValue": "",
+							"name": "educationalMaterial",
+							"value": ""
+						},
+						{
+							"displayValue": "",
+							"name": "transportationPayment",
+							"value": ""
+						},
+						{
+							"displayValue": "",
+							"name": "refreshmentProvided",
+							"value": ""
+						},
+						{
+							"displayValue": "NO",
+							"name": "discreteOffer",
+							"value": "NO"
+						},
+						{
+							"displayValue": "asimilacion",
+							"name": "discreteOfferIdxTstDeclineReason",
+							"value": "asimilacion"
+						},
+						{
+							"displayValue": "",
+							"name": "indexClientAcceptance",
+							"value": ""
+						},
+						{
+							"displayValue": "",
+							"name": "rejectDiscreteReason",
+							"value": ""
+						},
+						{
+							"displayValue": "",
+							"name": "discreteWebOffer",
+							"value": ""
+						},
+						{
+							"displayValue": "",
+							"name": "riskReductionCounseling",
+							"value": ""
+						},
+						{
+							"displayValue": "",
+							"name": "proofServiceReceived",
+							"value": ""
+						},
+						{
+							"displayValue": "",
+							"name": "offerReminder",
+							"value": ""
+						},
+						{
+							"displayValue": "",
+							"name": "reminderNextTest",
+							"value": ""
+						},
+						{
+							"displayValue": "",
+							"name": "reminderFrequency",
+							"value": ""
+						},
+						{
+							"displayValue": "",
+							"name": "PrEPOffered",
+							"value": ""
+						},
+						{
+							"displayValue": false,
+							"name": "stiDiagnosis",
+							"value": false
+						},
+						{
+							"displayValue": "NO",
+							"name": "syphilisTest",
+							"value": "NO"
+						},
+						{
+							"displayValue": "",
+							"name": "syphilisTestResult",
+							"value": ""
+						},
+						{
+							"displayValue": "",
+							"name": "STITreatmentCounselling",
+							"value": ""
+						},
+						{
+							"displayValue": "",
+							"name": "STITreatmentAccompanied",
+							"value": ""
+						},
+						{
+							"displayValue": "",
+							"name": "STIConfirmationTreatmentLinkage",
+							"value": ""
+						}
+					],
+					"showCase": "showCase_hivTesting_captureService_redeemOnline",
+					"hideCase": "hideCase_hivTesting_captureService_redeemOnline"
+				},
+				"id": "GT_TEST_ASP_20240523_215252162",
+				"type": "PROV_SP_HIVTEST",
+				"transactions": [
+					{
+						"clientDetails": {
+							"populationType": "HSH",
+							"subPopulationType": "HSH_H(G)",
+							"occupation": "estudiayTrabaja",
+							"sexWorker": "UNK",
+							"idDocument": "",
+							"hivStatus": "negativo",
+							"voucherCode": "716445772641",
+							"idDocumentQuery": "NO"
+						},
+						"type": "c_upd"
+					},
+					{
+						"dataValues": {
+							"citizen": "",
+							"occupation": "estudiayTrabaja",
+							"sexWorker": "UNK",
+							"idDocument": "",
+							"birthDepartment": "",
+							"orgUnit": "lsA6RQnisaf",
+							"dhis2Action": "trackEntity",
+							"ethnicGroup_Otro": "",
+							"populationType": "HSH",
+							"subPopulationType": "HSH_H(G)",
+							"birthMunicipality": "",
+							"countryOfOrigin": "",
+							"ethnicGroup": "",
+							"projectName": "LAC_HIV",
+							"hivStatus": "negativo",
+							"voucherCode": "716445772641",
+							"isUpdate": true,
+							"orgUnitName": "GT_TEST_ASP"
+						},
+						"type": "s_dhis2Program_trackEntity"
+					},
+					{
+						"dataValues": {
+							"expiryDateTwo": "2025-01-05",
+							"resultsTestOne": "positivo",
+							"discreteWebOffer": "",
+							"sexWorker": "UNK",
+							"serviceDatePast": "2024-05-20",
+							"emotionalSupport": false,
+							"lotOne": "ffdddf",
+							"nameTestTwo": "abon",
+							"educationalMaterial": "",
+							"serviceLocationDept": "01",
+							"whoDeliveredResults": "asp",
+							"refreshmentProvided": "",
+							"discreteOffer": "NO",
+							"resultsTestTwo": "indeterminado",
+							"secondTestConducted": "YES",
+							"voucherCode": "716445772641",
+							"serviceLocationMunic": "010102",
+							"testingSite": "movil",
+							"serologicalStatusAwareness": "noConoceSuEstatus",
+							"syphilisTest": "NO",
+							"lotTwo": "sdfdfsfdf",
+							"hivResult": "inconcluso",
+							"linkagetoCareandTreatment": false,
+							"discreteOfferIdxTstDeclineReason": "asimilacion",
+							"nameTestOne": "determine",
+							"transportationPayment": "",
+							"expiryDateOne": "2025-05-01",
+							"activityid": "T_LAC-EXNX-0402-20240523",
+							"resultsDelivery": "YES",
+							"dateOfServiceQuery": "NO",
+							"referenceToHIVServices": false
+						},
+						"clientDetails": {
+							"voucherCode": "716445772641"
+						},
+						"type": "v_rdx_hivTEST"
+					},
+					{
+						"dataValues": {
+							"expiryDateTwo": "2025-01-05",
+							"resultsTestOne": "positivo",
+							"discreteWebOffer": "",
+							"sexWorker": "UNK",
+							"serviceDatePast": "2024-05-20",
+							"emotionalSupport": false,
+							"lotOne": "ffdddf",
+							"nameTestTwo": "abon",
+							"educationalMaterial": "",
+							"serviceLocationDept": "01",
+							"whoDeliveredResults": "asp",
+							"refreshmentProvided": "",
+							"discreteOffer": "NO",
+							"resultsTestTwo": "indeterminado",
+							"secondTestConducted": "YES",
+							"voucherCode": "716445772641",
+							"serviceLocationMunic": "010102",
+							"testingSite": "movil",
+							"serologicalStatusAwareness": "noConoceSuEstatus",
+							"syphilisTest": "NO",
+							"lotTwo": "sdfdfsfdf",
+							"orgUnit": "lsA6RQnisaf",
+							"hivResult": "inconcluso",
+							"linkagetoCareandTreatment": false,
+							"discreteOfferIdxTstDeclineReason": "asimilacion",
+							"dhis2Action": "preubaDeVIH",
+							"nameTestOne": "determine",
+							"transportationPayment": "",
+							"expiryDateOne": "2025-05-01",
+							"activityid": "T_LAC-EXNX-0402-20240523",
+							"resultsDelivery": "YES",
+							"projectName": "LAC_HIV",
+							"dateOfServiceQuery": "NO",
+							"isUpdate": false,
+							"referenceToHIVServices": false,
+							"orgUnitName": "GT_TEST_ASP"
+						},
+						"type": "s_dhis2Program_event"
+					}
+				],
+				"ws": {
+					"app": "dws",
+					"configVersion": "CMN_2.0",
+					"softwareVersion": "unknown"
+				},
+				"dc": {
+					"app": "WF-App",
+					"control": "wfa v~1.3.0, c:Online, p:walkin_existingClient_HIVtesting, wfa-config v13, ws v~1.5",
+					"network": "Online"
+				},
+				"processing": {
+					"created": "2024-05-31T22:38:23.000",
+					"history": [
+						{
+							"status": "downloaded",
+							"responseCode": 200,
+							"datetime": "2024-05-31T22:38:23.000",
+							"msg": "Downloaded and synced."
+						}
+					],
+					"status": "downloaded",
+					"syncUpCount": 0,
+					"historyData": {}
+				}
+			},
+			{
+				"date": {
+					"syncedLoc": "2024-05-31T02:17:29.000",
+					"updatedLoc": "2024-05-24T06:53:52.000",
+					"updatedUTC": "2024-05-23T21:53:52.000",
+					"capturedUTC": "2024-05-23T21:53:05.000",
+					"createdLoc": "2024-05-24T06:53:52.000",
+					"syncedUTC": "2024-05-30T17:17:29.000",
+					"capturedLoc": "2024-05-24T06:53:05.000",
+					"createdUTC": "2024-05-23T21:53:52.000"
+				},
+				"activeUserRoles": [
+					"lac_outNet",
+					"lac_rock",
+					"lac_asp"
+				],
+				"activeUser": "GT_TEST_ASP",
+				"creditedUsers": [
+					"GT_TEST_ASP"
+				],
+				"location": {},
+				"formData": {
+					"blockId": "block_followUp_Online",
+					"activityId": "GT_TEST_ASP_20240523_215352666",
+					"data": [
+						{
+							"displayValue": "T_LAC-PNNK-9236-20240523",
+							"name": "activityid",
+							"value": "T_LAC-PNNK-9236-20240523"
+						},
+						{
+							"displayValue": "2024-05-23T15:53:05.520",
+							"name": "activityDate_now",
+							"value": "2024-05-23T15:53:05.520"
+						},
+						{
+							"displayValue": "2024-05-23T15:53:05.520",
+							"name": "activityDate",
+							"value": "2024-05-23T15:53:05.520"
+						},
+						{
+							"displayValue": "716445772641",
+							"name": "voucherCode",
+							"value": "716445772641"
+						},
+						{
+							"displayValue": "YES",
+							"name": "dateOfServiceQuery",
+							"value": "YES"
+						},
+						{
+							"displayValue": "",
+							"name": "serviceDatePast",
+							"value": ""
+						},
+						{
+							"displayValue": "01",
+							"name": "serviceLocationDept",
+							"value": "01"
+						},
+						{
+							"displayValue": "010102",
+							"name": "serviceLocationMunic",
+							"value": "010102"
+						},
+						{
+							"displayValue": "contactoparaVinculacion",
+							"name": "followUpType",
+							"value": "contactoparaVinculacion"
+						},
+						{
+							"displayValue": "telefonico",
+							"name": "contactType",
+							"value": "telefonico"
+						},
+						{
+							"displayValue": "YES",
+							"name": "contactEffective",
+							"value": "YES"
+						},
+						{
+							"displayValue": "",
+							"name": "nonEffectiveContactReason_fup",
+							"value": ""
+						},
+						{
+							"displayValue": "",
+							"name": "fupResult",
+							"value": ""
+						},
+						{
+							"displayValue": "",
+							"name": "reasonServiceDecline",
+							"value": ""
+						},
+						{
+							"displayValue": false,
+							"name": "EmotionalSupport",
+							"value": false
+						},
+						{
+							"displayValue": false,
+							"name": "linkageCounselling",
+							"value": false
+						},
+						{
+							"displayValue": false,
+							"name": "linkageRequirements",
+							"value": false
+						},
+						{
+							"displayValue": false,
+							"name": "transportationPayment",
+							"value": false
+						},
+						{
+							"displayValue": false,
+							"name": "refreshmentProvided",
+							"value": false
+						},
+						{
+							"displayValue": false,
+							"name": "otherLabServices",
+							"value": false
+						},
+						{
+							"displayValue": false,
+							"name": "structuralServices",
+							"value": false
+						},
+						{
+							"displayValue": "",
+							"name": "structuralServicesOptions",
+							"value": ""
+						},
+						{
+							"displayValue": false,
+							"name": "discreteOffer",
+							"value": false
+						},
+						{
+							"displayValue": "noAceptaSeguimiento",
+							"name": "discreteOfferIdxTstDeclineReason",
+							"value": "noAceptaSeguimiento"
+						},
+						{
+							"displayValue": "",
+							"name": "indexClientAcceptance",
+							"value": ""
+						},
+						{
+							"displayValue": "",
+							"name": "rejectIndexClientReason",
+							"value": ""
+						},
+						{
+							"displayValue": "enProceso",
+							"name": "declineLinkageReason",
+							"value": "enProceso"
+						},
+						{
+							"displayValue": "",
+							"name": "monitoringResultServiceStructures",
+							"value": ""
+						},
+						{
+							"displayValue": "",
+							"name": "stiResults",
+							"value": ""
+						},
+						{
+							"displayValue": "",
+							"name": "continuewithService",
+							"value": ""
+						},
+						{
+							"displayValue": "",
+							"name": "prepAbandonmentReason",
+							"value": ""
+						},
+						{
+							"displayValue": "",
+							"name": "adverseEvents",
+							"value": ""
+						},
+						{
+							"displayValue": "",
+							"name": "sideEffects",
+							"value": ""
+						},
+						{
+							"displayValue": "",
+							"name": "tookSelfTest",
+							"value": ""
+						},
+						{
+							"displayValue": "",
+							"name": "selfTestDeclineReasonFUP",
+							"value": ""
+						},
+						{
+							"displayValue": "",
+							"name": "patientLoss",
+							"value": ""
+						}
+					]
+				},
+				"id": "GT_TEST_ASP_20240523_215352666",
+				"type": "PROV_SP_FUP",
+				"transactions": [
+					{
+						"dataValues": {
+							"contactEffective": "YES",
+							"contactType": "telefonico",
+							"discreteOfferIdxTstDeclineReason": "noAceptaSeguimiento",
+							"transportationPayment": false,
+							"linkageRequirements": false,
+							"linkageCounselling": false,
+							"structuralServices": false,
+							"activityid": "T_LAC-PNNK-9236-20240523",
+							"declineLinkageReason": "enProceso",
+							"followUpType": "contactoparaVinculacion",
+							"otherLabServices": false,
+							"serviceLocationDept": "01",
+							"refreshmentProvided": false,
+							"discreteOffer": false,
+							"patientLoss": "",
+							"EmotionalSupport": false,
+							"dateOfServiceQuery": "YES",
+							"voucherCode": "716445772641",
+							"serviceLocationMunic": "010102"
+						},
+						"clientDetails": {
+							"voucherCode": "716445772641"
+						},
+						"type": "v_fup"
+					},
+					{
+						"dataValues": {
+							"contactEffective": "YES",
+							"orgUnit": "lsA6RQnisaf",
+							"contactType": "telefonico",
+							"discreteOfferIdxTstDeclineReason": "noAceptaSeguimiento",
+							"dhis2Action": "seguimiento",
+							"transportationPayment": false,
+							"linkageRequirements": false,
+							"linkageCounselling": false,
+							"structuralServices": false,
+							"activityid": "T_LAC-PNNK-9236-20240523",
+							"declineLinkageReason": "enProceso",
+							"followUpType": "contactoparaVinculacion",
+							"otherLabServices": false,
+							"serviceLocationDept": "01",
+							"refreshmentProvided": false,
+							"discreteOffer": false,
+							"patientLoss": "",
+							"EmotionalSupport": false,
+							"projectName": "LAC_HIV",
+							"dateOfServiceQuery": "YES",
+							"voucherCode": "716445772641",
+							"isUpdate": false,
+							"serviceLocationMunic": "010102",
+							"orgUnitName": "GT_TEST_ASP"
+						},
+						"type": "s_dhis2Program_event"
+					}
+				],
+				"ws": {
+					"app": "dws",
+					"configVersion": "CMN_2.0",
+					"softwareVersion": "unknown"
+				},
+				"dc": {
+					"app": "WF-App",
+					"control": "wfa v~1.3.0, c:Online, p:followUp, wfa-config v13, ws v~1.5",
+					"network": "Online"
+				},
+				"processing": {
+					"created": "2024-05-31T22:38:23.000",
+					"history": [
+						{
+							"status": "downloaded",
+							"responseCode": 200,
+							"datetime": "2024-05-31T22:38:23.000",
+							"msg": "Downloaded and synced."
+						}
+					],
+					"status": "downloaded",
+					"syncUpCount": 0,
+					"historyData": {}
+				}
+			},
+			{
+				"date": {
+					"syncedLoc": "2024-05-31T06:15:04.000",
+					"updatedLoc": "2024-05-31T06:15:04.000",
+					"updatedUTC": "2024-05-30T21:15:04.000",
+					"capturedUTC": "2024-05-30T21:14:22.000",
+					"createdLoc": "2024-05-31T06:15:04.000",
+					"syncedUTC": "2024-05-30T21:15:04.000",
+					"capturedLoc": "2024-05-31T06:14:22.000",
+					"createdUTC": "2024-05-30T21:15:04.000"
+				},
+				"activeUserRoles": [
+					"lac_outNet",
+					"lac_rock",
+					"lac_asp"
+				],
+				"activeUser": "GT_TEST_ASP",
+				"creditedUsers": [
+					"GT_TEST_ASP"
+				],
+				"location": {},
+				"formData": {
+					"blockId": "blockClientRelAdd",
+					"activityId": "GT_TEST_ASP_20240530_211504666",
+					"data": [
+						{
+							"displayValue": "2024-05-30T15:14:22.167",
+							"name": "activityDate_now",
+							"value": "2024-05-30T15:14:22.167"
+						},
+						{
+							"displayValue": "2024-05-30T15:14:22.167",
+							"name": "activityDate",
+							"value": "2024-05-30T15:14:22.167"
+						},
+						{
+							"displayValue": "6166ed74cd6e4a08ab3c1cd0",
+							"name": "clientId",
+							"value": "6166ed74cd6e4a08ab3c1cd0"
+						},
+						{
+							"displayValue": "Test",
+							"name": "firstName",
+							"value": "Test"
+						},
+						{
+							"displayValue": "User",
+							"name": "lastName",
+							"value": "User"
+						},
+						{
+							"displayValue": "Kimmy",
+							"name": "nickName",
+							"value": "Kimmy"
+						},
+						{
+							"displayValue": "+99876",
+							"name": "phoneNumber",
+							"value": "+99876"
+						},
+						{
+							"displayValue": "",
+							"name": "contactDay",
+							"value": ""
+						},
+						{
+							"displayValue": "",
+							"name": "contactTime",
+							"value": ""
+						},
+						{
+							"displayValue": "",
+							"name": "socialMediaNetwork",
+							"value": ""
+						},
+						{
+							"displayValue": "",
+							"name": "otherNetwork",
+							"value": ""
+						},
+						{
+							"displayValue": "Test",
+							"name": "comments",
+							"value": "Test"
+						},
+						{
+							"displayValue": "SP-Contact",
+							"name": "relationship",
+							"value": "SP-Contact"
+						},
+						{
+							"displayValue": "YES",
+							"name": "dateOfServiceQuery",
+							"value": "YES"
+						},
+						{
+							"displayValue": "",
+							"name": "serviceDatePast",
+							"value": ""
+						},
+						{
+							"displayValue": "YES",
+							"name": "ipvEvaluation",
+							"value": "YES"
+						},
+						{
+							"displayValue": "NO",
+							"name": "physicalViolence",
+							"value": "NO"
+						},
+						{
+							"displayValue": "NO",
+							"name": "psychologicalViolence",
+							"value": "NO"
+						},
+						{
+							"displayValue": "NO",
+							"name": "sexualViolence",
+							"value": "NO"
+						},
+						{
+							"displayValue": "",
+							"name": "firstLineCare",
+							"value": ""
+						},
+						{
+							"displayValue": "",
+							"name": "referredService",
+							"value": ""
+						},
+						{
+							"displayValue": "NO",
+							"name": "impliedRisk",
+							"value": "NO"
+						},
+						{
+							"displayValue": "porProveedor",
+							"name": "notificationPlan",
+							"value": "porProveedor"
+						}
+					]
+				},
+				"id": "GT_TEST_ASP_20240530_211504666",
+				"transactions": [
+					{
+						"type": "r_add",
+						"relationship": {
+							"date": "2024-05-30T21:15:04.666Z",
+							"clientId": "6166ed74cd6e4a08ab3c1cd0",
+							"type": "SP-Contact",
+							"dateOfServiceQuery": "YES",
+							"addedType": "source"
+						}
+					}
+				],
+				"type": "IPC_CLIENT_REL",
+				"ws": {
+					"app": "dws",
+					"configVersion": "CMN_2.0",
+					"softwareVersion": "unknown"
+				},
+				"dc": {
+					"app": "WF-App",
+					"network": "Online"
+				},
+				"processing": {
+					"created": "2024-05-31T22:38:23.000",
+					"history": [
+						{
+							"status": "downloaded",
+							"responseCode": 200,
+							"datetime": "2024-05-31T22:38:23.000",
+							"msg": "Downloaded and synced."
+						}
+					],
+					"status": "downloaded",
+					"syncUpCount": 0,
+					"historyData": {}
+				}
+			},
+			{
+				"date": {
+					"syncedLoc": "2024-05-31T06:15:09.000",
+					"updatedLoc": "2024-05-31T06:15:09.000",
+					"updatedUTC": "2024-05-30T21:15:09.000",
+					"capturedUTC": "2024-05-30T21:14:22.000",
+					"createdLoc": "2024-05-31T06:15:09.000",
+					"syncedUTC": "2024-05-30T21:15:09.000",
+					"capturedLoc": "2024-05-31T06:14:22.000",
+					"createdUTC": "2024-05-30T21:15:09.000"
+				},
+				"activeUserRoles": [
+					"lac_outNet",
+					"lac_rock",
+					"lac_asp"
+				],
+				"activeUser": "GT_TEST_ASP",
+				"creditedUsers": [
+					"GT_TEST_ASP"
+				],
+				"location": {},
+				"formData": {
+					"blockId": "blockClientRelAdd",
+					"activityId": "GT_TEST_ASP_20240530_211509479",
+					"data": [
+						{
+							"displayValue": "2024-05-30T15:14:22.167",
+							"name": "activityDate_now",
+							"value": "2024-05-30T15:14:22.167"
+						},
+						{
+							"displayValue": "2024-05-30T15:14:22.167",
+							"name": "activityDate",
+							"value": "2024-05-30T15:14:22.167"
+						},
+						{
+							"displayValue": "6166ed74cd6e4a08ab3c1cd0",
+							"name": "clientId",
+							"value": "6166ed74cd6e4a08ab3c1cd0"
+						},
+						{
+							"displayValue": "Test",
+							"name": "firstName",
+							"value": "Test"
+						},
+						{
+							"displayValue": "User",
+							"name": "lastName",
+							"value": "User"
+						},
+						{
+							"displayValue": "Kimmy",
+							"name": "nickName",
+							"value": "Kimmy"
+						},
+						{
+							"displayValue": "+99876",
+							"name": "phoneNumber",
+							"value": "+99876"
+						},
+						{
+							"displayValue": "",
+							"name": "contactDay",
+							"value": ""
+						},
+						{
+							"displayValue": "",
+							"name": "contactTime",
+							"value": ""
+						},
+						{
+							"displayValue": "",
+							"name": "socialMediaNetwork",
+							"value": ""
+						},
+						{
+							"displayValue": "",
+							"name": "otherNetwork",
+							"value": ""
+						},
+						{
+							"displayValue": "Test",
+							"name": "comments",
+							"value": "Test"
+						},
+						{
+							"displayValue": "SP-Contact",
+							"name": "relationship",
+							"value": "SP-Contact"
+						},
+						{
+							"displayValue": "YES",
+							"name": "dateOfServiceQuery",
+							"value": "YES"
+						},
+						{
+							"displayValue": "",
+							"name": "serviceDatePast",
+							"value": ""
+						},
+						{
+							"displayValue": "YES",
+							"name": "ipvEvaluation",
+							"value": "YES"
+						},
+						{
+							"displayValue": "NO",
+							"name": "physicalViolence",
+							"value": "NO"
+						},
+						{
+							"displayValue": "NO",
+							"name": "psychologicalViolence",
+							"value": "NO"
+						},
+						{
+							"displayValue": "NO",
+							"name": "sexualViolence",
+							"value": "NO"
+						},
+						{
+							"displayValue": "",
+							"name": "firstLineCare",
+							"value": ""
+						},
+						{
+							"displayValue": "",
+							"name": "referredService",
+							"value": ""
+						},
+						{
+							"displayValue": "NO",
+							"name": "impliedRisk",
+							"value": "NO"
+						},
+						{
+							"displayValue": "porProveedor",
+							"name": "notificationPlan",
+							"value": "porProveedor"
+						}
+					]
+				},
+				"id": "GT_TEST_ASP_20240530_211509479",
+				"transactions": [
+					{
+						"type": "r_add",
+						"relationship": {
+							"date": "2024-05-30T21:15:09.479Z",
+							"clientId": "6166ed74cd6e4a08ab3c1cd0",
+							"type": "SP-Leader",
+							"dateOfServiceQuery": "YES",
+							"addedType": "contact"
+						}
+					},
+					{
+						"clientDetails": {
+							"firstName": "Test",
+							"lastName": "User",
+							"contactTime": "",
+							"phoneNumber": "+99876",
+							"otherNetwork": "",
+							"comments": "Test",
+							"nickName": "Kimmy",
+							"contactDay": "",
+							"socialMediaNetwork": ""
+						},
+						"type": "c_upd"
+					},
+					{
+						"dataValues": {
+							"lastName": "User",
+							"contactTime": "",
+							"otherNetwork": "",
+							"nickName": "Kimmy",
+							"orgUnit": "lsA6RQnisaf",
+							"contactDay": "",
+							"socialMediaNetwork": "",
+							"dhis2Action": "trackEntity",
+							"firstName": "Test",
+							"phoneNumber": "+99876",
+							"projectName": "LAC_HIV",
+							"isUpdate": true,
+							"orgUnitName": "GT_TEST_ASP"
+						},
+						"type": "s_dhis2Program_trackEntity"
+					},
+					{
+						"dataValues": {
+							"orgUnit": "lsA6RQnisaf",
+							"dhis2Action": "relacion",
+							"relationship": "SP-Contact",
+							"projectName": "LAC_HIV",
+							"dateOfServiceQuery": "YES",
+							"isUpdate": false,
+							"orgUnitName": "GT_TEST_ASP"
+						},
+						"type": "s_dhis2Program_event"
+					}
+				],
+				"type": "IPC_CLIENT_REL",
+				"ws": {
+					"app": "dws",
+					"configVersion": "CMN_2.0",
+					"softwareVersion": "unknown"
+				},
+				"dc": {
+					"app": "WF-App",
+					"network": "Online"
+				},
+				"processing": {
+					"created": "2024-05-31T22:38:23.000",
+					"history": [
+						{
+							"status": "downloaded",
+							"responseCode": 200,
+							"datetime": "2024-05-31T22:38:23.000",
+							"msg": "Downloaded and synced."
+						}
+					],
+					"status": "downloaded",
+					"syncUpCount": 0,
+					"historyData": {}
+				}
+			},
+			{
+				"date": {
+					"syncedLoc": "2024-05-31T06:16:43.000",
+					"updatedLoc": "2024-05-31T06:16:43.000",
+					"updatedUTC": "2024-05-30T21:16:43.000",
+					"capturedUTC": "2024-05-30T21:16:10.000",
+					"createdLoc": "2024-05-31T06:16:43.000",
+					"syncedUTC": "2024-05-30T21:16:43.000",
+					"capturedLoc": "2024-05-31T06:16:10.000",
+					"createdUTC": "2024-05-30T21:16:43.000"
+				},
+				"activeUserRoles": [
+					"lac_outNet",
+					"lac_rock",
+					"lac_asp"
+				],
+				"activeUser": "GT_TEST_ASP",
+				"creditedUsers": [
+					"GT_TEST_ASP"
+				],
+				"location": {},
+				"formData": {
+					"blockId": "blockClientRelAdd",
+					"activityId": "GT_TEST_ASP_20240530_211643750",
+					"data": [
+						{
+							"displayValue": "2024-05-30T15:16:10.076",
+							"name": "activityDate_now",
+							"value": "2024-05-30T15:16:10.076"
+						},
+						{
+							"displayValue": "2024-05-30T15:16:10.076",
+							"name": "activityDate",
+							"value": "2024-05-30T15:16:10.076"
+						},
+						{
+							"displayValue": "6166ed74cd6e4a08ab3c1cd0",
+							"name": "clientId",
+							"value": "6166ed74cd6e4a08ab3c1cd0"
+						},
+						{
+							"displayValue": "Test",
+							"name": "firstName",
+							"value": "Test"
+						},
+						{
+							"displayValue": "User",
+							"name": "lastName",
+							"value": "User"
+						},
+						{
+							"displayValue": "Kimmy",
+							"name": "nickName",
+							"value": "Kimmy"
+						},
+						{
+							"displayValue": "+99876",
+							"name": "phoneNumber",
+							"value": "+99876"
+						},
+						{
+							"displayValue": "",
+							"name": "contactDay",
+							"value": ""
+						},
+						{
+							"displayValue": "",
+							"name": "contactTime",
+							"value": ""
+						},
+						{
+							"displayValue": "",
+							"name": "socialMediaNetwork",
+							"value": ""
+						},
+						{
+							"displayValue": "",
+							"name": "otherNetwork",
+							"value": ""
+						},
+						{
+							"displayValue": "Test",
+							"name": "comments",
+							"value": "Test"
+						},
+						{
+							"displayValue": "SP-Contact",
+							"name": "relationship",
+							"value": "SP-Contact"
+						},
+						{
+							"displayValue": "YES",
+							"name": "dateOfServiceQuery",
+							"value": "YES"
+						},
+						{
+							"displayValue": "",
+							"name": "serviceDatePast",
+							"value": ""
+						},
+						{
+							"displayValue": "YES",
+							"name": "ipvEvaluation",
+							"value": "YES"
+						},
+						{
+							"displayValue": "NO",
+							"name": "physicalViolence",
+							"value": "NO"
+						},
+						{
+							"displayValue": "NO",
+							"name": "psychologicalViolence",
+							"value": "NO"
+						},
+						{
+							"displayValue": "NO",
+							"name": "sexualViolence",
+							"value": "NO"
+						},
+						{
+							"displayValue": "",
+							"name": "firstLineCare",
+							"value": ""
+						},
+						{
+							"displayValue": "",
+							"name": "referredService",
+							"value": ""
+						},
+						{
+							"displayValue": "NO",
+							"name": "impliedRisk",
+							"value": "NO"
+						},
+						{
+							"displayValue": "porProveedor",
+							"name": "notificationPlan",
+							"value": "porProveedor"
+						}
+					]
+				},
+				"id": "GT_TEST_ASP_20240530_211643750",
+				"transactions": [
+					{
+						"type": "r_add",
+						"relationship": {
+							"date": "2024-05-30T21:16:43.750Z",
+							"clientId": "6658a7384e360399a41c1ee6",
+							"type": "SP-Leader",
+							"dateOfServiceQuery": "YES",
+							"addedType": "contact"
+						}
+					},
+					{
+						"clientDetails": {
+							"firstName": "Test",
+							"lastName": "User",
+							"contactTime": "",
+							"phoneNumber": "+99876",
+							"otherNetwork": "",
+							"comments": "Test",
+							"nickName": "Kimmy",
+							"contactDay": "",
+							"socialMediaNetwork": ""
+						},
+						"type": "c_upd"
+					},
+					{
+						"dataValues": {
+							"lastName": "User",
+							"contactTime": "",
+							"otherNetwork": "",
+							"nickName": "Kimmy",
+							"orgUnit": "lsA6RQnisaf",
+							"contactDay": "",
+							"socialMediaNetwork": "",
+							"dhis2Action": "trackEntity",
+							"firstName": "Test",
+							"phoneNumber": "+99876",
+							"projectName": "LAC_HIV",
+							"isUpdate": true,
+							"orgUnitName": "GT_TEST_ASP"
+						},
+						"type": "s_dhis2Program_trackEntity"
+					},
+					{
+						"dataValues": {
+							"orgUnit": "lsA6RQnisaf",
+							"dhis2Action": "relacion",
+							"relationship": "SP-Contact",
+							"projectName": "LAC_HIV",
+							"dateOfServiceQuery": "YES",
+							"isUpdate": false,
+							"orgUnitName": "GT_TEST_ASP"
+						},
+						"type": "s_dhis2Program_event"
+					}
+				],
+				"type": "IPC_CLIENT_REL",
+				"ws": {
+					"app": "dws",
+					"configVersion": "CMN_2.0",
+					"softwareVersion": "unknown"
+				},
+				"dc": {
+					"app": "WF-App",
+					"network": "Online"
+				},
+				"processing": {
+					"created": "2024-05-31T22:38:23.000",
+					"history": [
+						{
+							"status": "downloaded",
+							"responseCode": 200,
+							"datetime": "2024-05-31T22:38:23.000",
+							"msg": "Downloaded and synced."
+						}
+					],
+					"status": "downloaded",
+					"syncUpCount": 0,
+					"historyData": {}
+				}
+			},
+			{
+				"date": {
+					"syncedLoc": "2024-05-31T06:59:56.000",
+					"updatedLoc": "2024-05-31T06:59:56.000",
+					"updatedUTC": "2024-05-30T21:59:56.000",
+					"capturedUTC": "2024-05-30T21:59:56.104",
+					"createdLoc": "2024-05-31T06:59:56.000",
+					"syncedUTC": "2024-05-30T21:59:56.000",
+					"capturedLoc": "2024-05-31T06:59:56.000",
+					"createdUTC": "2024-05-30T21:59:56.000"
+				},
+				"activeUserRoles": [
+					"lac_outNet",
+					"lac_rock",
+					"lac_asp"
+				],
+				"activeUser": "GT_TEST_ASP",
+				"creditedUsers": [
+					"GT_TEST_ASP"
+				],
+				"location": {},
+				"id": "GT_TEST_ASP_20240530_215956104",
+				"transactions": [
+					{
+						"type": "r_del",
+						"relationship": {
+							"clientId": "6166ed74cd6e4a08ab3c1cd0",
+							"type": "SP-Contact"
+						}
+					}
+				],
+				"type": "",
+				"ws": {
+					"app": "dws",
+					"configVersion": "CMN_2.0",
+					"softwareVersion": "unknown"
+				},
+				"dc": {
+					"app": "WF-App",
+					"network": "Online"
+				},
+				"processing": {
+					"created": "2024-05-31T22:38:23.000",
+					"history": [
+						{
+							"status": "downloaded",
+							"responseCode": 200,
+							"datetime": "2024-05-31T22:38:23.000",
+							"msg": "Downloaded and synced."
+						}
+					],
+					"status": "downloaded",
+					"syncUpCount": 0,
+					"historyData": {}
+				}
+			},
+			{
+				"date": {
+					"syncedLoc": "2024-05-31T07:00:02.000",
+					"updatedLoc": "2024-05-31T07:00:02.000",
+					"updatedUTC": "2024-05-30T22:00:02.000",
+					"capturedUTC": "2024-05-30T22:00:02.150",
+					"createdLoc": "2024-05-31T07:00:02.000",
+					"syncedUTC": "2024-05-30T22:00:02.000",
+					"capturedLoc": "2024-05-31T07:00:02.000",
+					"createdUTC": "2024-05-30T22:00:02.000"
+				},
+				"activeUserRoles": [
+					"lac_outNet",
+					"lac_rock",
+					"lac_asp"
+				],
+				"activeUser": "GT_TEST_ASP",
+				"creditedUsers": [
+					"GT_TEST_ASP"
+				],
+				"location": {},
+				"id": "GT_TEST_ASP_20240530_220002150",
+				"transactions": [
+					{
+						"type": "r_del",
+						"relationship": {
+							"clientId": "6166ed74cd6e4a08ab3c1cd0",
+							"type": "SP-Leader"
+						}
+					}
+				],
+				"type": "",
+				"ws": {
+					"app": "dws",
+					"configVersion": "CMN_2.0",
+					"softwareVersion": "unknown"
+				},
+				"dc": {
+					"app": "WF-App",
+					"network": "Online"
+				},
+				"processing": {
+					"created": "2024-05-31T22:38:23.000",
+					"history": [
+						{
+							"status": "downloaded",
+							"responseCode": 200,
+							"datetime": "2024-05-31T22:38:23.000",
+							"msg": "Downloaded and synced."
+						}
+					],
+					"status": "downloaded",
+					"syncUpCount": 0,
+					"historyData": {}
+				}
+			}
+		],
+		"_id": "6166ed74cd6e4a08ab3c1cd0"
+	},
+	{
+		"date": {
+			"updatedOnMdbUTC": "2024-05-30T21:51:19.591",
+			"updatedLoc": "2024-05-31T06:51:19.000",
+			"updatedUTC": "2024-05-30T21:51:19.591",
+			"createdLoc": "2024-05-31T06:51:19.000",
+			"createdUTC": "2024-05-30T21:51:19.591",
+			"updatedOnMdbLoc": "2024-05-31T06:51:19.000"
+		},
+		"relationships": [
+			{
+				"date": "2024-05-30T21:51:15.485Z",
+				"clientId": "6658a7384e360399a41c1ee6",
+				"type": "SP-Contact",
+				"dateOfServiceQuery": "YES",
+				"addedType": "contact"
+			}
+		],
+		"clientDetails": {
+			"lastName": "Alvarez",
+			"country": "T_GT",
+			"contactTime": "",
+			"comments": "pendiente de contactar",
+			"nickName": "colochito",
+			"sex": "M",
+			"contactDay": "",
+			"socialMediaNetwork": "",
+			"activeUsers": [
+				"GT_TEST_ASP"
+			],
+			"firstName": "Juan",
+			"phoneNumber": "+50222302135",
+			"voucherCodes": [],
+			"creditedUsers": [],
+			"age": "25"
+		},
+		"schemaVersion": "1-RC.2",
+		"activities": [
+			{
+				"date": {
+					"syncedLoc": "2024-05-31T06:51:15.000",
+					"updatedLoc": "2024-05-31T06:51:15.000",
+					"updatedUTC": "2024-05-30T21:51:15.000",
+					"capturedUTC": "2024-05-30T21:37:30.000",
+					"createdLoc": "2024-05-31T06:51:15.000",
+					"syncedUTC": "2024-05-30T21:51:15.000",
+					"capturedLoc": "2024-05-31T06:37:30.000",
+					"createdUTC": "2024-05-30T21:51:15.000"
+				},
+				"activeUserRoles": [
+					"lac_outNet",
+					"lac_rock",
+					"lac_asp"
+				],
+				"activeUser": "GT_TEST_ASP",
+				"creditedUsers": [
+					"GT_TEST_ASP"
+				],
+				"location": {},
+				"formData": {
+					"blockId": "blockClientRelSearch.blockAddNewClientRelForm",
+					"activityId": "GT_TEST_ASP_20240530_215115485",
+					"data": [
+						{
+							"displayValue": "2024-05-30T15:37:30.827",
+							"name": "activityDate_now",
+							"value": "2024-05-30T15:37:30.827"
+						},
+						{
+							"displayValue": "2024-05-30T15:37:30.827",
+							"name": "activityDate",
+							"value": "2024-05-30T15:37:30.827"
+						},
+						{
+							"displayValue": "Juan",
+							"name": "firstName",
+							"value": "Juan"
+						},
+						{
+							"displayValue": "Alvarez",
+							"name": "lastName",
+							"value": "Alvarez"
+						},
+						{
+							"displayValue": "colochito",
+							"name": "nickName",
+							"value": "colochito"
+						},
+						{
+							"displayValue": "+50222302135",
+							"name": "phoneNumber",
+							"value": "+50222302135"
+						},
+						{
+							"displayValue": "M",
+							"name": "sex",
+							"value": "M"
+						},
+						{
+							"displayValue": "25",
+							"name": "age",
+							"value": "25"
+						},
+						{
+							"displayValue": "",
+							"name": "contactDay",
+							"value": ""
+						},
+						{
+							"displayValue": "",
+							"name": "contactTime",
+							"value": ""
+						},
+						{
+							"displayValue": "",
+							"name": "socialMediaNetwork",
+							"value": ""
+						},
+						{
+							"displayValue": "",
+							"name": "otherNetwork",
+							"value": ""
+						},
+						{
+							"displayValue": "pendiente de contactar",
+							"name": "comments",
+							"value": "pendiente de contactar"
+						},
+						{
+							"displayValue": "SP-Contact",
+							"name": "relationship",
+							"value": "SP-Contact"
+						},
+						{
+							"displayValue": "YES",
+							"name": "dateOfServiceQuery",
+							"value": "YES"
+						},
+						{
+							"displayValue": "",
+							"name": "serviceDatePast",
+							"value": ""
+						},
+						{
+							"displayValue": "NO",
+							"name": "ipvEvaluation",
+							"value": "NO"
+						},
+						{
+							"displayValue": "",
+							"name": "physicalViolence",
+							"value": ""
+						},
+						{
+							"displayValue": "",
+							"name": "psychologicalViolence",
+							"value": ""
+						},
+						{
+							"displayValue": "",
+							"name": "sexualViolence",
+							"value": ""
+						},
+						{
+							"displayValue": "",
+							"name": "firstLineCare",
+							"value": ""
+						},
+						{
+							"displayValue": "",
+							"name": "referredService",
+							"value": ""
+						},
+						{
+							"displayValue": "",
+							"name": "impliedRisk",
+							"value": ""
+						},
+						{
+							"displayValue": "",
+							"name": "notificationPlan",
+							"value": ""
+						}
+					]
+				},
+				"id": "GT_TEST_ASP_20240530_215115485",
+				"transactions": [
+					{
+						"clientDetails": {
+							"lastName": "Alvarez",
+							"country": "T_GT",
+							"contactTime": "",
+							"comments": "pendiente de contactar",
+							"nickName": "colochito",
+							"sex": "M",
+							"contactDay": "",
+							"socialMediaNetwork": "",
+							"activeUsers": [
+								"GT_TEST_ASP"
+							],
+							"firstName": "Juan",
+							"phoneNumber": "+50222302135",
+							"voucherCodes": [],
+							"creditedUsers": [],
+							"age": "25"
+						},
+						"type": "c_reg"
+					},
+					{
+						"type": "r_add",
+						"relationship": {
+							"date": "2024-05-30T21:51:15.485Z",
+							"clientId": "6658a7384e360399a41c1ee6",
+							"type": "SP-Contact",
+							"dateOfServiceQuery": "YES",
+							"addedType": "contact"
+						}
+					}
+				],
+				"type": "IPC_CLIENT_REL",
+				"ws": {
+					"app": "dws",
+					"configVersion": "CMN_2.0",
+					"softwareVersion": "unknown"
+				},
+				"dc": {
+					"app": "WF-App",
+					"network": "Online"
+				},
+				"processing": {
+					"created": "2024-05-31T22:38:23.000",
+					"history": [
+						{
+							"status": "downloaded",
+							"responseCode": 200,
+							"datetime": "2024-05-31T22:38:23.000",
+							"msg": "Downloaded and synced."
+						}
+					],
+					"status": "downloaded",
+					"syncUpCount": 0,
+					"historyData": {}
+				}
+			}
+		],
+		"_id": "6658f4d74e360399a41c23ab"
+	}
+]
