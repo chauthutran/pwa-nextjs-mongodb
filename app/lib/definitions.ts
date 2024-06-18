@@ -35,3 +35,12 @@ export interface ResponseData {
   message?: string;
   data?: any;
 }
+
+/** For Postgres */
+
+export type User = {
+  username: string;
+  pin: string;
+  fullName: string;
+  phone: string;
+}

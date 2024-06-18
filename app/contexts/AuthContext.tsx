@@ -1,10 +1,10 @@
 "use client";
 
 import React, { createContext, useContext, useState, ReactNode } from 'react';
-import { useRouter } from 'next/router';
 import * as Utils from "@/app/lib/utils";
 import { checkLogin } from '../lib/api';
 import { JSONObject } from '../lib/definitions';
+import * as Constant from '@/app/lib/constants';
 
 interface AuthContextProps {
 	user: JSONObject | null;
@@ -53,6 +53,7 @@ export const AuthProvider = ({ children }: { children: ReactNode }) => {
 			setLoading(false);
 		}
 	};
+
 
 	const logout = () => {
 		setUser(null);

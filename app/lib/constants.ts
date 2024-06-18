@@ -19,3 +19,5 @@ export const UI_CLIENT_DETAILS = "UI_CLIENT_DETAILS";
 export const UI_ADD_CLIENT_FORM = "UI_ADD_CLIENT_FORM";
 
 
+export const DB_MONGO = "DB_MONGO";
+export const DB_POSTGRES = "DB_POSTGRES";

@@ -2,7 +2,7 @@
 
 import { JSONObject, ResponseData } from "@/app/lib/definitions";
 import * as Utils from '../utils';
-import { findDocument, addDocument, updateDocument } from "../db";
+import { findDocument, addDocument, updateDocument } from "../database/mongo";
 import { v4 as uuidv4 } from 'uuid';
 
 
