@@ -10,6 +10,8 @@ export const findData = async( colectionName: string, payloadJson: JSONObject): 
         return Mongodb.findDocument(colectionName, payloadJson);
     }
     return Postgres.findData( colectionName, payloadJson );
+
+    // return Mongodb.findDocument(colectionName, payloadJson);
 }
 
 export const setDatabase = (dbOpt: string) => {

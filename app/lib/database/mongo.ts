@@ -2,8 +2,6 @@ import * as Utils from '@/app/lib/utils';
 import { JSONObject, ResponseData } from '../definitions';
 import { MongoClient, ServerApiVersion, ObjectId } from "mongodb";
 
-import { v4 as uuidv4 } from 'uuid';
-
 
 const MONGODB_URI = process.env.MONGODB_URI as string;
 const MONGODB_DB = process.env.MONGODB_DB as string;
