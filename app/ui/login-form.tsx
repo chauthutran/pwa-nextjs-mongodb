@@ -8,7 +8,7 @@ import { IoKeyOutline } from "react-icons/io5";
 import { useMainUi } from '../contexts/MainUiContext';
 import { useAuth } from '../contexts/AuthContext';
 import * as Constant from '@/app/lib/constants';
-import * as db from "@/app/lib/database";
+import * as db from "@/app/lib/db";
 
 export default function LoginForm() {
 
@@ -16,7 +16,6 @@ export default function LoginForm() {
 	const { setMainUi } = useMainUi();
 	const [username, setUsername] = useState("test1");
 	const [pin, setPin] = useState("1234");
-	const [database, setDatabase] = useState(Constant.DB_MONGO);
 
 	useEffect(() => {
 		if (user != null) {
@@ -25,7 +24,6 @@ export default function LoginForm() {
 	}, [user])
 
 	const loginBtnClick = async () => {
-		db.setDatabase(database);
 		login(username, pin);
 	};
 
@@ -76,29 +74,6 @@ export default function LoginForm() {
 								minLength={4}
 								onChange={(e) => { setPin(e.target.value) }}
 							/>
-							<IoKeyOutline className="pointer-events-none absolute left-3 top-1/2 h-[18px] w-[18px] -translate-y-1/2 text-gray-500 peer-focus:text-gray-900" />
-						</div>
-					</div>
-					<div className="mt-4">
-						<label
-							className="mb-3 mt-5 block text-xs font-medium text-gray-900"
-							htmlFor="database"
-						>
-							Database
-						</label>
-						<div className="relative">
-							<select
-								className="peer block w-full rounded-md border border-gray-200 py-[9px] pl-10 text-sm outline-2 placeholder:text-gray-500"
-								id="database"
-								name="database"
-								placeholder="Enter pin"
-								value={database}
-								required
-								onChange={(e) => { setDatabase(e.target.value) }}
-							>
-								<option value={Constant.DB_MONGO}>Mongodb</option>
-								<option value={Constant.DB_POSTGRES}>Postgres</option>
-							</select>
 							<IoKeyOutline className="pointer-events-none absolute left-3 top-1/2 h-[18px] w-[18px] -translate-y-1/2 text-gray-500 peer-focus:text-gray-900" />
 						</div>
 					</div>
